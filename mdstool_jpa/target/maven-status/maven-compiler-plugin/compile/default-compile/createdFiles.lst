@@ -1,0 +1,6 @@
+com\models\TaggingTaskEntity.class
+com\controllers\WebController.class
+com\models\UsersEntity.class
+com\service\MainTest.class
+com\dao\UserDAO.class
+com\service\UserService.class

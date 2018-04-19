@@ -1,0 +1,4 @@
+entitypackage\UserEntity.class
+entitypackage\MainController.class
+entitypackage\UserRepository.class
+entitypackage\MainTest.class

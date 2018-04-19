@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="NewPersistenceUnit/Hibernate" uuid="3d650b30-bb12-4c81-8e97-d8e5d6f1a9a5">
+      <driver-ref>h2.unified</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml</remarks>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:file:$PROJECT_DIR$/../../1 EE_materials/user_db/user_db_name</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="dataSource" uuid="8e7e6b5b-7be2-400d-82f3-1becacd677c1">
+      <driver-ref>h2.unified</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/src/main/resources/spring-application.xml</remarks>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:file:$PROJECT_DIR$/../../1 EE_materials/user_db/user_db_name</jdbc-url>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+INSERT INTO (ID, NAME, SURNAME)
+values(IFNULL(SELECT MAX(ID) FROM USERS),0)+1, 'name1', 'surname1');
+
+INSERT INTO (ID, NAME, SURNAME)
+values(IFNULL(SELECT MAX(ID) FROM USERS),0)+1, 'name1', 'surname1');
