@@ -15,4 +15,14 @@ public class UserService {
     public List<UsersEntity> getAllUsers(){
         return userDAO.getAllUsers();
     }
+
+//    new: save and update
+    public List<UsersEntity> saveUser(UsersEntity usersEntity){
+        return userDAO.saveNewUserEntity(usersEntity);
+    }
+
+    public List<UsersEntity> updateUser(UsersEntity usersEntity){
+        return userDAO.updateNewUserEntity(usersEntity);
+    }
+
 }

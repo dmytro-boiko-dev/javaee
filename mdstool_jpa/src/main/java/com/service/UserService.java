@@ -13,13 +13,9 @@ public class UserService {
     @Autowired
     private UserDAO userDAO;
 
-    //public List<UsersEntity> getAllUsers(){
-    public List<TaggingTaskEntity> getAllUsers(){
+    public List<UsersEntity> getAllUsers(){
+    //public List<TaggingTaskEntity> getAllUsers(){
         return userDAO.getAllUsers();
     }
 
-//    //new part from spring1
-//    public void setUserDAO(UserDAO userDAO) {
-//        this.userDAO = userDAO;
-//    }
 }

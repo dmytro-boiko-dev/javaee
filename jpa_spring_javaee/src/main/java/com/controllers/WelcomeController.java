@@ -33,7 +33,21 @@ public class WelcomeController {
     public ModelAndView getUsersPage(){
         ModelAndView modelAndView = new ModelAndView("users");
         List<UsersEntity> allUsers = userService.getAllUsers();
-        modelAndView.addObject("userList", allUsers);
+        modelAndView.addObject("usersList", allUsers);
+        return modelAndView;
+    }
+
+
+    @RequestMapping(value = "/users/save", method = RequestMethod.POST)
+    public ModelAndView saveOrUpdateUser(UsersEntity usersEntity){
+        ModelAndView modelAndView = new ModelAndView("users");
+        if(usersEntity.getId() == 0){
+            List<UsersEntity> usersEntityList = userService.saveUser(usersEntity);
+            modelAndView.addObject("usersList", usersEntityList);
+        }else{
+            List<UsersEntity> usersEntityList = userService.updateUser(usersEntity);
+            modelAndView.addObject("usersList", usersEntityList);
+        }
         return modelAndView;
     }
 

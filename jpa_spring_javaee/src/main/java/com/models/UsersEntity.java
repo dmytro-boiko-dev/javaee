@@ -79,7 +79,7 @@ public class UsersEntity {
                 "id=" + id +
                 ", name='" + name + '\'' +
                 ", surname='" + surname + '\'' +
-                ", company=" + company.getAddress() +
+                //", company=" + company.getAddress() +
                 '}';
     }
 }

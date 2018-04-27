@@ -2,6 +2,8 @@ com\dao\UserRepository.class
 com\models\UsersEntity.class
 com\models\CompanyEntity.class
 com\dao\UserDAO.class
+com_2\UserService2.class
+com\services\UserService.class
+com_2\WelcomeController2.class
 com\controllers\WelcomeController.class
 com\controllers\WelcomeServlet.class
-com\services\UserService.class

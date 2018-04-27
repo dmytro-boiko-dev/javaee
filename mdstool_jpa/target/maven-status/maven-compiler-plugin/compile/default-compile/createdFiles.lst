@@ -1,6 +1,7 @@
-com\models\TaggingTaskEntity.class
+com\jsf\UserBeanTest.class
 com\controllers\WebController.class
 com\models\UsersEntity.class
 com\service\MainTest.class
 com\dao\UserDAO.class
+com\models\TaggingTaskEntity.class
 com\service\UserService.class

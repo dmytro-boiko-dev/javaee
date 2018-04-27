@@ -22,7 +22,23 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="localhost_hibernate_test_db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="localhost_hibernate_test_db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="localhost_hibernate_test_db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="hibernate_test_db: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="FileEditorManager">
@@ -30,8 +46,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="112" column="37" selection-start-line="112" selection-start-column="30" selection-end-line="112" selection-end-column="37" />
+            <state relative-caret-position="337">
+              <caret line="104" column="19" selection-start-line="104" selection-start-column="19" selection-end-line="104" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -39,52 +55,53 @@
       <file leaf-file-name="spring-application.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-application.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="51" column="27" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+            <state relative-caret-position="517">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WebController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/controllers/WebController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="20">
+              <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <marker date="1524834469169" expanded="true" signature="295:896" ph="..." />
+                <marker date="1524834469169" expanded="true" signature="1082:1228" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/service/MainTest.java">
+      <file leaf-file-name="index.xhtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/index.xhtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="100">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserDAO.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dao/UserDAO.java">
+      <file leaf-file-name="UserBeanTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jsf/UserBeanTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="26">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#246#247#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#304#305#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#430#431#0" expanded="true" />
+                <element signature="e#462#463#0" expanded="true" />
+                <element signature="e#494#495#0" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
+                <element signature="e#564#565#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -101,6 +118,13 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>servlet-api</find>
+      <find>listener</find>
+      <find>api</find>
+    </findStrings>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -114,15 +138,19 @@
         <option value="$PROJECT_DIR$/src/main/java/com/models/UsersEntity.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/dd49c7f1-ef19-4fe4-ad2a-13edfea983f2/console.sql" />
         <option value="$PROJECT_DIR$/src/main/java/com/dao/TaggingTaskEntity.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/service/UserService.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/UserServiceTest.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/spring-application.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/models/TaggingTaskEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/service/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/resourcesTest" />
+        <option value="$PROJECT_DIR$/src/main/java/com/controllers/WebController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/service/UserService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dao/UserDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/index.xhtml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-application.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jsf/UserBeanTest.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-application.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/controllers/WebController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/service/MainTest.java" />
       </list>
     </option>
   </component>
@@ -152,14 +180,15 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
-    <option name="width" value="1749" />
-    <option name="height" value="1089" />
+    <option name="width" value="1750" />
+    <option name="height" value="1090" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -218,6 +247,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jsf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mdstool_jpa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mdstool_jpa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="models" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -234,6 +272,13 @@
               <item name="mdstool_jpa" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mdstool_jpa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mdstool_jpa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -244,12 +289,20 @@
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="mdstool_jpa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mdstool_jpa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -261,6 +314,10 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java\GIT\mdstool_jpa\src\main\webapp\WEB-INF\templates" />
+      <recent name="D:\java\GIT\mdstool_jpa\src\main\webapp\WEB-INF" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com" />
     </key>
@@ -269,8 +326,8 @@
       <recent name="" />
       <recent name="com.models" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\java\GIT\mdstool_jpa\src\main\webapp\WEB-INF" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\GIT\mdstool_jpa\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -285,7 +342,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainTest">
+  <component name="RunManager" selected="Maven.start servlet">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -464,7 +521,19 @@
       <workItem from="1524048093976" duration="4859000" />
       <workItem from="1524063861995" duration="482000" />
       <workItem from="1524068317965" duration="447000" />
-      <workItem from="1524142860809" duration="3739000" />
+      <workItem from="1524142860809" duration="5083000" />
+      <workItem from="1524214055902" duration="86000" />
+      <workItem from="1524214930630" duration="3497000" />
+      <workItem from="1524294558871" duration="13000" />
+      <workItem from="1524481904831" duration="1331000" />
+      <workItem from="1524570131063" duration="1140000" />
+      <workItem from="1524578832072" duration="1494000" />
+      <workItem from="1524580361092" duration="833000" />
+      <workItem from="1524581350685" duration="1438000" />
+      <workItem from="1524667647407" duration="1407000" />
+      <workItem from="1524732266981" duration="4872000" />
+      <workItem from="1524746095481" duration="7451000" />
+      <workItem from="1524821377878" duration="3724000" />
     </task>
     <servers />
   </component>
@@ -489,7 +558,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58909000" />
+    <option name="totallyTimeSpent" value="87539000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -502,37 +571,37 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1400" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="12" weight="0.32998884" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.32962447" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="bottom" id="Java Enterprise" order="0" weight="0.32998884" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="6" weight="0.3297491" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32910448" />
+      <window_info anchor="right" id="CDI" order="0" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.3310153" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Spring" order="1" weight="0.32998884" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.84979135" />
+      <window_info anchor="bottom" id="Spring" order="1" weight="0.32962447" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32998884" />
-      <window_info id="Persistence" order="0" sideWeight="0.22453223" side_tool="true" visible="true" weight="0.22686568" />
+      <window_info id="Persistence" order="0" sideWeight="0.41666666" side_tool="true" visible="true" weight="0.23059702" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.77546775" visible="true" weight="0.22686568" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.5833333" visible="true" weight="0.23059702" />
+      <window_info anchor="right" id="Bean Validation" order="5" weight="0.32910448" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info anchor="right" id="Database" order="7" weight="0.1880597" />
+      <window_info anchor="right" id="JSF" order="9" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.3991655" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="right" id="Bean Validation" order="5" weight="0.32910448" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.3991655" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32962447" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="right" id="Commander" order="1" weight="0.4" />
       <window_info anchor="bottom" id="Database Console" order="2" weight="0.32962447" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="right" id="CDI" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.32962447" />
     </layout>
@@ -577,36 +646,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-application.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/service/MainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/models/UserEntity.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dao/UserDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/UserServiceTest.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -774,17 +813,32 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/models/UserEntity.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/models/UsersEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/UserServiceTest.java" />
+    <entry file="das://da82de7a-d859-4d2d-8817-8420653b504d/schema/hibernate_test_db/table/user_entity">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/service/UserService.java">
+    <entry file="das://da82de7a-d859-4d2d-8817-8420653b504d/schema/hibernate_test_db/table/users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.jar!/com/mysql/jdbc/ConnectionImpl.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        <state relative-caret-position="144">
+          <caret line="418" selection-start-line="418" selection-end-line="418" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/service/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -795,54 +849,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/UserServiceTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="112" column="37" selection-start-line="112" selection-start-column="30" selection-end-line="112" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-application.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="51" column="27" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dao/UserDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/controllers/WebController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="80">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dao/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/service/MainTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/models/UsersEntity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        <state relative-caret-position="160">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/index.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jsf/UserBeanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-application.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-application.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="104" column="19" selection-start-line="104" selection-start-column="19" selection-end-line="104" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+          <folding>
+            <marker date="1524834469169" expanded="true" signature="295:896" ph="..." />
+            <marker date="1524834469169" expanded="true" signature="1082:1228" ph="..." />
           </folding>
         </state>
       </provider>

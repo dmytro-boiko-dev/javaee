@@ -34,15 +34,6 @@
                         <port>8888</port>
                     </httpConnector>
                 </configuration>
-
-                <!--<dependencies>-->
-                    <!--<dependency>-->
-                        <!--<groupId>com.h2database</groupId>-->
-                        <!--<artifactId>h2</artifactId>-->
-                        <!--<version>1.4.197</version>-->
-                    <!--</dependency>-->
-                <!--</dependencies>-->
-
             </plugin>
 
         </plugins>
@@ -72,8 +63,9 @@
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-core</artifactId>
-            <version>5.2.9.Final</version>
+            <version>5.2.16.Final</version>
         </dependency>
+
         <!-- Apache Commons DBCP -->
         <dependency>
             <groupId>org.apache.commons</groupId>
@@ -111,11 +103,43 @@
         <dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>javax.servlet-api</artifactId>
-            <version>4.0.0</version>
+            <version>3.1.0</version>
         </dependency>
 
-
         <!--end web part-->
+
+        <!--JSF part +++++++++++++++++++++++++++++++++++++++++++++++ -->
+
+        <!-- java ee api -->
+        <dependency>
+            <groupId>javax</groupId>
+            <artifactId>javaee-api</artifactId>
+            <version>7.0</version>
+            <scope>provided</scope>
+        </dependency>
+
+        <!-- JSP Standard Tag Libraries -->
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>jstl</artifactId>
+            <version>1.2</version>
+        </dependency>
+
+        <!-- JSF api and impl -->
+        <dependency>
+            <groupId>javax.faces</groupId>
+            <artifactId>jsf-api</artifactId>
+            <version>2.1</version>
+            <scope>provided</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>com.sun.faces</groupId>
+            <artifactId>jsf-impl</artifactId>
+            <version>2.1.0</version>
+        </dependency>
+
+        <!-- end JSF part +++++++++++++++++++++++++++++++++++++++++++++++ -->
 
     </dependencies>
 </project>

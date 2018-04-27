@@ -18,9 +18,9 @@ public class WebController extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         PrintWriter writer = resp.getWriter();
-        //writer.println("show me the money");
+       // writer.println("show me the money");
 
-        ApplicationContext context = new ClassPathXmlApplicationContext("src/main/webapp/WEB-INF/spring-application.xml");
+        ApplicationContext context = new ClassPathXmlApplicationContext("/spring-application.xml");
         UserDAO userDAO = context.getBean("userDAO", UserDAO.class);
         writer.println(userDAO.getAllUsers());
 

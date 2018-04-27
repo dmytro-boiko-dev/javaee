@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="3" failures="0" name="com.UserServiceTest" time="0.158" errors="0" skipped="0">
+<testsuite tests="3" failures="0" name="com.UserServiceTest" time="0.156" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2018.1"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -62,7 +62,7 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="com.UserServiceTest" name="userRepositoryFindAll" time="0.066"/>
-  <testcase classname="com.UserServiceTest" name="userNamedQuery" time="0.047"/>
-  <testcase classname="com.UserServiceTest" name="userServiceFindAll" time="0.045"/>
+  <testcase classname="com.UserServiceTest" name="userRepositoryFindAll" time="0.078"/>
+  <testcase classname="com.UserServiceTest" name="userNamedQuery" time="0.031"/>
+  <testcase classname="com.UserServiceTest" name="userServiceFindAll" time="0.047"/>
 </testsuite>

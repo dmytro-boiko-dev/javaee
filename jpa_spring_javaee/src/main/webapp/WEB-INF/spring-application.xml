@@ -46,7 +46,7 @@
         <property name="url" value="jdbc:h2:file:D:/java/1 EE_materials/user_db/user_db_name"/>
         <property name="password" value="root"/>
         <property name="username" value="root"/>
-        <!--<property name="driverClassName" value="org.h2.Driver"/>-->
+        <property name="driverClassName" value="org.h2.Driver"/>
     </bean>
 
     <bean id="provider" class="org.hibernate.jpa.HibernatePersistenceProvider"/>
@@ -54,12 +54,12 @@
 
     <!--new-->
     <bean id="resourceResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
-        <property name="prefix" value="/WEB-INF/pages"/>
+        <property name="prefix" value="/WEB-INF/pages/"/>
         <property name="suffix" value=".jsp"/>
 
     </bean>
 
-    <!--WTF !!!!!-->
+    <!-- !!!!!-->
     <bean id="flyway" class="org.flywaydb.core.Flyway" init-method="migrate">
         <property name="baselineOnMigrate" value="true"/>
         <property name="dataSource" ref="dataSource"/>
