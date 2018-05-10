@@ -1,11 +1,30 @@
 package com.jsf;
 
-import javax.faces.bean.ManagedBean;
-import javax.faces.bean.RequestScoped;
+import com.dao.UserDAO;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.jsf.FacesContextUtils;
 
-@ManagedBean
-@RequestScoped
-public class UserBeanTest {
+import javax.annotation.PostConstruct;
+import javax.faces.bean.*;
+import javax.faces.context.FacesContext;
+import java.io.Serializable;
+
+@ManagedBean(name = "userBeanTest")    // JSF
+@ViewScoped                         // JSF
+
+public class UserBeanTest implements Serializable {
+
+    @Autowired
+    private UserDAO userDao;
+
+    @PostConstruct
+    private void init() {
+        FacesContextUtils
+                .getRequiredWebApplicationContext(FacesContext.getCurrentInstance())
+                .getAutowireCapableBeanFactory().autowireBean(this);
+
+    }
+
     private int id;
     private String name;
     private String email;

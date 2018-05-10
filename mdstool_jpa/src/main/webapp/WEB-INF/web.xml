@@ -4,21 +4,21 @@
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
          version="3.1">
 
-    <servlet>
-        <servlet-name>dispatcher</servlet-name>
-        <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
-        <init-param>
-            <param-name>contextConfigLocation</param-name>
-            <param-value>/WEB-INF/spring-application.xml</param-value>
-            <!--<param-value>/webapp/WEB-INF/spring-application.xml</param-value>-->
-        </init-param>
-    </servlet>
+    <!--<servlet>-->
+        <!--<servlet-name>dispatcher</servlet-name>-->
+        <!--<servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>-->
+        <!--<init-param>-->
+            <!--<param-name>contextConfigLocation</param-name>-->
+            <!--<param-value>/WEB-INF/spring-application.xml</param-value>-->
+            <!--&lt;!&ndash;<param-value>/webapp/WEB-INF/spring-application.xml</param-value>&ndash;&gt;-->
+        <!--</init-param>-->
+    <!--</servlet>-->
 
-    <!--redirect all requests to dispatcher-->
-    <servlet-mapping>
-        <servlet-name>dispatcher</servlet-name>
-        <url-pattern>/</url-pattern>
-    </servlet-mapping>
+    <!--&lt;!&ndash;redirect all requests to dispatcher&ndash;&gt;-->
+    <!--<servlet-mapping>-->
+        <!--<servlet-name>dispatcher</servlet-name>-->
+        <!--<url-pattern>/</url-pattern>-->
+    <!--</servlet-mapping>-->
 
     <!--JSF part +++++++++++++++++++++++++++++++++++++++++++++++ -->
     <display-name>JavaServerFaces</display-name>
@@ -47,7 +47,5 @@
         <url-pattern>*.xhtml</url-pattern>
     </servlet-mapping>
 
-
     <!--end JSF part +++++++++++++++++++++++++++++++++++++++++++++++ -->
-
 </web-app>

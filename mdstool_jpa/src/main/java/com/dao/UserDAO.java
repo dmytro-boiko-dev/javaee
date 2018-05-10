@@ -4,11 +4,13 @@ import com.models.TaggingTaskEntity;
 import com.models.UsersEntity;
 import org.springframework.stereotype.Repository;
 
+import javax.faces.bean.RequestScoped;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import java.util.List;
 
 @Repository("userDAO")
+@RequestScoped
 public class UserDAO {
     @PersistenceContext(unitName = "NewPersistenceUnit")
     private EntityManager entityManager;
