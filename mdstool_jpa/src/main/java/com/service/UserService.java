@@ -13,8 +13,8 @@ public class UserService {
     @Autowired
     private UserDAO userDAO;
 
-    public List<UsersEntity> getAllUsers(){
-    //public List<TaggingTaskEntity> getAllUsers(){
+    //public List<UsersEntity> getAllUsers(){
+    public List<TaggingTaskEntity> getAllUsers(){
         return userDAO.getAllUsers();
     }
 

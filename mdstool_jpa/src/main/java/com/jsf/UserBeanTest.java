@@ -1,55 +1,56 @@
-package com.jsf;
-
-import com.dao.UserDAO;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.jsf.FacesContextUtils;
-
-import javax.annotation.PostConstruct;
-import javax.faces.bean.*;
-import javax.faces.context.FacesContext;
-import java.io.Serializable;
-
-@ManagedBean(name = "userBeanTest")    // JSF
-@ViewScoped                         // JSF
-
-public class UserBeanTest implements Serializable {
-
-    @Autowired
-    private UserDAO userDao;
-
-    @PostConstruct
-    private void init() {
-        FacesContextUtils
-                .getRequiredWebApplicationContext(FacesContext.getCurrentInstance())
-                .getAutowireCapableBeanFactory().autowireBean(this);
-
-    }
-
-    private int id;
-    private String name;
-    private String email;
-
-    public int getId() {
-        return id;
-    }
-
-    public void setId(int id) {
-        this.id = id;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public String getEmail() {
-        return email;
-    }
-
-    public void setEmail(String email) {
-        this.email = email;
-    }
-}
+//package com.jsf;
+//
+//import com.dao.UserDAO;
+//import com.models.UsersEntity;
+//
+//import javax.faces.bean.RequestScoped;
+//import javax.inject.Inject;
+//import javax.inject.Named;
+//import java.io.Serializable;
+//import java.util.List;
+//
+////@ManagedBean(name = "userBeanTest")    // JSF
+////@ViewScoped                         // JSF
+//
+//@Named("userBeanTest")
+//@RequestScoped
+//
+//public class UserBeanTest implements Serializable {
+//
+//    @Inject
+//    private UserDAO userDao;
+//
+//    private int id;
+//    private String name;
+//    private String email;
+//
+//    public List<UsersEntity> users() {
+//        return userDao.getAllUsers();
+//    }
+//
+//    public int getId() {
+//        return id;
+//    }
+//
+//    public void setId(int id) {
+//        this.id = id;
+//    }
+//
+//    public String getName() {
+//        return name;
+//    }
+//
+//    public void setName(String name) {
+//        this.name = name;
+//    }
+//
+//    public String getEmail() {
+//        return email;
+//    }
+//
+//    public void setEmail(String email) {
+//        this.email = email;
+//    }
+//
+//
+//}

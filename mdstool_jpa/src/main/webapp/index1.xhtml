@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html" xmlns:f="http://xmlns.jcp.org/jsf/core">
+
+<h:head>
+    <h:outputStylesheet library="css" name="bootstrap.min.css"/>
+    <title>MDS Tool</title>
+
+</h:head>
+
+<h:body>
+
+    <center><h2><h:outputText value="MDS Tool [test]"/></h2></center>
+
+    <!--just for history-->
+    <!--#{userBeanTest.users()}-->
+
+
+    <!--changed form id name-->
+    <h:form id="testForm">
+        <h:dataTable id="testTable"  value="#{ttManagedBean.data()}" var="t" styleClass="table table-striped table-bordered tableUpdated">
+
+            <h:column>
+                <f:facet name="header">id</f:facet>
+                <h:outputText value="#{t.id}" />
+            </h:column>
+
+            <h:column>
+                <f:facet name="header">clusterCount</f:facet>
+                <h:outputText value="#{t.clusterCount}" />
+            </h:column>
+
+            <h:column>
+                <f:facet name="header">clusterCount</f:facet>
+                <h:outputText value="#{t.lastModifiedTime}" />
+            </h:column>
+
+            <h:column>
+                <f:facet name="header">clusterCount</f:facet>
+                <h:outputText value="#{t.lofCount}" />
+            </h:column>
+
+            <h:column>
+                <f:facet name="header">clusterCount</f:facet>
+                <h:outputText value="#{t.merchantId}" />
+            </h:column>
+
+            <h:column>
+                <f:facet name="header">clusterCount</f:facet>
+                <h:outputText value="#{t.merchantName}" />
+            </h:column>
+
+            <h:column>
+                <f:facet name="header">clusterCount</f:facet>
+                <h:outputText value="#{t.messagesCount}" />
+            </h:column>
+
+            <h:column>
+                <f:facet name="header">clusterCount</f:facet>
+                <h:outputText value="#{t.status}" />
+            </h:column>
+
+            <h:column>
+                <f:facet name="header">clusterCount</f:facet>
+                <h:outputText value="#{t.userId}" />
+            </h:column>
+
+
+
+            <h:column>
+                <f:facet name="header"> </f:facet>
+                <h:commandButton value="Open" styleClass="btn btn-primary">
+                </h:commandButton>
+            </h:column>
+        </h:dataTable>
+    </h:form>
+
+
+</h:body>
+</html>
