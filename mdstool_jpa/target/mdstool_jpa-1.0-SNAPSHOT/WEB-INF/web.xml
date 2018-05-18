@@ -23,7 +23,7 @@
 
     <!-- Welcome page -->
     <welcome-file-list>
-        <welcome-file>index1.xhtml</welcome-file>
+        <welcome-file>index.xhtml</welcome-file>
         <!--<welcome-file>index.xhtml</welcome-file>-->
     </welcome-file-list>
 
@@ -49,7 +49,6 @@
         <servlet-name>Faces Servlet</servlet-name>
         <url-pattern>*.xhtml</url-pattern>
     </servlet-mapping>
-
 
     <!--end JSF part +++++++++++++++++++++++++++++++++++++++++++++++ -->
 
