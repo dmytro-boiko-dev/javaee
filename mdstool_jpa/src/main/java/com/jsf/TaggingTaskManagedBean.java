@@ -1,6 +1,6 @@
 package com.jsf;
 
-import com.dao.UserDAO;
+import com.dao.TaggingTaskDAO;
 import com.models.TaggingTaskEntity;
 
 import javax.faces.bean.RequestScoped;
@@ -15,7 +15,7 @@ import java.util.List;
 public class TaggingTaskManagedBean implements Serializable {
 
     @Inject
-    private UserDAO userDao;
+    private TaggingTaskDAO taggingTaskDAO;
 
     private int id;
     private Long clusterCount;
@@ -28,7 +28,7 @@ public class TaggingTaskManagedBean implements Serializable {
     private Integer userId;
 
     public List<TaggingTaskEntity> data() {
-        return userDao.getAllUsers();
+        return taggingTaskDAO.getAllUsers();
     }
 
     public int getId() {

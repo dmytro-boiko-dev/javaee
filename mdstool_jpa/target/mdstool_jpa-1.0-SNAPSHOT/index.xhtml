@@ -27,6 +27,11 @@
                      paginator="true"
                      rows="50">
 
+
+            <p:column exportable="false" width="5%">
+                <p:rowToggler />
+            </p:column>
+
             <p:column>
                 <f:facet name="header">id</f:facet>
                 <h:outputText value="#{t.id}" />
@@ -74,12 +79,101 @@
 
 
 
-            <p:column>
-                <f:facet name="header"> </f:facet>
-                <h:commandButton value="Open" styleClass="btn btn-primary">
-                </h:commandButton>
-            </p:column>
+            <p:rowExpansion>
+
+                <p:dataTable id="testTable1"  value="#{lsManagedBean.data()}" var="ls"
+                             styleClass="table table-striped table-bordered tableUpdated"
+                             paginatorTemplate="{CurrentPageReport} {FirstPageLink} {PreviousPageLink} {PageLinks} {NextPageLink} {LastPageLink} {RowsPerPageDropdown}"
+                             rowsPerPageTemplate="10,20,50"
+                             paginator="true"
+                             rows="10">
+
+                    <p:column exportable="false" width="5%">
+                        <p:rowToggler />
+                    </p:column>
+
+                    <p:column>
+                        <f:facet name="header">messageFilterId</f:facet>
+                        <h:outputText converter="javax.faces.Integer" value="#{ls.messageFilterId}" />
+                    </p:column>
+
+                    <p:column>
+                        <f:facet name="header">comment</f:facet>
+                        <h:outputText converter="javax.faces.Integer" value="#{ls.comment}" />
+                    </p:column>
+
+                    <p:column>
+                        <f:facet name="header">isActive</f:facet>
+                        <h:outputText converter="javax.faces.Integer" value="#{ls.isActive}" />
+                    </p:column>
+
+                    <p:column>
+                        <f:facet name="header">hasError</f:facet>
+                        <h:outputText converter="javax.faces.Integer" value="#{ls.hasError}" />
+                    </p:column>
+
+                    <p:column>
+                        <f:facet name="header">isRecrawled</f:facet>
+                        <h:outputText converter="javax.faces.Integer" value="#{ls.isRecrawled}" />
+                    </p:column>
+
+                    <p:column>
+                        <f:facet name="header">isHeaderDataReady</f:facet>
+                        <h:outputText converter="javax.faces.Integer" value="#{ls.isHeaderDataReady}" />
+                    </p:column>
+
+                    <p:column>
+                        <f:facet name="header">isClusterized</f:facet>
+                        <h:outputText converter="javax.faces.Integer" value="#{ls.isClusterized}" />
+                    </p:column>
+
+                    <p:column>
+                        <f:facet name="header">isFetched</f:facet>
+                        <h:outputText converter="javax.faces.Integer" value="#{ls.isFetched}" />
+                    </p:column>
+
+                    <p:column>
+                        <f:facet name="header">isBbxTagged</f:facet>
+                        <h:outputText converter="javax.faces.Integer" value="#{ls.isBbxTagged}" />
+                    </p:column>
+
+                    <p:column>
+                        <f:facet name="header">isReadyForAfc</f:facet>
+                        <h:outputText converter="javax.faces.Integer" value="#{ls.isReadyForAfc}" />
+                    </p:column>
+
+                    <p:column>
+                        <f:facet name="header">isAfcProcessed</f:facet>
+                        <h:outputText converter="javax.faces.Integer" value="#{ls.isAfcProcessed}" />
+                    </p:column>
+
+                    <p:column>
+                        <f:facet name="header">isAfdProcessed</f:facet>
+                        <h:outputText converter="javax.faces.Integer" value="#{ls.isAfdProcessed}" />
+                    </p:column>
+
+                    <p:column>
+                        <f:facet name="header">lofCreateTime</f:facet>
+                        <h:outputText value="#{ls.lofCreateTime}" />
+                    </p:column>
+
+
+
+
+                </p:dataTable>
+
+            </p:rowExpansion>
+
         </p:dataTable>
+
+        <!--button-->
+        <!--<p:column>-->
+        <!--&lt;!&ndash;<f:facet name="header"> </f:facet>&ndash;&gt;-->
+
+        <!--<h:commandButton value="Open" styleClass="btn btn-primary"-->
+        <!--onclick="this.form.target='_blank'" />-->
+        <!--</p:column>-->
+
     </h:form>
 
 

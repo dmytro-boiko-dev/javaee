@@ -1,7 +1,11 @@
+com\dao\LofStatusDAO.class
+com\jsf\LofStatusManagedBean.class
 com\controllers\WebController.class
 com\models\UsersEntity.class
 com\service\MainTest.class
 com\dao\UserDAO.class
+com\dao\TaggingTaskDAO.class
 com\models\TaggingTaskEntity.class
+com\models\LofStatusEntity.class
 com\jsf\TaggingTaskManagedBean.class
 com\service\UserService.class

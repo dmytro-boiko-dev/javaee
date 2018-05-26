@@ -4,7 +4,7 @@ import javax.persistence.*;
 import java.sql.Timestamp;
 
 @Entity
-@Table(name = "tagging_task", schema = "rdr") //, catalog = "")
+@Table(name = "tagging_task", schema = "rdr")
 public class TaggingTaskEntity {
     private int id;
     private Long clusterCount;
