@@ -23,17 +23,60 @@ public class LofStatusManagedBean implements Serializable {
 
     private long messageFilterId;
     private String comment;
-    private Boolean isActive;
-    private Boolean hasError;
-    private Boolean isRecrawled;
-    private Boolean isHeaderDataReady;
-    private Boolean isClusterized;
-    private Boolean isFetched;
-    private Boolean isBbxTagged;
-    private Boolean isReadyForAfc;
-    private Boolean isAfcProcessed;
-    private Boolean isAfdProcessed;
+    private boolean isActive;
+    private boolean hasError;
+    private boolean isRecrawled;
+    private boolean isHeaderDataReady;
+    private boolean isClusterized;
+    private boolean isFetched;
+    private boolean isBbxTagged;
+    private boolean isReadyForAfc;
+    private boolean isAfcProcessed;
+    private boolean isAfdProcessed;
     private Timestamp lofCreateTime;
+
+
+//fix
+    public boolean isActive() {
+        return isActive;
+    }
+
+    public boolean hasError() {
+        return hasError;
+    }
+
+    public boolean isRecrawled() {
+        return isRecrawled;
+    }
+
+    public boolean isHeaderDataReady() {
+        return isHeaderDataReady;
+    }
+
+    public boolean isClusterized() {
+        return isClusterized;
+    }
+
+    public boolean isFetched() {
+        return isFetched;
+    }
+
+    public boolean isBbxTagged() {
+        return isBbxTagged;
+    }
+
+    public boolean isReadyForAfc() {
+        return isReadyForAfc;
+    }
+
+    public boolean isAfcProcessed() {
+        return isAfcProcessed;
+    }
+
+    public boolean isAfdProcessed() {
+        return isAfdProcessed;
+    }
+//end fix
 
     public long getMessageFilterId() {
         return messageFilterId;
@@ -51,83 +94,83 @@ public class LofStatusManagedBean implements Serializable {
         this.comment = comment;
     }
 
-    public Boolean getActive() {
+    public boolean getActive() {
         return isActive;
     }
 
-    public void setActive(Boolean active) {
+    public void setActive(boolean active) {
         isActive = active;
     }
 
-    public Boolean getHasError() {
+    public boolean getHasError() {
         return hasError;
     }
 
-    public void setHasError(Boolean hasError) {
-        this.hasError = hasError;
+    public void setHasError(boolean hasErr) {
+        this.hasError = hasErr;
     }
 
-    public Boolean getRecrawled() {
+    public boolean getRecrawled() {
         return isRecrawled;
     }
 
-    public void setRecrawled(Boolean recrawled) {
+    public void setRecrawled(boolean recrawled) {
         isRecrawled = recrawled;
     }
 
-    public Boolean getHeaderDataReady() {
+    public boolean getHeaderDataReady() {
         return isHeaderDataReady;
     }
 
-    public void setHeaderDataReady(Boolean headerDataReady) {
+    public void setHeaderDataReady(boolean headerDataReady) {
         isHeaderDataReady = headerDataReady;
     }
 
-    public Boolean getClusterized() {
+    public boolean getClusterized() {
         return isClusterized;
     }
 
-    public void setClusterized(Boolean clusterized) {
+    public void setClusterized(boolean clusterized) {
         isClusterized = clusterized;
     }
 
-    public Boolean getFetched() {
+    public boolean getFetched() {
         return isFetched;
     }
 
-    public void setFetched(Boolean fetched) {
+    public void setFetched(boolean fetched) {
         isFetched = fetched;
     }
 
-    public Boolean getBbxTagged() {
+    public boolean getBbxTagged() {
         return isBbxTagged;
     }
 
-    public void setBbxTagged(Boolean bbxTagged) {
+    public void setBbxTagged(boolean bbxTagged) {
         isBbxTagged = bbxTagged;
     }
 
-    public Boolean getReadyForAfc() {
+    public boolean getReadyForAfc() {
         return isReadyForAfc;
     }
 
-    public void setReadyForAfc(Boolean readyForAfc) {
+    public void setReadyForAfc(boolean readyForAfc) {
         isReadyForAfc = readyForAfc;
     }
 
-    public Boolean getAfcProcessed() {
+    public boolean getAfcProcessed() {
         return isAfcProcessed;
     }
 
-    public void setAfcProcessed(Boolean afcProcessed) {
+    public void setAfcProcessed(boolean afcProcessed) {
         isAfcProcessed = afcProcessed;
     }
 
-    public Boolean getAfdProcessed() {
+    public boolean getAfdProcessed() {
         return isAfdProcessed;
     }
 
-    public void setAfdProcessed(Boolean afdProcessed) {
+    public void setAfdProcessed(boolean afdProcessed) {
         isAfdProcessed = afdProcessed;
     }
 
