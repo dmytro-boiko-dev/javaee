@@ -8,36 +8,18 @@ import java.sql.Timestamp;
 public class LofStatusEntity {
     private long messageFilterId;
     private String comment;
-    private boolean isActive;
-    private boolean hasError;
-    private boolean isRecrawled;
-    private boolean isHeaderDataReady;
-    private boolean isClusterized;
-    private boolean isFetched;
-    private boolean isBbxTagged;
-    private boolean isReadyForAfc;
-    private boolean isAfcProcessed;
-    private boolean isAfdProcessed;
+    private Boolean isActive;
+    private Boolean hasError;
+    private Boolean isRecrawled;
+    private Boolean isHeaderDataReady;
+    private Boolean isClusterized;
+    private Boolean isFetched;
+    private Boolean isBbxTagged;
+    private Boolean isReadyForAfc;
+    private Boolean isAfcProcessed;
+    private Boolean isAfdProcessed;
     private Timestamp lofCreateTime;
 
-    public LofStatusEntity(long messageFilterId, String comment, boolean isActive, boolean hasError, boolean isRecrawled, boolean isHeaderDataReady, boolean isClusterized, boolean isFetched, boolean isBbxTagged, boolean isReadyForAfc, boolean isAfcProcessed, boolean isAfdProcessed, Timestamp lofCreateTime) {
-        this.messageFilterId = messageFilterId;
-        this.comment = comment;
-        this.isActive = isActive;
-        this.hasError = hasError;
-        this.isRecrawled = isRecrawled;
-        this.isHeaderDataReady = isHeaderDataReady;
-        this.isClusterized = isClusterized;
-        this.isFetched = isFetched;
-        this.isBbxTagged = isBbxTagged;
-        this.isReadyForAfc = isReadyForAfc;
-        this.isAfcProcessed = isAfcProcessed;
-        this.isAfdProcessed = isAfdProcessed;
-        this.lofCreateTime = lofCreateTime;
-    }
-
-    public LofStatusEntity() {
-    }
 
     @Id
     @Column(name = "message_filter_id", nullable = false)
@@ -60,143 +42,105 @@ public class LofStatusEntity {
     }
 
 
-    public boolean isActive() {
-        return isActive;
-    }
 
     @Basic
     @Column(name = "is_active", nullable = true)
-    public boolean getActive() {
+    public Boolean getActive() {
         return isActive;
     }
 
-    public void setActive(boolean active) {
+    public void setActive(Boolean active) {
         isActive = active;
     }
 
-    public boolean hasError() {
-        return hasError;
-    }
 
     @Basic
     @Column(name = "has_error", nullable = true)
-    public boolean getHasError() {
+    public Boolean getHasError() {
         return hasError;
     }
 
-    public void setHasError(boolean hasErr) {
-        this.hasError = hasErr;
-    }
-
-    public boolean isRecrawled() {
-        return isRecrawled;
+    public void setHasError(Boolean hasError) {
+        this.hasError = hasError;
     }
 
     @Basic
     @Column(name = "is_recrawled", nullable = true)
-    public boolean getRecrawled() {
+    public Boolean getRecrawled() {
         return isRecrawled;
     }
 
-    public void setRecrawled(boolean recrawled) {
+    public void setRecrawled(Boolean recrawled) {
         isRecrawled = recrawled;
-    }
-
-    public boolean isHeaderDataReady() {
-        return isHeaderDataReady;
     }
 
     @Basic
     @Column(name = "is_header_data_ready", nullable = true)
-    public boolean getHeaderDataReady() {
+    public Boolean getHeaderDataReady() {
         return isHeaderDataReady;
     }
 
-    public void setHeaderDataReady(boolean headerDataReady) {
+    public void setHeaderDataReady(Boolean headerDataReady) {
         isHeaderDataReady = headerDataReady;
-    }
-
-    public boolean isClusterized() {
-        return isClusterized;
     }
 
     @Basic
     @Column(name = "is_clusterized", nullable = true)
-    public boolean getClusterized() {
+    public Boolean getClusterized() {
         return isClusterized;
     }
 
-    public void setClusterized(boolean clusterized) {
+    public void setClusterized(Boolean clusterized) {
         isClusterized = clusterized;
-    }
-
-    public boolean isFetched() {
-        return isFetched;
     }
 
     @Basic
     @Column(name = "is_fetched", nullable = true)
-    public boolean getFetched() {
+    public Boolean getFetched() {
         return isFetched;
     }
 
-    public void setFetched(boolean fetched) {
+    public void setFetched(Boolean fetched) {
         isFetched = fetched;
-    }
-
-    public boolean isBbxTagged() {
-        return isBbxTagged;
     }
 
     @Basic
     @Column(name = "is_bbx_tagged", nullable = true)
-    public boolean getBbxTagged() {
+    public Boolean getBbxTagged() {
         return isBbxTagged;
     }
 
-    public void setBbxTagged(boolean bbxTagged) {
+    public void setBbxTagged(Boolean bbxTagged) {
         isBbxTagged = bbxTagged;
-    }
-
-    public boolean isReadyForAfc() {
-        return isReadyForAfc;
     }
 
     @Basic
     @Column(name = "is_ready_for_afc", nullable = true)
-    public boolean getReadyForAfc() {
+    public Boolean getReadyForAfc() {
         return isReadyForAfc;
     }
 
-    public void setReadyForAfc(boolean readyForAfc) {
+    public void setReadyForAfc(Boolean readyForAfc) {
         isReadyForAfc = readyForAfc;
-    }
-
-    public boolean isAfcProcessed() {
-        return isAfcProcessed;
     }
 
     @Basic
     @Column(name = "is_afc_processed", nullable = true)
-    public boolean getAfcProcessed() {
+    public Boolean getAfcProcessed() {
         return isAfcProcessed;
     }
 
-    public void setAfcProcessed(boolean afcProcessed) {
+    public void setAfcProcessed(Boolean afcProcessed) {
         isAfcProcessed = afcProcessed;
-    }
-
-    public boolean isAfdProcessed() {
-        return isAfdProcessed;
     }
 
     @Basic
     @Column(name = "is_afd_processed", nullable = true)
-    public boolean getAfdProcessed() {
+    public Boolean getAfdProcessed() {
         return isAfdProcessed;
     }
 
-    public void setAfdProcessed(boolean afdProcessed) {
+    public void setAfdProcessed(Boolean afdProcessed) {
         isAfdProcessed = afdProcessed;
     }
 
@@ -219,6 +163,21 @@ public class LofStatusEntity {
 
         if (messageFilterId != that.messageFilterId) return false;
         if (comment != null ? !comment.equals(that.comment) : that.comment != null) return false;
+        if (isActive != null ? !isActive.equals(that.isActive) : that.isActive != null) return false;
+        if (hasError != null ? !hasError.equals(that.hasError) : that.hasError != null) return false;
+        if (isRecrawled != null ? !isRecrawled.equals(that.isRecrawled) : that.isRecrawled != null) return false;
+        if (isHeaderDataReady != null ? !isHeaderDataReady.equals(that.isHeaderDataReady) : that.isHeaderDataReady != null)
+            return false;
+        if (isClusterized != null ? !isClusterized.equals(that.isClusterized) : that.isClusterized != null)
+            return false;
+        if (isFetched != null ? !isFetched.equals(that.isFetched) : that.isFetched != null) return false;
+        if (isBbxTagged != null ? !isBbxTagged.equals(that.isBbxTagged) : that.isBbxTagged != null) return false;
+        if (isReadyForAfc != null ? !isReadyForAfc.equals(that.isReadyForAfc) : that.isReadyForAfc != null)
+            return false;
+        if (isAfcProcessed != null ? !isAfcProcessed.equals(that.isAfcProcessed) : that.isAfcProcessed != null)
+            return false;
+        if (isAfdProcessed != null ? !isAfdProcessed.equals(that.isAfdProcessed) : that.isAfdProcessed != null)
+            return false;
         if (lofCreateTime != null ? !lofCreateTime.equals(that.lofCreateTime) : that.lofCreateTime != null)
             return false;
 
@@ -229,6 +188,16 @@ public class LofStatusEntity {
     public int hashCode() {
         int result = (int) (messageFilterId ^ (messageFilterId >>> 32));
         result = 31 * result + (comment != null ? comment.hashCode() : 0);
+        result = 31 * result + (isActive != null ? isActive.hashCode() : 0);
+        result = 31 * result + (hasError != null ? hasError.hashCode() : 0);
+        result = 31 * result + (isRecrawled != null ? isRecrawled.hashCode() : 0);
+        result = 31 * result + (isHeaderDataReady != null ? isHeaderDataReady.hashCode() : 0);
+        result = 31 * result + (isClusterized != null ? isClusterized.hashCode() : 0);
+        result = 31 * result + (isFetched != null ? isFetched.hashCode() : 0);
+        result = 31 * result + (isBbxTagged != null ? isBbxTagged.hashCode() : 0);
+        result = 31 * result + (isReadyForAfc != null ? isReadyForAfc.hashCode() : 0);
+        result = 31 * result + (isAfcProcessed != null ? isAfcProcessed.hashCode() : 0);
+        result = 31 * result + (isAfdProcessed != null ? isAfdProcessed.hashCode() : 0);
         result = 31 * result + (lofCreateTime != null ? lofCreateTime.hashCode() : 0);
         return result;
     }
@@ -238,8 +207,17 @@ public class LofStatusEntity {
         return "LofStatusEntity{" +
                 "messageFilterId=" + messageFilterId +
                 ", comment='" + comment + '\'' +
+                ", isActive=" + isActive +
+                ", hasError=" + hasError +
+                ", isRecrawled=" + isRecrawled +
+                ", isHeaderDataReady=" + isHeaderDataReady +
+                ", isClusterized=" + isClusterized +
+                ", isFetched=" + isFetched +
+                ", isBbxTagged=" + isBbxTagged +
+                ", isReadyForAfc=" + isReadyForAfc +
+                ", isAfcProcessed=" + isAfcProcessed +
+                ", isAfdProcessed=" + isAfdProcessed +
                 ", lofCreateTime=" + lofCreateTime +
                 '}';
     }
 }
-
