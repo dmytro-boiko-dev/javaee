@@ -38,7 +38,7 @@ public class LofStatusEntity {
     //end new dependency
 
 
-    //new
+//new
 //    @Basic
 //    @Column(name = "tagging_task_id", nullable = false)
 //    public Integer getTaggingTaskId() {
@@ -48,7 +48,7 @@ public class LofStatusEntity {
 //    public void setTaggingTaskId(Integer taggingTaskId) {
 //        this.taggingTaskId = taggingTaskId;
 //    }
-    //end new
+//end new
 
     @Id
     @Column(name = "message_filter_id", nullable = false)
@@ -69,7 +69,6 @@ public class LofStatusEntity {
     public void setComment(String comment) {
         this.comment = comment;
     }
-
 
 
     @Basic
@@ -210,9 +209,7 @@ public class LofStatusEntity {
             return false;
         if (lofCreateTime != null ? !lofCreateTime.equals(that.lofCreateTime) : that.lofCreateTime != null)
             return false;
-    //new
 //        if (taggingTaskId != that.taggingTaskId) return false;
-
         return true;
     }
 
@@ -231,12 +228,10 @@ public class LofStatusEntity {
         result = 31 * result + (isAfcProcessed != null ? isAfcProcessed.hashCode() : 0);
         result = 31 * result + (isAfdProcessed != null ? isAfdProcessed.hashCode() : 0);
         result = 31 * result + (lofCreateTime != null ? lofCreateTime.hashCode() : 0);
-    //new
-//        result = 31 * result + (taggingTaskId != null ? taggingTaskId.hashCode() : 0);
+//      result = 31 * result + (taggingTaskId != null ? taggingTaskId.hashCode() : 0);
 
         return result;
     }
-
 
 
     @Override

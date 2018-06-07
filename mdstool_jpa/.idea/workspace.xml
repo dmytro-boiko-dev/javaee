@@ -43,11 +43,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.xhtml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.xhtml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.xhtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="84" column="57" lean-forward="true" selection-start-line="84" selection-start-column="57" selection-end-line="84" selection-end-column="57" />
+            <state relative-caret-position="60">
+              <caret line="84" column="57" selection-start-line="84" selection-start-column="57" selection-end-line="84" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -64,8 +64,8 @@
       <file leaf-file-name="TaggingTaskEntity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/models/TaggingTaskEntity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+            <state relative-caret-position="397">
+              <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
               <folding>
                 <element signature="e#628#629#0" expanded="true" />
                 <element signature="e#668#669#0" expanded="true" />
@@ -74,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LofStatusEntity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LofStatusEntity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/models/LofStatusEntity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="28" column="39" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="39" />
+            <state relative-caret-position="2820">
+              <caret line="211" column="63" selection-start-line="211" selection-start-column="63" selection-end-line="211" selection-end-column="63" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#822#823#0" expanded="true" />
@@ -91,14 +91,16 @@
       <file leaf-file-name="LofStatusManagedBean.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jsf/LofStatusManagedBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="243">
+              <caret line="43" selection-start-line="43" selection-start-column="2" selection-end-line="53" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#562#563#0" expanded="true" />
                 <element signature="e#611#612#0" expanded="true" />
-                <element signature="e#1267#1268#0" expanded="true" />
-                <element signature="e#1307#1308#0" expanded="true" />
+                <element signature="e#1523#1524#0" expanded="true" />
+                <element signature="e#1559#1560#0" expanded="true" />
+                <element signature="e#1618#1619#0" expanded="true" />
+                <element signature="e#1668#1669#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -107,12 +109,12 @@
       <file leaf-file-name="TaggingTaskManagedBean.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jsf/TaggingTaskManagedBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+            <state relative-caret-position="63">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1031#1032#0" expanded="true" />
-                <element signature="e#1071#1072#0" expanded="true" />
+                <element signature="e#806#807#0" expanded="true" />
+                <element signature="e#857#858#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -173,11 +175,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/dao/TaggingTaskDAO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dao/LofStatusDAO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/models/ClusterEntity.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/models/TaggingTaskEntity.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/models/LofStatusEntity.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.xhtml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jsf/TaggingTaskManagedBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/models/TaggingTaskEntity.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jsf/LofStatusManagedBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jsf/TaggingTaskManagedBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/models/LofStatusEntity.java" />
       </list>
     </option>
   </component>
@@ -668,7 +670,7 @@
       <workItem from="1527867136934" duration="770000" />
       <workItem from="1528120645382" duration="720000" />
       <workItem from="1528286666296" duration="5782000" />
-      <workItem from="1528361549728" duration="3865000" />
+      <workItem from="1528361549728" duration="9075000" />
     </task>
     <servers />
   </component>
@@ -693,7 +695,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="235632000" />
+    <option name="totallyTimeSpent" value="240842000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -705,7 +707,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1400" height="878" extended-state="6" />
+    <frame x="-7" y="-7" width="1400" height="878" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
@@ -717,12 +719,12 @@
       <window_info anchor="bottom" id="Database Changes" order="15" />
       <window_info anchor="right" id="CDI" order="0" weight="0.32985073" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.43115437" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.6689847" />
       <window_info anchor="bottom" id="Spring" order="1" weight="0.32962447" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32998884" />
-      <window_info id="Persistence" order="0" sideWeight="0.28789985" side_tool="true" visible="true" weight="0.22761194" />
+      <window_info id="Persistence" order="0" sideWeight="0.28991598" side_tool="true" visible="true" weight="0.22761194" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.71210015" visible="true" weight="0.22761194" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.710084" visible="true" weight="0.22761194" />
       <window_info anchor="right" id="Bean Validation" order="5" weight="0.32910448" />
       <window_info id="Web" order="5" side_tool="true" />
       <window_info anchor="right" id="Database" order="7" weight="0.1880597" />
@@ -1020,48 +1022,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jsf/TaggingTaskManagedBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1031#1032#0" expanded="true" />
-            <element signature="e#1071#1072#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jsf/LofStatusManagedBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="243">
+          <caret line="43" selection-start-line="43" selection-start-column="2" selection-end-line="53" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#562#563#0" expanded="true" />
             <element signature="e#611#612#0" expanded="true" />
-            <element signature="e#1267#1268#0" expanded="true" />
-            <element signature="e#1307#1308#0" expanded="true" />
+            <element signature="e#1523#1524#0" expanded="true" />
+            <element signature="e#1559#1560#0" expanded="true" />
+            <element signature="e#1618#1619#0" expanded="true" />
+            <element signature="e#1668#1669#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/models/LofStatusEntity.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jsf/TaggingTaskManagedBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="28" column="39" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="39" />
+        <state relative-caret-position="63">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#822#823#0" expanded="true" />
-            <element signature="e#862#863#0" expanded="true" />
+            <element signature="e#806#807#0" expanded="true" />
+            <element signature="e#857#858#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="84" column="57" selection-start-line="84" selection-start-column="57" selection-end-line="84" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/models/TaggingTaskEntity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        <state relative-caret-position="397">
+          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
           <folding>
             <element signature="e#628#629#0" expanded="true" />
             <element signature="e#668#669#0" expanded="true" />
@@ -1069,10 +1068,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.xhtml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/models/LofStatusEntity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="84" column="57" lean-forward="true" selection-start-line="84" selection-start-column="57" selection-end-line="84" selection-end-column="57" />
+        <state relative-caret-position="2820">
+          <caret line="211" column="63" selection-start-line="211" selection-start-column="63" selection-end-line="211" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#822#823#0" expanded="true" />
+            <element signature="e#862#863#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

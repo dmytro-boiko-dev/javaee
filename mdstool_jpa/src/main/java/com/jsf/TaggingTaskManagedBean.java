@@ -33,17 +33,18 @@ public class TaggingTaskManagedBean implements Serializable {
         return taggingTaskDAO.getAllUsers();
     }
 
-    //new dep
-    private List<LofStatusEntity> lofStatusEntities;
+//new dep
 
-    @OneToMany(mappedBy = "taggingTaskEntity")
-    public List<LofStatusEntity> getLofStatusEntities() {
-        return lofStatusEntities;
-    }
-
-    public void setLofStatusEntities(List<LofStatusEntity> lofStatusEntities) {
-        this.lofStatusEntities = lofStatusEntities;
-    }
+//    private List<LofStatusEntity> lofStatusEntities;
+//
+//    @OneToMany(mappedBy = "taggingTaskEntity")
+//    public List<LofStatusEntity> getLofStatusEntities() {
+//        return lofStatusEntities;
+//    }
+//
+//    public void setLofStatusEntities(List<LofStatusEntity> lofStatusEntities) {
+//        this.lofStatusEntities = lofStatusEntities;
+//    }
 
 //end new dep
 
