@@ -19,7 +19,36 @@ public class LofStatusEntity {
     private Boolean isAfcProcessed;
     private Boolean isAfdProcessed;
     private Timestamp lofCreateTime;
+//    private Integer taggingTaskId; //new
 
+
+    //new dependency
+    private TaggingTaskEntity taggingTaskEntity;
+
+    @ManyToOne
+    @JoinColumn(name = "tagging_task_id")
+    public TaggingTaskEntity getTaggingTaskEntity() {
+        return taggingTaskEntity;
+    }
+
+    public void setTaggingTaskEntity(TaggingTaskEntity taggingTaskEntity) {
+        this.taggingTaskEntity = taggingTaskEntity;
+    }
+
+    //end new dependency
+
+
+    //new
+//    @Basic
+//    @Column(name = "tagging_task_id", nullable = false)
+//    public Integer getTaggingTaskId() {
+//        return taggingTaskId;
+//    }
+//
+//    public void setTaggingTaskId(Integer taggingTaskId) {
+//        this.taggingTaskId = taggingTaskId;
+//    }
+    //end new
 
     @Id
     @Column(name = "message_filter_id", nullable = false)
@@ -154,6 +183,7 @@ public class LofStatusEntity {
         this.lofCreateTime = lofCreateTime;
     }
 
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
@@ -180,6 +210,8 @@ public class LofStatusEntity {
             return false;
         if (lofCreateTime != null ? !lofCreateTime.equals(that.lofCreateTime) : that.lofCreateTime != null)
             return false;
+    //new
+//        if (taggingTaskId != that.taggingTaskId) return false;
 
         return true;
     }
@@ -199,8 +231,13 @@ public class LofStatusEntity {
         result = 31 * result + (isAfcProcessed != null ? isAfcProcessed.hashCode() : 0);
         result = 31 * result + (isAfdProcessed != null ? isAfdProcessed.hashCode() : 0);
         result = 31 * result + (lofCreateTime != null ? lofCreateTime.hashCode() : 0);
+    //new
+//        result = 31 * result + (taggingTaskId != null ? taggingTaskId.hashCode() : 0);
+
         return result;
     }
+
+
 
     @Override
     public String toString() {
@@ -218,6 +255,7 @@ public class LofStatusEntity {
                 ", isAfcProcessed=" + isAfcProcessed +
                 ", isAfdProcessed=" + isAfdProcessed +
                 ", lofCreateTime=" + lofCreateTime +
+//                ", taggingTaskId=" + taggingTaskId +    //new
                 '}';
     }
 }

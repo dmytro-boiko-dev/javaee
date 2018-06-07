@@ -2,6 +2,7 @@ package com.models;
 
 import javax.persistence.*;
 import java.sql.Timestamp;
+import java.util.List;
 
 @Entity
 @Table(name = "tagging_task", schema = "rdr")
@@ -15,6 +16,19 @@ public class TaggingTaskEntity {
     private Long messagesCount;
     private String status;
     private Integer userId;
+
+    //new
+    private List<LofStatusEntity> lofStatusEntities;
+
+    @OneToMany(mappedBy = "taggingTaskEntity")
+    public List<LofStatusEntity> getLofStatusEntities() {
+        return lofStatusEntities;
+    }
+
+    public void setLofStatusEntities(List<LofStatusEntity> lofStatusEntities) {
+        this.lofStatusEntities = lofStatusEntities;
+    }
+    //end new
 
     @Id
     @Column(name = "id", nullable = false)

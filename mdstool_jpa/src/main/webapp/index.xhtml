@@ -20,7 +20,7 @@
 
     <h:form id="testForm">
 
-        <p:dataTable id="testTable"  value="#{ttManagedBean.data()}" var="t"
+        <p:dataTable id="taggingTask"  value="#{ttManagedBean.data()}" var="t"
                      styleClass="table table-striped table-bordered tableUpdated"
                      paginatorTemplate="{CurrentPageReport} {FirstPageLink} {PreviousPageLink} {PageLinks} {NextPageLink} {LastPageLink} {RowsPerPageDropdown}"
                      rowsPerPageTemplate="10,20,50"
@@ -43,37 +43,37 @@
             </p:column>
 
             <p:column>
-                <f:facet name="header">clusterCount</f:facet>
+                <f:facet name="header">lastModifiedTime</f:facet>
                 <h:outputText value="#{t.lastModifiedTime}" />
             </p:column>
 
             <p:column>
-                <f:facet name="header">clusterCount</f:facet>
+                <f:facet name="header">lofCount</f:facet>
                 <h:outputText value="#{t.lofCount}" />
             </p:column>
 
             <p:column>
-                <f:facet name="header">clusterCount</f:facet>
+                <f:facet name="header">merchantId</f:facet>
                 <h:outputText value="#{t.merchantId}" />
             </p:column>
 
             <p:column>
-                <f:facet name="header">clusterCount</f:facet>
+                <f:facet name="header">merchantName</f:facet>
                 <h:outputText value="#{t.merchantName}" />
             </p:column>
 
             <p:column>
-                <f:facet name="header">clusterCount</f:facet>
+                <f:facet name="header">messagesCount</f:facet>
                 <h:outputText value="#{t.messagesCount}" />
             </p:column>
 
             <p:column>
-                <f:facet name="header">clusterCount</f:facet>
+                <f:facet name="header">status</f:facet>
                 <h:outputText value="#{t.status}" />
             </p:column>
 
             <p:column>
-                <f:facet name="header">clusterCount</f:facet>
+                <f:facet name="header">userId</f:facet>
                 <h:outputText value="#{t.userId}" />
             </p:column>
 
@@ -81,7 +81,9 @@
 
             <p:rowExpansion>
 
-                <p:dataTable id="testTable1"  value="#{lsManagedBean.data()}" var="ls"
+                <p:dataTable id="lof"
+                             value="#{lsManagedBean.lofData()}"
+                             var="ls"
                              styleClass="table table-striped table-bordered tableUpdated"
                              paginatorTemplate="{CurrentPageReport} {FirstPageLink} {PreviousPageLink} {PageLinks} {NextPageLink} {LastPageLink} {RowsPerPageDropdown}"
                              rowsPerPageTemplate="10,20,50"
