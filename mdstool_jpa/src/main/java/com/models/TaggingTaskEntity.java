@@ -21,6 +21,8 @@ public class TaggingTaskEntity {
     private List<LofStatusEntity> lofStatusEntities;
 
     @OneToMany(mappedBy = "taggingTaskEntity")
+//    @OneToMany
+  //  @JoinColumn(name = "id")
     public List<LofStatusEntity> getLofStatusEntities() {
         return lofStatusEntities;
     }

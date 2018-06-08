@@ -38,23 +38,9 @@ public class LofStatusManagedBean implements Serializable {
     private Boolean isAfcProcessed;
     private Boolean isAfdProcessed;
     private Timestamp lofCreateTime;
-    private Integer taggingTaskId; //new
+    private Integer taggingTaskId;
 
-//new dependencies
-//private TaggingTaskEntity taggingTaskEntity;
-//
-//    @ManyToOne
-//    @JoinColumn(name = "tagging_task_id")
-//    public TaggingTaskEntity getTaggingTaskEntity() {
-//        return taggingTaskEntity;
-//    }
-//
-//    public void setTaggingTaskEntity(TaggingTaskEntity taggingTaskEntity) {
-//        this.taggingTaskEntity = taggingTaskEntity;
-//    }
-//end new dependencies
-
-    //new down
+//new
     public Integer getTaggingTaskId() {
         return taggingTaskId;
     }

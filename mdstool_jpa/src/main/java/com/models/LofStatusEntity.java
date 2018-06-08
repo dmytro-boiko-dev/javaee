@@ -19,10 +19,10 @@ public class LofStatusEntity {
     private Boolean isAfcProcessed;
     private Boolean isAfdProcessed;
     private Timestamp lofCreateTime;
-//    private Integer taggingTaskId; //new
+    private Integer taggingTaskId;
 
 
-    //new dependency
+//new dependency
     private TaggingTaskEntity taggingTaskEntity;
 
     @ManyToOne
@@ -35,19 +35,19 @@ public class LofStatusEntity {
         this.taggingTaskEntity = taggingTaskEntity;
     }
 
-    //end new dependency
+//end new dependency
 
 
 //new
-//    @Basic
-//    @Column(name = "tagging_task_id", nullable = false)
-//    public Integer getTaggingTaskId() {
-//        return taggingTaskId;
-//    }
-//
-//    public void setTaggingTaskId(Integer taggingTaskId) {
-//        this.taggingTaskId = taggingTaskId;
-//    }
+    @Basic
+    @Column(name = "tagging_task_id", nullable = true)
+    public Integer getTaggingTaskId() {
+        return taggingTaskId;
+    }
+
+    public void setTaggingTaskId(Integer taggingTaskId) {
+        this.taggingTaskId = taggingTaskId;
+    }
 //end new
 
     @Id
@@ -209,7 +209,10 @@ public class LofStatusEntity {
             return false;
         if (lofCreateTime != null ? !lofCreateTime.equals(that.lofCreateTime) : that.lofCreateTime != null)
             return false;
-//        if (taggingTaskId != that.taggingTaskId) return false;
+//    new
+        if (taggingTaskId != null ? !taggingTaskId.equals(that.taggingTaskId) : that.taggingTaskId != null)
+            return false;
+//    end new
         return true;
     }
 
@@ -228,7 +231,8 @@ public class LofStatusEntity {
         result = 31 * result + (isAfcProcessed != null ? isAfcProcessed.hashCode() : 0);
         result = 31 * result + (isAfdProcessed != null ? isAfdProcessed.hashCode() : 0);
         result = 31 * result + (lofCreateTime != null ? lofCreateTime.hashCode() : 0);
-//      result = 31 * result + (taggingTaskId != null ? taggingTaskId.hashCode() : 0);
+//    new
+        result = 31 * result + (taggingTaskId != null ? taggingTaskId.hashCode() : 0);
 
         return result;
     }
@@ -250,7 +254,8 @@ public class LofStatusEntity {
                 ", isAfcProcessed=" + isAfcProcessed +
                 ", isAfdProcessed=" + isAfdProcessed +
                 ", lofCreateTime=" + lofCreateTime +
-//                ", taggingTaskId=" + taggingTaskId +    //new
+                //new
+                ", taggingTaskId=" + taggingTaskId +
                 '}';
     }
 }
