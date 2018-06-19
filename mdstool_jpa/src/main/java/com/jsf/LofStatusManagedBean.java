@@ -1,29 +1,22 @@
 package com.jsf;
 
-import com.dao.LofStatusDAO;
-import com.models.LofStatusEntity;
 import com.models.TaggingTaskEntity;
-
 import javax.faces.bean.RequestScoped;
-import javax.inject.Inject;
 import javax.inject.Named;
-import javax.persistence.JoinColumn;
-import javax.persistence.ManyToOne;
 import java.io.Serializable;
 import java.sql.Timestamp;
-import java.util.List;
 
 
 @Named("lsManagedBean")
 @RequestScoped
 public class LofStatusManagedBean implements Serializable {
 
-    @Inject
-    private LofStatusDAO lofStatusDAO;
-
-    public List<LofStatusEntity> lofData(){
-        return lofStatusDAO.getAllUsers();
-    }
+//    @Inject
+//    private LofStatusDAO lofStatusDAO;
+//
+//    public List<LofStatusEntity> lofData(){
+//        return lofStatusDAO.getAllUsers();
+//    }
 
     private long messageFilterId;
     private String comment;
@@ -38,17 +31,21 @@ public class LofStatusManagedBean implements Serializable {
     private Boolean isAfcProcessed;
     private Boolean isAfdProcessed;
     private Timestamp lofCreateTime;
-    private Integer taggingTaskId;
+    private TaggingTaskEntity taggingTaskEntity;
 
-//new
-    public Integer getTaggingTaskId() {
-        return taggingTaskId;
+
+
+    public TaggingTaskEntity getTaggingTaskEntity() {
+        return taggingTaskEntity;
     }
 
-    public void setTaggingTaskId(Integer taggingTaskId) {
-        this.taggingTaskId = taggingTaskId;
+    public void setTaggingTaskEntity(TaggingTaskEntity taggingTaskEntity) {
+        this.taggingTaskEntity = taggingTaskEntity;
     }
-//new up
+
+
+
+
     public long getMessageFilterId() {
         return messageFilterId;
     }

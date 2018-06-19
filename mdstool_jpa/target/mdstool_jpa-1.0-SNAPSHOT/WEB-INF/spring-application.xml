@@ -19,8 +19,8 @@
         <property name="jpaProperties">
             <props>
                 <prop key="hibernate.archive.autodetection">class</prop>
-                <prop key="hibernate.show_sql"></prop>
-                <prop key="hibernate.format_sql"></prop>
+                <prop key="hibernate.show_sql">true</prop>
+                <prop key="hibernate.format_sql">true</prop>
                 <prop key="hibernate.dialect">org.hibernate.dialect.MySQL5Dialect</prop>
             </props>
         </property>
@@ -50,6 +50,7 @@
 
     <context:component-scan base-package="com"/>
     <tx:annotation-driven/>
+
 
 
 </beans>

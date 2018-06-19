@@ -43,33 +43,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.xhtml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.xhtml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.xhtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="84" column="49" selection-start-line="84" selection-start-column="49" selection-end-line="84" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="740">
-              <caret line="37" column="51" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TaggingTaskEntity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/models/TaggingTaskEntity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-              <folding>
-                <element signature="e#674#675#0" expanded="true" />
-                <element signature="e#714#715#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="217">
+              <caret line="84" column="60" selection-start-line="84" selection-start-column="60" selection-end-line="84" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -77,16 +55,12 @@
       <file leaf-file-name="LofStatusEntity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/models/LofStatusEntity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="41" column="10" lean-forward="true" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+            <state relative-caret-position="500">
+              <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#822#823#0" expanded="true" />
-                <element signature="e#862#863#0" expanded="true" />
-                <element signature="e#1135#1136#0" expanded="true" />
-                <element signature="e#1163#1164#0" expanded="true" />
-                <element signature="e#1222#1223#0" expanded="true" />
-                <element signature="e#1272#1273#0" expanded="true" />
+                <element signature="e#783#784#0" expanded="true" />
+                <element signature="e#823#824#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -95,16 +69,22 @@
       <file leaf-file-name="LofStatusManagedBean.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jsf/LofStatusManagedBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+            <state relative-caret-position="200">
+              <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#562#563#0" expanded="true" />
-                <element signature="e#611#612#0" expanded="true" />
-                <element signature="e#1135#1136#0" expanded="true" />
-                <element signature="e#1171#1172#0" expanded="true" />
-                <element signature="e#1230#1231#0" expanded="true" />
-                <element signature="e#1280#1281#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TaggingTaskEntity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/models/TaggingTaskEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -113,12 +93,40 @@
       <file leaf-file-name="TaggingTaskManagedBean.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jsf/TaggingTaskManagedBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+            <state relative-caret-position="297">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
-                <element signature="e#541#542#0" expanded="true" />
-                <element signature="e#592#593#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#524#525#0" expanded="true" />
+                <element signature="e#575#576#0" expanded="true" />
+                <element signature="e#672#673#0" expanded="true" />
+                <element signature="e#721#722#0" expanded="true" />
+                <element signature="e#1107#1108#0" expanded="true" />
+                <element signature="e#1147#1148#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/DataTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
+                <element signature="e#323#324#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LofStatusDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dao/LofStatusDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -165,7 +173,6 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/table-style.css" />
         <option value="$PROJECT_DIR$/src/main/java/com/dao/UserDAO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jsf/UserBeanTest.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-application.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/service/UserService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/models/UsersEntity.java" />
         <option value="$PROJECT_DIR$/src/main/resources/spring-application.xml" />
@@ -173,17 +180,19 @@
         <option value="$PROJECT_DIR$/src/main/webapp/resources/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/index1.xhtml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/lof.xhtml" />
         <option value="$PROJECT_DIR$/src/main/java/com/dao/TaggingTaskDAO.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dao/LofStatusDAO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/models/ClusterEntity.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/index.xhtml" />
         <option value="$PROJECT_DIR$/src/main/java/com/models/LofStatusEntityTest.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-application.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dao/LofStatusDAO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/models/LofStatusEntity.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/models/TaggingTaskEntity.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jsf/LofStatusManagedBean.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jsf/TaggingTaskManagedBean.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.xhtml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/DataTest.java" />
       </list>
     </option>
   </component>
@@ -211,18 +220,18 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="1750" />
     <option name="height" value="1090" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="true" />
+      <hideEmptyPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -254,52 +263,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mdstool_jpa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mdstool_jpa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mdstool_jpa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mdstool_jpa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mdstool_jpa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mdstool_jpa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jsf" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mdstool_jpa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mdstool_jpa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mdstool_jpa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mdstool_jpa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mdstool_jpa" type="b2602c69:ProjectViewProjectNode" />
@@ -340,15 +304,38 @@
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="mdstool_jpa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mdstool_jpa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mdstool_jpa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mdstool_jpa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mdstool_jpa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mdstool_jpa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="JPA.DatabaseSchemaImportDialog" value="dd49c7f1-ef19-4fe4-ad2a-13edfea983f2" />
-    <property name="SearchEverywhereHistoryKey" value="@Id&#9;PSI&#9;JAVA://javax.persistence.Id" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/java/GIT/mdstool_jpa/src/test/java/com/DataTest.java&#10;@Id&#9;PSI&#9;JAVA://javax.persistence.Id" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
@@ -358,23 +345,23 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\java\GIT\mdstool_jpa\src\main\webapp" />
-      <recent name="D:\java\GIT\mdstool_jpa\src\main\webapp\resources\css" />
-      <recent name="D:\java\GIT\mdstool_jpa\src\main\webapp\WEB-INF" />
-      <recent name="D:\java\GIT\mdstool_jpa\src\main\webapp\WEB-INF\templates" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\GIT\mdstool_jpa\src\main\webapp" />
+      <recent name="D:\java\GIT\mdstool_jpa\src\main\resources" />
     </key>
     <key name="ImportMappingsDialog.RecentPackages">
       <recent name="com.models" />
       <recent name="" />
       <recent name="dao" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\java\GIT\mdstool_jpa\src\main\webapp" />
-      <recent name="D:\java\GIT\mdstool_jpa\src\main\resources" />
+      <recent name="D:\java\GIT\mdstool_jpa\src\main\webapp\resources\css" />
+      <recent name="D:\java\GIT\mdstool_jpa\src\main\webapp\WEB-INF" />
+      <recent name="D:\java\GIT\mdstool_jpa\src\main\webapp\WEB-INF\templates" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -389,9 +376,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Maven.start servlet">
+  <component name="RunManager" selected="Application.DataTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="DataTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.DataTest" />
+      <module name="mdstool_jpa" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.service.MainTest" />
@@ -596,9 +594,11 @@
       <item itemvalue="Application.MainTest" />
       <item itemvalue="JUnit.UserServiceTest" />
       <item itemvalue="JUnit.UserServiceTest.userServiceFindAll" />
+      <item itemvalue="Application.DataTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DataTest" />
         <item itemvalue="Application.MainTest" />
         <item itemvalue="JUnit.UserServiceTest.userServiceFindAll" />
         <item itemvalue="JUnit.UserServiceTest" />
@@ -675,7 +675,18 @@
       <workItem from="1528120645382" duration="720000" />
       <workItem from="1528286666296" duration="5782000" />
       <workItem from="1528361549728" duration="11183000" />
-      <workItem from="1528449278139" duration="3204000" />
+      <workItem from="1528449278139" duration="6939000" />
+      <workItem from="1528466548715" duration="1525000" />
+      <workItem from="1528802463704" duration="5558000" />
+      <workItem from="1528884780669" duration="4651000" />
+      <workItem from="1528896797695" duration="3885000" />
+      <workItem from="1528983151854" duration="2187000" />
+      <workItem from="1529053796349" duration="672000" />
+      <workItem from="1529228816243" duration="1850000" />
+      <workItem from="1529317988252" duration="4808000" />
+      <workItem from="1529326430397" duration="5721000" />
+      <workItem from="1529336053035" duration="1335000" />
+      <workItem from="1529409773722" duration="5376000" />
     </task>
     <servers />
   </component>
@@ -700,7 +711,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="246154000" />
+    <option name="totallyTimeSpent" value="287457000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -712,38 +723,38 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1400" height="878" extended-state="7" />
+    <frame x="-7" y="-7" width="1400" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="bottom" id="TODO" order="13" weight="0.32998884" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="bottom" id="Java Enterprise" order="0" weight="0.32998884" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.32910448" />
-      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Database Changes" order="15" weight="0.32962447" />
       <window_info anchor="right" id="CDI" order="0" weight="0.32985073" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.57162726" />
-      <window_info anchor="bottom" id="Spring" order="1" weight="0.32962447" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32998884" />
-      <window_info id="Persistence" order="0" sideWeight="0.2892907" side_tool="true" visible="true" weight="0.23134328" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.71070933" visible="true" weight="0.23134328" />
-      <window_info anchor="right" id="Bean Validation" order="5" weight="0.32910448" />
-      <window_info id="Web" order="5" side_tool="true" />
       <window_info anchor="right" id="Database" order="7" weight="0.1880597" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="JSF" order="9" />
       <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.48261476" />
+      <window_info anchor="bottom" id="TODO" order="13" weight="0.32962447" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32962447" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="bottom" id="Java Enterprise" order="0" weight="0.32962447" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.5257302" />
+      <window_info anchor="bottom" id="Spring" order="1" weight="0.32962447" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32962447" />
+      <window_info id="Persistence" order="0" sideWeight="0.30458972" side_tool="true" visible="true" weight="0.2119403" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.6954103" visible="true" weight="0.2119403" />
+      <window_info anchor="right" id="Bean Validation" order="5" weight="0.32910448" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.32962447" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.3991655" />
       <window_info anchor="right" id="Commander" order="1" weight="0.4" />
       <window_info anchor="bottom" id="Database Console" order="2" weight="0.32962447" />
-      <window_info anchor="bottom" id="Find" order="4" weight="0.32962447" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.32962447" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
@@ -758,25 +769,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="30" />
+      <option name="time" value="42" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/da82de7a-d859-4d2d-8817-8420653b504d/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/META-INF/persistence.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/service/MainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/models/UserEntity.java" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/da82de7a-d859-4d2d-8817-8420653b504d/console.sql">
       <provider selected="true" editor-type-id="text-editor">
@@ -939,20 +935,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-163">
-          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-application.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/models/UsersEntity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -964,13 +946,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dao/TaggingTaskDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -995,16 +970,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dao/LofStatusDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="71" selection-start-line="18" selection-start-column="71" selection-end-line="18" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="740">
@@ -1012,13 +977,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/models/LofStatusEntityTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2803">
-          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/models/LofStatusEntityTest.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/OneToMany.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-369">
@@ -1033,64 +992,112 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/models/TaggingTaskEntity.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dao/TaggingTaskDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-          <folding>
-            <element signature="e#674#675#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="220">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jsf/TaggingTaskManagedBean.java">
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-          <folding>
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="231">
+          <caret line="15148" column="12" selection-start-line="15148" selection-start-column="12" selection-end-line="15148" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/primefaces/primefaces/6.2/primefaces-6.2.jar!/META-INF/primefaces-p.taglib.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jsf/LofStatusManagedBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+        <state relative-caret-position="200">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#611#612#0" expanded="true" />
-            <element signature="e#1135#1136#0" expanded="true" />
-            <element signature="e#1171#1172#0" expanded="true" />
-            <element signature="e#1230#1231#0" expanded="true" />
-            <element signature="e#1280#1281#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/models/LofStatusEntity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="41" column="10" lean-forward="true" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+        <state relative-caret-position="500">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#822#823#0" expanded="true" />
-            <element signature="e#862#863#0" expanded="true" />
-            <element signature="e#1135#1136#0" expanded="true" />
-            <element signature="e#1163#1164#0" expanded="true" />
-            <element signature="e#1222#1223#0" expanded="true" />
-            <element signature="e#1272#1273#0" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-application.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.xhtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="84" column="49" selection-start-line="84" selection-start-column="49" selection-end-line="84" selection-end-column="49" />
+        <state relative-caret-position="217">
+          <caret line="84" column="60" selection-start-line="84" selection-start-column="60" selection-end-line="84" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/models/TaggingTaskEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dao/LofStatusDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jsf/TaggingTaskManagedBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#672#673#0" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+            <element signature="e#1107#1108#0" expanded="true" />
+            <element signature="e#1147#1148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/DataTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

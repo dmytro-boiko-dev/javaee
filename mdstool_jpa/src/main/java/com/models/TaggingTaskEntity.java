@@ -16,13 +16,10 @@ public class TaggingTaskEntity {
     private Long messagesCount;
     private String status;
     private Integer userId;
-
-    //new
     private List<LofStatusEntity> lofStatusEntities;
 
+    @Column
     @OneToMany(mappedBy = "taggingTaskEntity")
-//    @OneToMany
-  //  @JoinColumn(name = "id")
     public List<LofStatusEntity> getLofStatusEntities() {
         return lofStatusEntities;
     }
@@ -30,7 +27,7 @@ public class TaggingTaskEntity {
     public void setLofStatusEntities(List<LofStatusEntity> lofStatusEntities) {
         this.lofStatusEntities = lofStatusEntities;
     }
-    //end new
+
 
     @Id
     @Column(name = "id", nullable = false)

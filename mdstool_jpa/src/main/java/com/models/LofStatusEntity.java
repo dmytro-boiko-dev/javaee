@@ -2,6 +2,7 @@ package com.models;
 
 import javax.persistence.*;
 import java.sql.Timestamp;
+import java.util.Objects;
 
 @Entity
 @Table(name = "lof_status", schema = "rdr")
@@ -19,11 +20,8 @@ public class LofStatusEntity {
     private Boolean isAfcProcessed;
     private Boolean isAfdProcessed;
     private Timestamp lofCreateTime;
-    private Integer taggingTaskId;
-
-
-//new dependency
     private TaggingTaskEntity taggingTaskEntity;
+
 
     @ManyToOne
     @JoinColumn(name = "tagging_task_id")
@@ -35,20 +33,6 @@ public class LofStatusEntity {
         this.taggingTaskEntity = taggingTaskEntity;
     }
 
-//end new dependency
-
-
-//new
-    @Basic
-    @Column(name = "tagging_task_id", nullable = true)
-    public Integer getTaggingTaskId() {
-        return taggingTaskId;
-    }
-
-    public void setTaggingTaskId(Integer taggingTaskId) {
-        this.taggingTaskId = taggingTaskId;
-    }
-//end new
 
     @Id
     @Column(name = "message_filter_id", nullable = false)
@@ -182,61 +166,35 @@ public class LofStatusEntity {
         this.lofCreateTime = lofCreateTime;
     }
 
-
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
-
         LofStatusEntity that = (LofStatusEntity) o;
-
-        if (messageFilterId != that.messageFilterId) return false;
-        if (comment != null ? !comment.equals(that.comment) : that.comment != null) return false;
-        if (isActive != null ? !isActive.equals(that.isActive) : that.isActive != null) return false;
-        if (hasError != null ? !hasError.equals(that.hasError) : that.hasError != null) return false;
-        if (isRecrawled != null ? !isRecrawled.equals(that.isRecrawled) : that.isRecrawled != null) return false;
-        if (isHeaderDataReady != null ? !isHeaderDataReady.equals(that.isHeaderDataReady) : that.isHeaderDataReady != null)
-            return false;
-        if (isClusterized != null ? !isClusterized.equals(that.isClusterized) : that.isClusterized != null)
-            return false;
-        if (isFetched != null ? !isFetched.equals(that.isFetched) : that.isFetched != null) return false;
-        if (isBbxTagged != null ? !isBbxTagged.equals(that.isBbxTagged) : that.isBbxTagged != null) return false;
-        if (isReadyForAfc != null ? !isReadyForAfc.equals(that.isReadyForAfc) : that.isReadyForAfc != null)
-            return false;
-        if (isAfcProcessed != null ? !isAfcProcessed.equals(that.isAfcProcessed) : that.isAfcProcessed != null)
-            return false;
-        if (isAfdProcessed != null ? !isAfdProcessed.equals(that.isAfdProcessed) : that.isAfdProcessed != null)
-            return false;
-        if (lofCreateTime != null ? !lofCreateTime.equals(that.lofCreateTime) : that.lofCreateTime != null)
-            return false;
-//    new
-        if (taggingTaskId != null ? !taggingTaskId.equals(that.taggingTaskId) : that.taggingTaskId != null)
-            return false;
-//    end new
-        return true;
+        return messageFilterId == that.messageFilterId &&
+                Objects.equals(comment, that.comment) &&
+                Objects.equals(isActive, that.isActive) &&
+                Objects.equals(hasError, that.hasError) &&
+                Objects.equals(isRecrawled, that.isRecrawled) &&
+                Objects.equals(isHeaderDataReady, that.isHeaderDataReady) &&
+                Objects.equals(isClusterized, that.isClusterized) &&
+                Objects.equals(isFetched, that.isFetched) &&
+                Objects.equals(isBbxTagged, that.isBbxTagged) &&
+                Objects.equals(isReadyForAfc, that.isReadyForAfc) &&
+                Objects.equals(isAfcProcessed, that.isAfcProcessed) &&
+                Objects.equals(isAfdProcessed, that.isAfdProcessed) &&
+                Objects.equals(lofCreateTime, that.lofCreateTime) &&
+                Objects.equals(taggingTaskEntity, that.taggingTaskEntity);
     }
 
     @Override
     public int hashCode() {
-        int result = (int) (messageFilterId ^ (messageFilterId >>> 32));
-        result = 31 * result + (comment != null ? comment.hashCode() : 0);
-        result = 31 * result + (isActive != null ? isActive.hashCode() : 0);
-        result = 31 * result + (hasError != null ? hasError.hashCode() : 0);
-        result = 31 * result + (isRecrawled != null ? isRecrawled.hashCode() : 0);
-        result = 31 * result + (isHeaderDataReady != null ? isHeaderDataReady.hashCode() : 0);
-        result = 31 * result + (isClusterized != null ? isClusterized.hashCode() : 0);
-        result = 31 * result + (isFetched != null ? isFetched.hashCode() : 0);
-        result = 31 * result + (isBbxTagged != null ? isBbxTagged.hashCode() : 0);
-        result = 31 * result + (isReadyForAfc != null ? isReadyForAfc.hashCode() : 0);
-        result = 31 * result + (isAfcProcessed != null ? isAfcProcessed.hashCode() : 0);
-        result = 31 * result + (isAfdProcessed != null ? isAfdProcessed.hashCode() : 0);
-        result = 31 * result + (lofCreateTime != null ? lofCreateTime.hashCode() : 0);
-//    new
-        result = 31 * result + (taggingTaskId != null ? taggingTaskId.hashCode() : 0);
 
-        return result;
+        return Objects.hash(messageFilterId, comment, isActive,
+                hasError, isRecrawled, isHeaderDataReady, isClusterized,
+                isFetched, isBbxTagged, isReadyForAfc, isAfcProcessed,
+                isAfdProcessed, lofCreateTime, taggingTaskEntity);
     }
-
 
     @Override
     public String toString() {
@@ -254,8 +212,7 @@ public class LofStatusEntity {
                 ", isAfcProcessed=" + isAfcProcessed +
                 ", isAfdProcessed=" + isAfdProcessed +
                 ", lofCreateTime=" + lofCreateTime +
-                //new
-                ", taggingTaskId=" + taggingTaskId +
+                ", taggingTaskEntity=" + taggingTaskEntity +
                 '}';
     }
 }
