@@ -35,8 +35,8 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-web:4.3.7.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.3.7.RELEASE" />
           <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:3.1.0" />
-          <element id="library" level="project" name="Maven: com.sun.faces:jsf-api:2.2.12" />
-          <element id="library" level="project" name="Maven: com.sun.faces:jsf-impl:2.2.12" />
+          <element id="library" level="project" name="Maven: com.sun.faces:jsf-api:2.2.14" />
+          <element id="library" level="project" name="Maven: com.sun.faces:jsf-impl:2.2.14" />
           <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
           <element id="library" level="project" name="Maven: org.primefaces:primefaces:6.2" />
         </element>

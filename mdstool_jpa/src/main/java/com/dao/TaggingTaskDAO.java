@@ -8,6 +8,7 @@ import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import java.util.List;
 
+
 @Repository("taggingTaskDAO")
 @RequestScoped
 public class TaggingTaskDAO {
@@ -16,6 +17,6 @@ public class TaggingTaskDAO {
 
     @org.springframework.transaction.annotation.Transactional(readOnly = true)
     public List<TaggingTaskEntity> getAllUsers() {
-        return entityManager.createQuery("select tte from TaggingTaskEntity tte").getResultList();
+        return entityManager.createQuery("select tte from TaggingTaskEntity tte where tte.id=1465").getResultList();
     }
 }

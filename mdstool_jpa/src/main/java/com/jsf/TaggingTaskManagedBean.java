@@ -23,11 +23,11 @@ public class TaggingTaskManagedBean implements Serializable {
     }
 
 
-    @Inject
-    private LofStatusDAO lofStatusDAO;
-    public List<LofStatusEntity> lofData(){
-        return lofStatusDAO.getAllUsers();
-    }
+//    @Inject
+//    private LofStatusDAO lofStatusDAO;
+//    public List<LofStatusEntity> lofData(){
+//        return lofStatusDAO.getAllUsers();
+//    }
 
     private int id;
     private Long clusterCount;
@@ -38,27 +38,6 @@ public class TaggingTaskManagedBean implements Serializable {
     private Long messagesCount;
     private String status;
     private Integer userId;
-    private List<LofStatusEntity> lofStatusEntities;
-
-    public List<LofStatusEntity> getLofStatusEntities() {
-        return lofStatusEntities;
-    }
-
-    public void setLofStatusEntities(List<LofStatusEntity> lofStatusEntities) {
-        this.lofStatusEntities = lofStatusEntities;
-    }
-
-
-//    private List<LofStatusEntity> lofEntities = new ArrayList<>();
-//
-//    public List<LofStatusEntity> getLofEntities() {
-//        return lofEntities;
-//    }
-//
-//    public void setLofEntities(List<LofStatusEntity> lofEntities) {
-//        this.lofEntities = lofEntities;
-//    }
-
 
 
     public int getId() {
