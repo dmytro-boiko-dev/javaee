@@ -55,8 +55,8 @@
       <file leaf-file-name="spring-application.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-application.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="520">
+              <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -150,7 +150,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="1750" />
     <option name="height" value="1090" />
@@ -618,7 +618,7 @@
       <workItem from="1529917208894" duration="2329000" />
       <workItem from="1530016119765" duration="5779000" />
       <workItem from="1530092119533" duration="604000" />
-      <workItem from="1530181793637" duration="1398000" />
+      <workItem from="1530181793637" duration="2158000" />
     </task>
     <servers />
   </component>
@@ -643,7 +643,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="310505000" />
+    <option name="totallyTimeSpent" value="311265000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -655,7 +655,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1400" height="878" extended-state="7" />
+    <frame x="-7" y="-7" width="1400" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="13" weight="0.32962447" />
@@ -666,12 +667,12 @@
       <window_info anchor="right" id="CDI" order="0" weight="0.32985073" />
       <window_info anchor="bottom" id="Database Changes" order="15" weight="0.32962447" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.46314326" />
+      <window_info anchor="bottom" id="Run" order="5" weight="1.0" />
       <window_info anchor="bottom" id="Spring" order="1" weight="0.32962447" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32962447" />
       <window_info id="Persistence" order="0" sideWeight="0.30876216" side_tool="true" weight="0.2216418" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.6912378" visible="true" weight="0.22910447" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.6912378" visible="true" weight="0.22910447" />
       <window_info anchor="right" id="Bean Validation" order="5" weight="0.32910448" />
       <window_info id="Web" order="5" side_tool="true" />
       <window_info anchor="right" id="Database" order="7" weight="0.1880597" />
@@ -1038,8 +1039,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-application.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="520">
+          <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
         </state>
       </provider>
     </entry>
