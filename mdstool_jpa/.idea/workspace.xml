@@ -55,7 +55,7 @@
       <file leaf-file-name="spring-application.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-application.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
+            <state relative-caret-position="340">
               <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
             </state>
           </provider>
@@ -618,7 +618,7 @@
       <workItem from="1529917208894" duration="2329000" />
       <workItem from="1530016119765" duration="5779000" />
       <workItem from="1530092119533" duration="604000" />
-      <workItem from="1530181793637" duration="2158000" />
+      <workItem from="1530181793637" duration="2755000" />
     </task>
     <servers />
   </component>
@@ -643,7 +643,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="311265000" />
+    <option name="totallyTimeSpent" value="311862000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1039,7 +1039,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-application.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
+        <state relative-caret-position="340">
           <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
         </state>
       </provider>
