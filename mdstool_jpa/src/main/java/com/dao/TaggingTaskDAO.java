@@ -17,6 +17,7 @@ public class TaggingTaskDAO {
 
     @org.springframework.transaction.annotation.Transactional(readOnly = true)
     public List<TaggingTaskEntity> getAllUsers() {
-        return entityManager.createQuery("select tte from TaggingTaskEntity tte where tte.id=1465").getResultList();
+        return entityManager.createQuery("select tte from TaggingTaskEntity tte").getResultList();
+        // where tte.id=1465
     }
 }

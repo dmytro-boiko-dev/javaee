@@ -19,7 +19,7 @@ public class TaggingTaskEntity {
     private List<LofStatusEntity> lofStatusEntities;
 
     @Column
-    @OneToMany(mappedBy = "taggingTaskEntity", fetch = FetchType.EAGER)
+    @OneToMany(mappedBy = "taggingTaskEntity") //, fetch = FetchType.EAGER
     public List<LofStatusEntity> getLofStatusEntities() {
         return lofStatusEntities;
     }
