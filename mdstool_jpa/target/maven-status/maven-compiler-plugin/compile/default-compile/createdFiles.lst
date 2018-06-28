@@ -1,6 +1,0 @@
-com\dao\LofStatusDAO.class
-com\jsf\LofStatusManagedBean.class
-com\dao\TaggingTaskDAO.class
-com\models\TaggingTaskEntity.class
-com\models\LofStatusEntity.class
-com\jsf\TaggingTaskManagedBean.class
