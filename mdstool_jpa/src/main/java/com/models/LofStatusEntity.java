@@ -2,6 +2,7 @@ package com.models;
 
 import javax.persistence.*;
 import java.sql.Timestamp;
+import java.util.List;
 import java.util.Objects;
 
 @Entity
@@ -20,9 +21,24 @@ public class LofStatusEntity {
     private Boolean isAfcProcessed;
     private Boolean isAfdProcessed;
     private Timestamp lofCreateTime;
-    private TaggingTaskEntity taggingTaskEntity;
+    private TaggingTaskEntity taggingTaskEntity; //second level
+    private List<ClusterEntity> clusterEntities; //third level
+
+    //third level
+    @Column
+    @OneToMany(mappedBy = "lofStatusEntity")
+    //@OneToMany
+    //@JoinColumn(name = "message_filter_id")
+    public List<ClusterEntity> getClusterEntities() {
+        return clusterEntities;
+    }
+
+    public void setClusterEntities(List<ClusterEntity> clusterEntities) {
+        this.clusterEntities = clusterEntities;
+    }
 
 
+    //second level
     @ManyToOne
     @JoinColumn(name = "tagging_task_id")
     public TaggingTaskEntity getTaggingTaskEntity() {

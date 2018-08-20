@@ -2,21 +2,16 @@ package com.jsf;
 
 import com.models.TaggingTaskEntity;
 import javax.faces.bean.RequestScoped;
+import javax.faces.bean.SessionScoped;
 import javax.inject.Named;
 import java.io.Serializable;
 import java.sql.Timestamp;
 
 
-@Named("lsManagedBean")
-@RequestScoped
+//@Named("lsManagedBean")
+@Named
+@SessionScoped
 public class LofStatusManagedBean implements Serializable {
-
-//    @Inject
-//    private LofStatusDAO lofStatusDAO;
-//
-//    public List<LofStatusEntity> lofData(){
-//        return lofStatusDAO.getAllUsers();
-//    }
 
     private long messageFilterId;
     private String comment;
@@ -31,7 +26,7 @@ public class LofStatusManagedBean implements Serializable {
     private Boolean isAfcProcessed;
     private Boolean isAfdProcessed;
     private Timestamp lofCreateTime;
-    private TaggingTaskEntity taggingTaskEntity;
+    private TaggingTaskEntity taggingTaskEntity; // second level
 
 
 

@@ -1,19 +1,19 @@
 package com.jsf;
 
-import com.dao.LofStatusDAO;
 import com.dao.TaggingTaskDAO;
-import com.models.LofStatusEntity;
 import com.models.TaggingTaskEntity;
 
 import javax.faces.bean.RequestScoped;
+import javax.faces.bean.SessionScoped;
 import javax.inject.Inject;
 import javax.inject.Named;
 import java.io.Serializable;
 import java.sql.Timestamp;
 import java.util.List;
 
-@Named("ttManagedBean")
-@RequestScoped
+//@Named("ttManagedBean")
+@Named
+@SessionScoped
 public class TaggingTaskManagedBean implements Serializable {
 
     @Inject
@@ -21,13 +21,6 @@ public class TaggingTaskManagedBean implements Serializable {
     public List<TaggingTaskEntity> data() {
         return taggingTaskDAO.getAllUsers();
     }
-
-
-//    @Inject
-//    private LofStatusDAO lofStatusDAO;
-//    public List<LofStatusEntity> lofData(){
-//        return lofStatusDAO.getAllUsers();
-//    }
 
     private int id;
     private Long clusterCount;

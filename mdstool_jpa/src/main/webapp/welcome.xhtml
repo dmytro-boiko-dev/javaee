@@ -17,7 +17,7 @@
 
     <h:form id="testForm">
 
-        <p:dataTable id="taggingTask"  value="#{ttManagedBean.data()}" var="tt"
+        <p:dataTable id="taggingTask"  value="#{taggingTaskManagedBean.data()}" var="tt"
                      styleClass="table table-striped table-bordered tableUpdated"
                      paginatorTemplate="{CurrentPageReport} {FirstPageLink} {PreviousPageLink} {PageLinks} {NextPageLink} {LastPageLink} {RowsPerPageDropdown}"
                      rowsPerPageTemplate="10,20,50"
@@ -197,13 +197,13 @@
                                 <h:outputText value="#{cl.numMessages}" />
                             </p:column>
 
-                         <!--button-->
+                            <!--button-->
                             <!--<p:column width="15%">-->
                             <p:column>
                                 <!--<f:facet name="header"> </f:facet>-->
 
                                 <!--<h:commandButton value="Tagging" styleClass="btn btn-primary"-->
-                                                 <!--onclick="this.form.target='_blank'" />-->
+                                <!--onclick="this.form.target='_blank'" />-->
                                 <p:button  value="Tagging" href="tagging.xhtml" target="_blank" styleClass="btn btn-primary"/>
 
                             </p:column>

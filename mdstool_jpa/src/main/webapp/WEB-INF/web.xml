@@ -15,17 +15,12 @@
     <!--JSF part +++++++++++++++++++++++++++++++++++++++++++++++ -->
     <display-name>JavaServerFaces</display-name>
 
-    <!-- Change to "Production" when you are ready to deploy -->
-    <context-param>
-        <param-name>javax.faces.PROJECT_STAGE</param-name>
-        <param-value>Development</param-value>
-    </context-param>
 
     <!-- Welcome page -->
-    <welcome-file-list>
-        <welcome-file>index.xhtml</welcome-file>
+    <!--<welcome-file-list>-->
         <!--<welcome-file>index.xhtml</welcome-file>-->
-    </welcome-file-list>
+        <!--&lt;!&ndash;<welcome-file>welcome.xhtml</welcome-file>&ndash;&gt;-->
+    <!--</welcome-file-list>-->
 
     <context-param>
         <param-name>javax.faces.CONFIG_FILES</param-name>
@@ -39,13 +34,33 @@
         <load-on-startup>1</load-on-startup>
     </servlet>
 
+    <!-- Change to “Production” when you are ready to deploy -->
+    <context-param>
+        <param-name>javax.faces.PROJECT_STAGE</param-name>
+        <param-value>Development</param-value>
+    </context-param>
+
+    <!-- Welcome page -->
+    <welcome-file-list>
+        <welcome-file>faces/welcome.xhtml</welcome-file>
+    </welcome-file-list>
+
     <!-- Map these files with JSF -->
+    <servlet-mapping>
+        <servlet-name>Faces Servlet</servlet-name>
+        <url-pattern>/faces/*</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Faces Servlet</servlet-name>
+        <url-pattern>*.jsf</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Faces Servlet</servlet-name>
+        <url-pattern>*.faces</url-pattern>
+    </servlet-mapping>
     <servlet-mapping>
         <servlet-name>Faces Servlet</servlet-name>
         <url-pattern>*.xhtml</url-pattern>
     </servlet-mapping>
-
-    <!--end JSF part +++++++++++++++++++++++++++++++++++++++++++++++ -->
-
 
 </web-app>

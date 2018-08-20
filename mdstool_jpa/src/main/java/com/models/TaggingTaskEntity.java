@@ -16,8 +16,9 @@ public class TaggingTaskEntity {
     private Long messagesCount;
     private String status;
     private Integer userId;
-    private List<LofStatusEntity> lofStatusEntities;
+    private List<LofStatusEntity> lofStatusEntities; //second level
 
+    //second level
     @Column
     @OneToMany(mappedBy = "taggingTaskEntity") //, fetch = FetchType.EAGER
     public List<LofStatusEntity> getLofStatusEntities() {
