@@ -27,7 +27,7 @@ class Emploee {
 // custom comporator to compare salaries
 class MyComporator implements Comparator<Emploee> {
 
-    //        @Override
+    //@Override
     public int compare(Emploee e1, Emploee e2) {
         return e1.salary - e2.salary;
     }

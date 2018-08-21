@@ -1,6 +1,7 @@
 package Collections;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.ListIterator;
 import java.util.Random;
 
@@ -20,7 +21,22 @@ public class ArrayListExmpl {
         list.add(2);
         list.add(7);
         list.add(1);
-        list.add(null);
+        list.add(18);
+        //list.add(null);
+
+//sorting
+        System.out.println("List before sort:");
+        System.out.println(list);
+
+        Collections.sort(list);
+
+        System.out.println("List after sort:");
+        System.out.println(list);
+
+        System.out.println("----------------------------");
+
+
+
 
 
         ListIterator iterator = list.listIterator();
