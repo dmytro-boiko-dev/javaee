@@ -3,6 +3,7 @@ package com.jsf;
 import com.dao.TaggingTaskDAO;
 import com.models.TaggingTaskEntity;
 
+import javax.faces.bean.ManagedBean;
 import javax.faces.bean.RequestScoped;
 import javax.faces.bean.SessionScoped;
 import javax.inject.Inject;
@@ -14,6 +15,7 @@ import java.util.List;
 //@Named("ttManagedBean")
 @Named
 @SessionScoped
+@ManagedBean
 public class TaggingTaskManagedBean implements Serializable {
 
     @Inject

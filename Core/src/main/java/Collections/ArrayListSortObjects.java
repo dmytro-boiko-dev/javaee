@@ -22,8 +22,6 @@ public class ArrayListSortObjects {
 
     }
 
-
-
 }
 
 class Cars implements Comparable<Cars>{

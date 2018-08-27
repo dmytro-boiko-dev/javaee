@@ -21,8 +21,6 @@ public class TaggingTaskDAO {
 
     @org.springframework.transaction.annotation.Transactional(readOnly = true)
     public List<TaggingTaskEntity> getAllUsers() {
-        //log.info("Info message from logger");
-        //log.error("Error message from logger");
         return entityManager.createQuery("select tte from TaggingTaskEntity tte").getResultList();
 
     }

@@ -1,6 +1,7 @@
 package Collections;
 
 import java.util.Comparator;
+import java.util.Iterator;
 import java.util.PriorityQueue;
 
 
@@ -51,19 +52,22 @@ public class PriorityQueueExmpl {
 
         System.out.println(pQueue);
 
-//        while (new Emploee() : pQueue){
-//            System.out.println(e);
-//        }
+        Iterator<Emploee> iterator = pQueue.iterator();
 
-        System.out.println(pQueue.poll());
-        System.out.println(pQueue.poll());
-        System.out.println(pQueue.poll());
-        System.out.println(pQueue.poll());
-        System.out.println(pQueue.poll());
-        System.out.println(pQueue.poll());
-        System.out.println(pQueue.poll());
 
-        System.out.println(pQueue);
+        while (iterator.hasNext()){
+            System.out.println(iterator.next());
+        }
+
+//        System.out.println(pQueue.poll());
+//        System.out.println(pQueue.poll());
+//        System.out.println(pQueue.poll());
+//        System.out.println(pQueue.poll());
+//        System.out.println(pQueue.poll());
+//        System.out.println(pQueue.poll());
+//        System.out.println(pQueue.poll());
+//
+//        System.out.println(pQueue);
 
     }
 
