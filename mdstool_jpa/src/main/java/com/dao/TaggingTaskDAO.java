@@ -5,13 +5,15 @@ import com.models.TaggingTaskEntity;
 import org.springframework.stereotype.Repository;
 
 import javax.faces.bean.RequestScoped;
+import javax.inject.Named;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import java.util.List;
 
 
-@Repository("taggingTaskDAO")
-@RequestScoped
+@Repository("taggingTaskDAO") //changed to Named
+//@Named("taggingTaskDAO")
+@RequestScoped // also removed for test
 public class TaggingTaskDAO {
     @PersistenceContext(unitName = "NewPersistenceUnit")
     private EntityManager entityManager;

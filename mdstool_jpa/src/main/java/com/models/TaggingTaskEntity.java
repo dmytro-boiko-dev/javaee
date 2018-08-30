@@ -137,9 +137,7 @@ public class TaggingTaskEntity {
         if (messagesCount != null ? !messagesCount.equals(that.messagesCount) : that.messagesCount != null)
             return false;
         if (status != null ? !status.equals(that.status) : that.status != null) return false;
-        if (userId != null ? !userId.equals(that.userId) : that.userId != null) return false;
-
-        return true;
+        return userId != null ? userId.equals(that.userId) : that.userId == null;
     }
 
     @Override

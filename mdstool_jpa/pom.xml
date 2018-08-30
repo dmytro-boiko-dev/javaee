@@ -10,6 +10,7 @@
     <name>JSF - ${project.artifactId}</name>
     <url>http://localhost/</url>
     <packaging>war</packaging>
+    <!--<packaging>jar</packaging>-->
 
 
 
@@ -118,6 +119,12 @@
             <version>6.2</version>
         </dependency>
 
+        <!--<dependency>-->
+            <!--<groupId>org.eclipse.jetty</groupId>-->
+            <!--<artifactId>jetty-server</artifactId>-->
+            <!--<version>9.2.11.v20150529</version>-->
+        <!--</dependency>-->
+
         <!-- end JSF part +++++++++++++++++++++++++++++++++++++++++++++++ -->
 
         <!--logging-->
@@ -129,8 +136,6 @@
             <!--<version>1.2.17</version>-->
         <!--</dependency>-->
 
-
-
     </dependencies>
 
 
@@ -139,7 +144,7 @@
             <plugin>
                 <groupId>org.eclipse.jetty</groupId>
                 <artifactId>jetty-maven-plugin</artifactId>
-                <version>9.2.11.v20150529</version>
+                <version>9.4.9.v20180320</version>
                 <configuration>
                     <scanIntervalSeconds>10</scanIntervalSeconds>
                     <webApp>

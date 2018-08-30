@@ -2,6 +2,8 @@ package com.jsf;
 
 import com.dao.TaggingTaskDAO;
 import com.models.TaggingTaskEntity;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.ApplicationContext;
 
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.RequestScoped;
@@ -10,12 +12,13 @@ import javax.inject.Inject;
 import javax.inject.Named;
 import java.io.Serializable;
 import java.sql.Timestamp;
+import java.util.Arrays;
 import java.util.List;
 
 //@Named("ttManagedBean")
 @Named
 @SessionScoped
-@ManagedBean
+//@ManagedBean
 public class TaggingTaskManagedBean implements Serializable {
 
     @Inject
@@ -106,4 +109,6 @@ public class TaggingTaskManagedBean implements Serializable {
     public void setUserId(Integer userId) {
         this.userId = userId;
     }
+
 }
+
