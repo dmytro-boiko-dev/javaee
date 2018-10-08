@@ -7,7 +7,7 @@ import java.util.TreeSet;
 
 public class SetExmpl {
     public static void main(String[] args) {
-        Set<Integer> intHashSet = new HashSet<Integer>();
+        Set<Integer> intHashSet = new HashSet<>();
         intHashSet.add(5);
         intHashSet.add(2);
         intHashSet.add(911);
@@ -18,7 +18,7 @@ public class SetExmpl {
 
         System.out.println(intHashSet);
 
-        TreeSet<Integer> treeSet = new TreeSet<Integer>(intHashSet);
+        TreeSet<Integer> treeSet = new TreeSet<>(intHashSet);
         System.out.println(treeSet);
 
         //slow down boooy
