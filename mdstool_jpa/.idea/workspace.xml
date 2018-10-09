@@ -109,7 +109,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dao/TaggingTaskDAO.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -235,7 +235,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="1750" />
     <option name="height" value="1090" />
@@ -247,6 +247,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -322,8 +324,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -915,7 +915,8 @@
       <workItem from="1537365482555" duration="4777000" />
       <workItem from="1537454452384" duration="11000" />
       <workItem from="1538397418015" duration="4655000" />
-      <workItem from="1538996927021" duration="599000" />
+      <workItem from="1538996927021" duration="1795000" />
+      <workItem from="1539078628485" duration="55000" />
     </task>
     <servers />
   </component>
@@ -940,7 +941,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="407884000" />
+    <option name="totallyTimeSpent" value="409135000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -952,7 +953,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1382" height="878" extended-state="7" />
+    <frame x="-7" y="-7" width="1382" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
@@ -1302,7 +1303,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dao/TaggingTaskDAO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
