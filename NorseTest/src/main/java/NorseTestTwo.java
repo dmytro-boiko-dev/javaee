@@ -9,7 +9,18 @@ public class NorseTestTwo {
         int[] b = {1, 2, 4, 5};
 
         int[] res = ArrayUtils.addAll(a, b);
-        Arrays.sort(res);
-        System.out.println(Arrays.toString(res));
+        System.out.println("Raw: " + Arrays.toString(res));
+
+        for (int i = 0; i < res.length; i++) {
+            for (int j = i + 1; j < res.length; j++) {
+                int cache;
+                if (res[i] > res[j]) {
+                    cache = res[i];
+                    res[i] = res[j];
+                    res[j] = cache;
+                }
+            }
+        }
+        System.out.println("Sorted: " + Arrays.toString(res));
     }
 }
