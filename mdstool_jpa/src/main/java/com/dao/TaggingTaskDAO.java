@@ -12,15 +12,11 @@ import javax.persistence.PersistenceContext;
 import java.util.List;
 
 @ManagedBean
-@Repository("taggingTaskDAO") //changed to Named
-//@Named("taggingTaskDAO")
-@RequestScoped // also removed for test
+@Repository("taggingTaskDAO")
+@RequestScoped
 public class TaggingTaskDAO {
     @PersistenceContext(unitName = "NewPersistenceUnit")
     private EntityManager entityManager;
-
-    //logging
-    //private static final Logger log = Logger.getLogger(TaggingTaskDAO.class);
 
     @org.springframework.transaction.annotation.Transactional(readOnly = true)
     public List<TaggingTaskEntity> getAllUsers() {

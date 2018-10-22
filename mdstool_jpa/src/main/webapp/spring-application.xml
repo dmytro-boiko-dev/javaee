@@ -30,8 +30,8 @@
     <!--login and pass changed for security - -->
     <bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
         <property name="url" value="jdbc:mysql://rdr-rds.prod.slicetest.com:3306/rdr"/>
-        <property name="username" value="dboyko"/>
-        <property name="password" value="SDiL2whNky"/>
+        <property name="username" value="login"/>
+        <property name="password" value="pass"/>
         <property name="driverClassName" value="com.mysql.jdbc.Driver"/>
     </bean>
 

@@ -8,7 +8,6 @@ import java.io.Serializable;
 import java.sql.Timestamp;
 
 
-//@Named("lsManagedBean")
 @Named
 @SessionScoped
 public class LofStatusManagedBean implements Serializable {

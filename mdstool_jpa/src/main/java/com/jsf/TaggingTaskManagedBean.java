@@ -12,7 +12,6 @@ import java.sql.Timestamp;
 
 import java.util.List;
 
-//@Named("ttManagedBean")
 @Named
 @SessionScoped
 @ManagedBean

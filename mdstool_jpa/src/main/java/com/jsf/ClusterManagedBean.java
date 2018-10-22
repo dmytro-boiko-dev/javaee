@@ -9,7 +9,6 @@ import javax.faces.bean.SessionScoped;
 import javax.inject.Named;
 import java.io.Serializable;
 
-//@Named("clManagedBean")
 @Named
 @SessionScoped
 public class ClusterManagedBean implements Serializable {
