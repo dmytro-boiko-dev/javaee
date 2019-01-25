@@ -36,6 +36,7 @@ public class StaticTest {
         Stat s2 = new Stat();
         s2.field = 3;
 
+        System.out.println("Static:");
         System.out.println(Stat.field);
         System.out.println(s1.field);
         System.out.println(s2.field);
@@ -47,6 +48,7 @@ public class StaticTest {
         int a2 = nonStat.setField1(2);
         int a3 = nonStat.setField1(3);
 
+        System.out.println("Non static:");
         System.out.println(a1);
         System.out.println(a2);
         System.out.println(a3);

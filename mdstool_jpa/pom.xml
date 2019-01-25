@@ -76,6 +76,21 @@
             <version>3.7.0</version>
         </dependency>
 
+
+        <!--AWS-->
+        <!--  https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/setup-project-maven.html  -->
+        <!--including all AWS dependencies as one-->
+        <dependency>
+            <groupId>com.amazonaws</groupId>
+            <artifactId>aws-java-sdk</artifactId>
+            <version>1.11.327</version>
+            <!-- <version>1.11.409</version> -->
+        </dependency>
+
+
+
+        <!--END AWS-->
+
     </dependencies>
 
     <build>
