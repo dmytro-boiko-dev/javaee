@@ -91,8 +91,8 @@
       <file leaf-file-name="spring-application.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/spring-application.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="27" column="11" lean-forward="true" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+            <state relative-caret-position="263">
+              <caret line="31" column="75" lean-forward="true" selection-start-line="31" selection-start-column="75" selection-end-line="31" selection-end-column="75" />
             </state>
           </provider>
         </entry>
@@ -239,6 +239,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -283,8 +285,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -925,6 +925,7 @@
       <workItem from="1540812134338" duration="59000" />
       <workItem from="1540976117614" duration="81000" />
       <workItem from="1548424669153" duration="27000" />
+      <workItem from="1548682532471" duration="1348000" />
     </task>
     <servers />
   </component>
@@ -949,7 +950,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="462908000" />
+    <option name="totallyTimeSpent" value="464256000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -973,21 +974,21 @@
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.3290469" />
       <window_info anchor="bottom" id="Database Changes" order="17" weight="0.32962447" />
       <window_info anchor="right" id="CDI" order="0" weight="0.3290469" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.6689655" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.6689655" />
       <window_info anchor="bottom" id="Spring" order="1" weight="0.32962447" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32962447" />
       <window_info id="Persistence" order="0" sideWeight="0.31988874" side_tool="true" weight="0.26716417" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.6801113" visible="true" weight="0.25036818" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.6801113" visible="true" weight="0.25405008" />
       <window_info anchor="right" id="Bean Validation" order="5" weight="0.3290469" />
       <window_info id="Web" order="5" side_tool="true" />
       <window_info anchor="right" id="Database" order="7" weight="0.1880597" />
       <window_info id="Structure" order="2" sideWeight="0.31015298" side_tool="true" weight="0.23283581" />
       <window_info anchor="right" id="JSF" order="9" weight="0.32980332" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.49925372" weight="0.5757997" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.49925372" weight="0.5757997" />
       <window_info anchor="bottom" id="Dependency Viewer" order="15" weight="0.32962447" />
       <window_info anchor="right" id="Commander" order="1" weight="0.4" />
       <window_info anchor="bottom" id="Inspection Results" order="16" weight="0.32962447" />
@@ -1295,8 +1296,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/spring-application.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="27" column="11" lean-forward="true" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+        <state relative-caret-position="263">
+          <caret line="31" column="75" lean-forward="true" selection-start-line="31" selection-start-column="75" selection-end-line="31" selection-end-column="75" />
         </state>
       </provider>
     </entry>
