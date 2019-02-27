@@ -1,4 +1,4 @@
-package Multitrading;
+package multitrading;
 
 public class MTtestFirstThread {
     public static void main(String[] args) {

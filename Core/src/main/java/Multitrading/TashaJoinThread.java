@@ -1,4 +1,4 @@
-package Multitrading;
+package multitrading;
 
 public class TashaJoinThread {
     public static void main(String[] args) {

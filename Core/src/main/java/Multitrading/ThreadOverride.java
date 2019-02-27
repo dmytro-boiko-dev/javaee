@@ -1,7 +1,4 @@
-package Multitrading;
-
-import java.util.Timer;
-import java.util.concurrent.TimeUnit;
+package multitrading;
 
 public class ThreadOverride {
     public static void main(String[] args) throws InterruptedException {

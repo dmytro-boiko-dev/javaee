@@ -1,4 +1,4 @@
-package Multitrading.JavaVision;
+package multitrading.JavaVision;
 
 public class JoinExample {
     public static void main(String[] args) {

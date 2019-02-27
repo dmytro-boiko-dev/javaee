@@ -1,4 +1,4 @@
-package Exceptions;
+package exceptions;
 
 public class TryCatchExample {
     public static void main(String[] args) {

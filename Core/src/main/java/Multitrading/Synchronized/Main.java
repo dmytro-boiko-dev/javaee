@@ -1,4 +1,4 @@
-package Multitrading.Synchronized;
+package multitrading.Synchronized;
 
 public class Main {
 

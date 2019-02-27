@@ -1,4 +1,4 @@
-package Multitrading.Interrupt;
+package multitrading.Interrupt;
 
 public class MyThread extends Thread {
     @Override

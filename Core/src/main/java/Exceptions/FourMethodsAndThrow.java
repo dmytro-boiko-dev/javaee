@@ -1,4 +1,4 @@
-package Exceptions;
+package exceptions;
 
 public class FourMethodsAndThrow {
     public static void main(String[] args) {

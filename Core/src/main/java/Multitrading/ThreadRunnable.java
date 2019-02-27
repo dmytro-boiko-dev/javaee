@@ -1,4 +1,4 @@
-package Multitrading;
+package multitrading;
 
 public class ThreadRunnable implements Runnable {
 
