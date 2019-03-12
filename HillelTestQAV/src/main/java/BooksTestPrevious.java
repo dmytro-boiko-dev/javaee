@@ -10,7 +10,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class BooksTestPrevious {
-    public WebDriver driver;
+    private WebDriver driver;
 
     @Before
     public void getDriver() throws InterruptedException {
