@@ -40,63 +40,63 @@ public class BooksTestPrevious {
         Assert.assertNotNull(driver.findElement(By.className("gsc-result-info-container")));
     }
 
-    @Test
-    public void searchTestCss() throws InterruptedException {
-
-        WebDriverWait wait = new WebDriverWait(driver, 30);
-
-        System.out.println("1. Find search");
-        driver.findElement(By.id("q"));
-        System.out.println("2. Enter search parameters");
-        driver.findElement(By.id("q")).sendKeys("CSS");
-        Thread.sleep(2000);
-        System.out.println("3. Press Enter");
-        driver.findElement(By.id("q")).sendKeys(Keys.ENTER);
-
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.className("row")));
-
-        System.out.println("5. Check 'gsc-orderby-container'");
-        Assert.assertNotNull(driver.findElement(By.className("gsc-orderby-container")));
-    }
-
-    @Test
-    public void searchTestPhp() throws InterruptedException {
-
-        WebDriverWait wait = new WebDriverWait(driver, 30);
-
-        System.out.println("1. Find search");
-        driver.findElement(By.id("q"));
-        System.out.println("2. Enter search parameters");
-        driver.findElement(By.id("q")).sendKeys("PHP");
-        Thread.sleep(2000);
-        System.out.println("3. Press Enter");
-        driver.findElement(By.id("q")).sendKeys(Keys.ENTER);
-
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.className("row")));
-
-
-        System.out.println("5. Check 'gsc-orderby-container'");
-        Assert.assertNotNull(driver.findElement(By.className("gsc-orderby-container")));
-    }
-
-    @Test
-    public void searchTestRuby() throws InterruptedException {
-
-        WebDriverWait wait = new WebDriverWait(driver, 30);
-
-        System.out.println("1. Find search");
-        driver.findElement(By.id("q"));
-        System.out.println("2. Enter search parameters");
-        driver.findElement(By.id("q")).sendKeys("Ruby On Rails");
-        Thread.sleep(2000);
-        System.out.println("3. Press Enter");
-        driver.findElement(By.id("q")).sendKeys(Keys.ENTER);
-
-        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.className("row")));
-
-        System.out.println("5. Check 'gsc-orderby-container'");
-        Assert.assertNotNull(driver.findElement(By.className("gsc-orderby-container")));
-    }
+//    @Test
+//    public void searchTestCss() throws InterruptedException {
+//
+//        WebDriverWait wait = new WebDriverWait(driver, 30);
+//
+//        System.out.println("1. Find search");
+//        driver.findElement(By.id("q"));
+//        System.out.println("2. Enter search parameters");
+//        driver.findElement(By.id("q")).sendKeys("CSS");
+//        Thread.sleep(2000);
+//        System.out.println("3. Press Enter");
+//        driver.findElement(By.id("q")).sendKeys(Keys.ENTER);
+//
+//        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.className("row")));
+//
+//        System.out.println("5. Check 'gsc-orderby-container'");
+//        Assert.assertNotNull(driver.findElement(By.className("gsc-orderby-container")));
+//    }
+//
+//    @Test
+//    public void searchTestPhp() throws InterruptedException {
+//
+//        WebDriverWait wait = new WebDriverWait(driver, 30);
+//
+//        System.out.println("1. Find search");
+//        driver.findElement(By.id("q"));
+//        System.out.println("2. Enter search parameters");
+//        driver.findElement(By.id("q")).sendKeys("PHP");
+//        Thread.sleep(2000);
+//        System.out.println("3. Press Enter");
+//        driver.findElement(By.id("q")).sendKeys(Keys.ENTER);
+//
+//        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.className("row")));
+//
+//
+//        System.out.println("5. Check 'gsc-orderby-container'");
+//        Assert.assertNotNull(driver.findElement(By.className("gsc-orderby-container")));
+//    }
+//
+//    @Test
+//    public void searchTestRuby() throws InterruptedException {
+//
+//        WebDriverWait wait = new WebDriverWait(driver, 30);
+//
+//        System.out.println("1. Find search");
+//        driver.findElement(By.id("q"));
+//        System.out.println("2. Enter search parameters");
+//        driver.findElement(By.id("q")).sendKeys("Ruby On Rails");
+//        Thread.sleep(2000);
+//        System.out.println("3. Press Enter");
+//        driver.findElement(By.id("q")).sendKeys(Keys.ENTER);
+//
+//        wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.className("row")));
+//
+//        System.out.println("5. Check 'gsc-orderby-container'");
+//        Assert.assertNotNull(driver.findElement(By.className("gsc-orderby-container")));
+//    }
 
     @After
     public void exitAndClear() {
