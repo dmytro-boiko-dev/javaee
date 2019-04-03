@@ -20,6 +20,7 @@ public class LoginTest {
 
         System.out.println("step2: Enter username.");
         driver.findElement(By.id("usr"));
+
         driver.findElement(By.id("usr")).sendKeys("admin");
         Thread.sleep(1000);
 
