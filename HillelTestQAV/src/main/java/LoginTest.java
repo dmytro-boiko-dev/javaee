@@ -19,7 +19,8 @@ public class LoginTest {
         Thread.sleep(1000);
 
         System.out.println("step2: Enter username.");
-        driver.findElement(By.id("usr"));
+//        driver.findElement(By.id("usr"));
+        driver.findElement(By.xpath("/html/body/app-root/div/div[1]/div[3]/div/main/main-page-content/goods-sections/div[2]/goods-section/ul/li[1]/div/a[1]/img"));
 
         driver.findElement(By.id("usr")).sendKeys("admin");
         Thread.sleep(1000);
