@@ -4,7 +4,7 @@ import org.junit.runners.Suite;
 @RunWith(Suite.class)
 @Suite.SuiteClasses({
         BooksTestPrevious.class,
-        LoginTest.class,
+        LoginTest.class
 })
 public class TestSuite {
 
