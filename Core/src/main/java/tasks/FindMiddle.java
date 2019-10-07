@@ -2,16 +2,17 @@ package tasks;
 
 import java.util.LinkedList;
 
+// Как найти средний элемент в LinkedList за один проход?
 public class FindMiddle {
     public static void main(String[] args) {
 
-        LinkedList<Integer> list = new LinkedList<Integer>();
+        LinkedList<Integer> list = new LinkedList<>();
         list.add(1);
         list.add(1);
         list.add(2);
         list.add(3);
         list.add(5);
-        list.add(8);
+        list.add(88);
         list.add(13);
         list.add(21);
         list.add(34);
@@ -19,9 +20,10 @@ public class FindMiddle {
         list.add(89);
 
         findMiddle(list);
+        middleByPointers(list);
     }
 
-    // Как найти средний элемент в LinkedList за один проход?
+
     private static void findMiddle(LinkedList<Integer> list) {
 
         int middle = 0;
@@ -33,7 +35,6 @@ public class FindMiddle {
                 count = i;
             }
         }
-        System.out.println("Count: " + count);
         System.out.println("Result: " + array[middle]);
     }
 
@@ -46,7 +47,12 @@ public class FindMiddle {
             countLast++;
             int diff = countLast % 2;
             if (diff == 1) {
+                countMiddle++;
             }
         }
+
+        System.out.println("Middle element value is: " +  list.get(countMiddle));
+//        System.out.println("Last: " + countLast);
+//        System.out.println("Middle: " + countMiddle);
     }
 }
