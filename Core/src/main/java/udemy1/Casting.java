@@ -15,12 +15,21 @@ public class Casting {
         float newFloatValue = (float) doubleValue;
 
 
-        System.out.println("Short to int: " + newIntValue);
-        System.out.println("Int to short: " + newShortValue);
+//        System.out.println("Short to int: " + newIntValue);
+//        System.out.println("Int to short: " + newShortValue);
+//
+//        System.out.println("Float to double: " + newDoubleValue);
+//        System.out.println("Double to float: " + newFloatValue);
 
-        System.out.println("Float to double: " + newDoubleValue);
-        System.out.println("Double to float: " + newFloatValue);
+        float variable = 3.14f;
+        int number = (int)variable;
+//        System.out.println(number);
 
+        int pow = (int)Math.pow(5, 2);
+        System.out.println(pow);
+
+        int x = 5;
+        System.out.println(x);
 
     }
 }

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="350.0" prefWidth="500.0" style="-fx-background-color: #90EE90;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.SecondController">
+
+    <children>
+
+        <Label layoutX="134.0" layoutY="50.0" prefHeight="32.0" prefWidth="233.0" text="2nd window, mutherfucker">
+            <font>
+                <Font name="Symbol" size="20.0" />
+            </font>
+        </Label>
+      <ImageView fitHeight="206.0" fitWidth="361.0" layoutX="148.0" layoutY="100.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@assets/scull.png" />
+         </image>
+      </ImageView>
+
+    </children>
+
+</AnchorPane>
