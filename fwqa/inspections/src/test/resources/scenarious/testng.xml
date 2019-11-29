@@ -1,0 +1,9 @@
+<suite name="Defect creation process">
+
+    <test name="Workshop defect creation functionality verification">
+        <classes>
+            <class name="com.inspections.InspectionsEndToEndTest"/>
+        </classes>
+    </test>
+
+</suite>
