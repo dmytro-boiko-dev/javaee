@@ -3,12 +3,11 @@ import org.junit.Before;
 import org.junit.Test;
 import org.junit.After;
 import org.openqa.selenium.By;
-import org.openqa.selenium.Dimension;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class Autotest {
+public class SearchBookTest {
 
     public WebDriver driver;
 

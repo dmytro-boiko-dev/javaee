@@ -2,86 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cae8980e-ece4-4a1f-bc29-e0fe46c2e428" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/MainTestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/MainTestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/StaticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/StaticTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/StringBuilderAndBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/strings/StringBuilderAndBuffer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/Casting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/SizeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/SizeEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/arrays/RandomFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/arrays/RandomFrequency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/arrays/TwoDimArrayForEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/arrays/TwoDimArrayForEach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/arrays/VarArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/arrays/VarArgs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/collections/CollectionsMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/collections/CollectionsMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/collections/LinkedListIteratorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/collections/LinkedListIteratorExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/inheritance/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/inheritance/Auto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/inheritance/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/inheritance/Bus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/inheritance/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/inheritance/ElectricCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/inheritance/FuelCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/inheritance/FuelCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/inheritance/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/inheritance/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/innerclasses/CellPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/innerclasses/CellPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/innerclasses/Display.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/innerclasses/Display.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/innerclasses/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/innerclasses/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/innerclasses/RadioModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/innerclasses/RadioModule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/interfaces/CellPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/CellPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/interfaces/Deliverable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/Deliverable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/interfaces/Electroics.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/Electroics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/interfaces/Fridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/Fridge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/interfaces/InterfacesMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/InterfacesMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/interfaces/Orderable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/Orderable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/interfaces/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/Pizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/interfaces/Priceable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/Priceable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/interfaces/Size.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/Size.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/methods/Dragon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/methods/Dragon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/methods/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/methods/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/multithreading/Deadlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/multithreading/Deadlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/multithreading/SynchronizedBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/multithreading/SynchronizedBuffer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/nio/NioMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/nio/NioMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/MainTestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/target/classes/MainTestClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/StaticTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/target/classes/StaticTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/StringBuilderAndBuffer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/Casting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/SizeEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/arrays/RandomFrequency.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/arrays/TwoDimArrayForEach.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/arrays/VarArgs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/collections/CollectionsMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/collections/LinkedListIteratorExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/inheritance/Auto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/inheritance/Bus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/inheritance/ElectricCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/inheritance/FuelCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/inheritance/MainClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/innerclasses/CellPhone$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/innerclasses/CellPhone$AbstractPhoneButton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/innerclasses/CellPhone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/innerclasses/Display$Color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/innerclasses/Display$Pixel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/innerclasses/Display.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/innerclasses/MainClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/innerclasses/RadioModule$1GSMModule.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/innerclasses/RadioModule.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/interfaces/CellPhone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/interfaces/Deliverable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/interfaces/Electroics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/interfaces/Fridge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/interfaces/InterfacesMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/interfaces/Orderable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/interfaces/Pizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/interfaces/Priceable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/interfaces/Size.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/methods/Dragon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/methods/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/multithreading/Deadlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/multithreading/SynchronizedBuffer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/nio/NioMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Autotest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Autotest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fwqa/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fwqa/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fwqa/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fwqa/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fwqa/common/common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../fwqa/common/common.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fwqa/inspections/inspections.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../fwqa/inspections/inspections.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fwqa/workshop/workshop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../fwqa/workshop/workshop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Autotest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SearchBookTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/JavaForKids.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/HomeWorkCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/class1/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/class2/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/class3/TestCat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/class3/Zoo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/HomeWorkCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/class1/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/class2/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/class3/TestCat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/class3/Zoo.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +70,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="JUnit.Autotest">
+  <component name="RunManager" selected="JUnit.SearchBookTest">
     <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainClass" />
       <module name="HillelAutotest" />
@@ -147,25 +85,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Autotest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.hillel.autotest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Autotest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Autotest.textBookSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HillelAutotest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Autotest" />
-      <option name="METHOD_NAME" value="textBookSearch" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.hillel.autotest" />
       <option name="PACKAGE_NAME" value="" />
@@ -175,11 +94,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SearchBookTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HillelAutotest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SearchBookTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchBookTest.textBookSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HillelAutotest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SearchBookTest" />
+      <option name="METHOD_NAME" value="textBookSearch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Autotest" />
+        <item itemvalue="JUnit.SearchBookTest" />
         <item itemvalue="JUnit.LoginTest" />
-        <item itemvalue="JUnit.Autotest.textBookSearch" />
+        <item itemvalue="JUnit.SearchBookTest.textBookSearch" />
         <item itemvalue="Application.MainTest" />
         <item itemvalue="Application.MainClass" />
       </list>
@@ -212,6 +150,7 @@
       <workItem from="1565198094312" duration="1787000" />
       <workItem from="1574265527311" duration="1820000" />
       <workItem from="1575794149885" duration="3862000" />
+      <workItem from="1577813910323" duration="641000" />
     </task>
     <servers />
   </component>
