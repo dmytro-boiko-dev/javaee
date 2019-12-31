@@ -24,7 +24,7 @@ class NonStat{
 
 
 public class StaticTest {
-    private static Stat stat;
+//    private static Stat stat;
 
     public static void main(String[] args) {
 
@@ -42,6 +42,7 @@ public class StaticTest {
         System.out.println(s2.field);
 
         //as we can see - all souts show last value of field, because it is static
+        System.out.println("as we can see - all souts show last value of field, because it is static");
 
         NonStat nonStat =  new NonStat();
         int a1 = nonStat.setField1(1);
@@ -54,8 +55,9 @@ public class StaticTest {
         System.out.println(a3);
 
         // in the second case field1 returns three new values, because it is non static
+        System.out.println("in the second case field1 returns three new values, because it is non static");
 
         //also we can use static blocks:
-        System.out.println(Stat.field);
+//        System.out.println(Stat.field);
     }
 }

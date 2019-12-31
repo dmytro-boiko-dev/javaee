@@ -3,6 +3,7 @@ import org.junit.Before;
 import org.junit.Test;
 import org.junit.After;
 import org.openqa.selenium.By;
+import org.openqa.selenium.Dimension;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -11,26 +12,23 @@ public class Autotest {
 
     public WebDriver driver;
 
-
     @Before
     public void start(){
         System.setProperty("webdriver.chrome.driver", "C:\\webdrivers\\chromedriver.exe");
-
         driver = new ChromeDriver();
         System.out.println("Created driver;");
-        driver.get("http://it-ebooks.info/");
 
-        System.out.println("Page opened;");
+//        driver.manage().window().setSize(new Dimension(1024,768));
+
+        driver.get("http://it-ebooks.info/");
+        driver.manage().window().maximize();
     }
 
     @Test
     public void textBookSearch() throws InterruptedException {
 
         driver.findElement(By.id("q")).clear();
-
-        System.out.println("Search field found;");
         driver.findElement(By.id("q")).sendKeys("Java");
-
         driver.findElement(By.id("q")).sendKeys(Keys.ENTER);
 
         System.out.println("Search results page opened;");

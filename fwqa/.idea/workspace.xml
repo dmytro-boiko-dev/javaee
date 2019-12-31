@@ -1,13 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6166ad91-2162-4a4f-946b-5ed4c2805a9c" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/classes/" />
-    <ignored path="$PROJECT_DIR$/common/target/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/workshop/target/" />
-    <ignored path="$PROJECT_DIR$/inspections/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="6166ad91-2162-4a4f-946b-5ed4c2805a9c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/MainTestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/MainTestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/StaticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/StaticTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/StringBuilderAndBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/strings/StringBuilderAndBuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/Casting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/SizeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/SizeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/arrays/RandomFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/arrays/RandomFrequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/arrays/TwoDimArrayForEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/arrays/TwoDimArrayForEach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/arrays/VarArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/arrays/VarArgs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/collections/CollectionsMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/collections/CollectionsMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/collections/LinkedListIteratorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/collections/LinkedListIteratorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/inheritance/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/inheritance/Auto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/inheritance/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/inheritance/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/inheritance/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/inheritance/ElectricCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/inheritance/FuelCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/inheritance/FuelCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/inheritance/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/inheritance/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/innerclasses/CellPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/innerclasses/CellPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/innerclasses/Display.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/innerclasses/Display.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/innerclasses/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/innerclasses/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/innerclasses/RadioModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/innerclasses/RadioModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/interfaces/CellPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/CellPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/interfaces/Deliverable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/Deliverable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/interfaces/Electroics.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/Electroics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/interfaces/Fridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/Fridge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/interfaces/InterfacesMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/InterfacesMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/interfaces/Orderable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/Orderable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/interfaces/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/interfaces/Priceable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/Priceable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/interfaces/Size.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/Size.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/methods/Dragon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/methods/Dragon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/methods/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/methods/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/multithreading/Deadlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/multithreading/Deadlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/multithreading/SynchronizedBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/multithreading/SynchronizedBuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/nio/NioMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/nio/NioMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/MainTestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/target/classes/MainTestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/StaticTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/target/classes/StaticTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/StringBuilderAndBuffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/Casting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/SizeEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/arrays/RandomFrequency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/arrays/TwoDimArrayForEach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/arrays/VarArgs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/collections/CollectionsMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/collections/LinkedListIteratorExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/inheritance/Auto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/inheritance/Bus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/inheritance/ElectricCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/inheritance/FuelCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/inheritance/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/innerclasses/CellPhone$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/innerclasses/CellPhone$AbstractPhoneButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/innerclasses/CellPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/innerclasses/Display$Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/innerclasses/Display$Pixel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/innerclasses/Display.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/innerclasses/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/innerclasses/RadioModule$1GSMModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/innerclasses/RadioModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/interfaces/CellPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/interfaces/Deliverable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/interfaces/Electroics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/interfaces/Fridge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/interfaces/InterfacesMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/interfaces/Orderable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/interfaces/Pizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/interfaces/Priceable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/interfaces/Size.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/methods/Dragon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/methods/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/multithreading/Deadlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/multithreading/SynchronizedBuffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/nio/NioMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HillelAutotest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HillelAutotest/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HillelAutotest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HillelAutotest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HillelAutotest/src/main/java/Autotest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HillelAutotest/src/main/java/Autotest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/common/common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inspections/inspections.iml" beforeDir="false" afterPath="$PROJECT_DIR$/inspections/inspections.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workshop/workshop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/workshop/workshop.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,40 +92,8 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/workshop/src/test/java/tests/SettingsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="42" column="31" lean-forward="true" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/common/src/main/java/com/cumulus/pages/settings/SettingsPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="68" column="44" lean-forward="true" selection-start-line="68" selection-start-column="44" selection-end-line="68" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-      </list>
-    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -59,63 +102,27 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="15" />
-    <option name="y" value="30" />
-    <option name="width" value="1686" />
-    <option name="height" value="1020" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="fwqa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fwqa" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fwqa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fwqa" type="462c0819:PsiDirectoryNode" />
-              <item name="workshop" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1Uh9KkRvYdYDoag4lsmhJmXi9lE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fwqa_111/common/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.customizations" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../fwqa_111/common/pom.xml" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="TestNG.SettingsTest">
     <configuration name="EntryPoint" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -148,6 +155,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -159,6 +178,7 @@
       <option name="presentableId" value="Default" />
       <updated>1563868893902</updated>
       <workItem from="1563868898436" duration="2969000" />
+      <workItem from="1575797900084" duration="795000" />
     </task>
     <servers />
   </component>
@@ -170,9 +190,6 @@
       <configuration name="SettingsTest" configurationId="TestNG" />
     </history-entry>
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2969000" />
-  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -182,76 +199,11 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1185" height="735" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1991111" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3283582" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.3283582" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.79436153" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3283582" />
-      <window_info anchor="right" id="Maven" weight="0.32977778" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/workshop/src/main/resources/bus.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/workshop/src/test/java/tests/SettingsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="42" column="31" lean-forward="true" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/cumulus/pages/settings/SettingsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="68" column="44" lean-forward="true" selection-start-line="68" selection-start-column="44" selection-end-line="68" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
