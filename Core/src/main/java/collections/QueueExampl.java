@@ -5,7 +5,7 @@ import java.util.Queue;
 
 public class QueueExampl {
     public static void main(String[] args) {
-        Queue queue = new LinkedList();
+        Queue queue = new LinkedList<>();
         queue.add(5);
         queue.add("four");
         queue.add("dog");
@@ -15,7 +15,7 @@ public class QueueExampl {
 
         System.out.println(queue.element()); // give me first element
 
-        ((LinkedList) queue).add(1,"fuck"); // this is fucking magic !!!
+        ((LinkedList) queue).add(1,"duck");
         System.out.println("pull0 : " + queue);
 
         queue.poll(); System.out.println("pull 1: " + queue);

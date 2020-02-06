@@ -14,9 +14,24 @@ public class HashSetExmpl {
         hashSet.add("Fujitsu"); // duplicate will not be added
         hashSet.add("Sony");
 
-        Iterator iterator = hashSet.iterator();
+        Iterator<String> iterator = hashSet.iterator();
         while(iterator.hasNext()){
-            System.out.println(iterator.next());
+            System.out.print(iterator.next() + " ");
         }
+
+//        for (String element : hashSet) {
+//            System.out.print(element + ", ");
+//        }
+//
+//        System.out.println();
+//        System.out.println("################################");
+//
+//        hashSet.remove("Apple");
+//        hashSet.add("Dell");
+//
+//        for (String element : hashSet) {
+//                System.out.print(element + ", ");
+//        }
+
     }
 }

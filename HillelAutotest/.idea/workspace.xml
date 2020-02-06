@@ -2,24 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cae8980e-ece4-4a1f-bc29-e0fe46c2e428" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/MainTestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/MainTestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/MainTestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/target/classes/MainTestClass.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Autotest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SearchBookTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MainTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/JavaForKids.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/HomeWorkCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/class1/MainClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/class2/MainClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/class3/TestCat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/class3/Zoo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/HomeWorkCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/class1/MainClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/class2/MainClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/class3/TestCat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/class3/Zoo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SnakeFX/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SnakeFX/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SnakeFX/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SnakeFX/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,6 +139,7 @@
       <workItem from="1574265527311" duration="1820000" />
       <workItem from="1575794149885" duration="3862000" />
       <workItem from="1577813910323" duration="641000" />
+      <workItem from="1580210338400" duration="621000" />
     </task>
     <servers />
   </component>
@@ -202,5 +191,9 @@
       <screen x="1920" y="0" width="1280" height="770" />
     </state>
     <state x="2063" y="30" key="SettingsEditor/0.0.1401.864/1920.0.1280.770@1920.0.1280.770" timestamp="1575796047084" />
+    <state x="409" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1580210354546">
+      <screen x="0" y="0" width="1401" height="864" />
+    </state>
+    <state x="409" y="259" key="com.intellij.ide.util.TipDialog/0.0.1401.864@0.0.1401.864" timestamp="1580210354546" />
   </component>
 </project>

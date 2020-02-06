@@ -1,28 +1,20 @@
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
-
-import java.util.Scanner;
+import java.util.Arrays;
 
 public class MainTestClass {
+
     public static void main(String[] args) {
 
-        int r = (int) (Math.random() * 10);
-        System.out.println(r);
+        String str = "Hello World how are you today ?";
 
-        Scanner scanner = new Scanner(System.in);
-        int s = 0;
-        while (s != r){
+        String intern = str.intern();
+        System.out.println(intern);
 
-            System.out.println("Введите число: ");
-            s = scanner.nextInt();
-
-            if(s > r){
-                System.out.println("Меньше");
-            } else if(s < r){
-                System.out.println("Больше");
-            }
-        }
-        System.out.println("Угадали!" + " || " + r + " " + s);
-
+//        String[] strArray = str.split(" ");
+//        System.out.println(Arrays.toString(strArray));
+//
+//        for(String oneWord : strArray){
+//            System.out.println(oneWord);
+//        }
 
     }
 }

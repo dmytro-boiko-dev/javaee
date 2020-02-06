@@ -19,9 +19,5 @@ public class SetExmpl {
 
         TreeSet<Integer> treeSet = new TreeSet<>(intHashSet);
         System.out.println(treeSet);
-
-        //slow down boooy
-        //HashSet<String> hashSet = new HashSet<String>();
-
     }
 }
