@@ -1,4 +1,4 @@
-package inheritance;
+package inheritance_old;
 
 public class ElectricCar extends Auto {
     private int betteryCapacity;

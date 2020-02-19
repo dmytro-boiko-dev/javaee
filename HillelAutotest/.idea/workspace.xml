@@ -5,9 +5,8 @@
       <change beforePath="$PROJECT_DIR$/../Core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Core/src/main/java/MainTestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/MainTestClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Core/target/classes/MainTestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/target/classes/MainTestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/multithreading/CallableWithStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/target/classes/multithreading/CallableWithStream.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SnakeFX/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SnakeFX/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SnakeFX/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SnakeFX/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,14 +57,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="JUnit.SearchBookTest">
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainClass" />
-      <module name="HillelAutotest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestSuite">
     <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainTest" />
       <module name="HillelAutotest" />
@@ -101,13 +93,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HillelAutotest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestSuite" />
         <item itemvalue="JUnit.SearchBookTest" />
         <item itemvalue="JUnit.LoginTest" />
         <item itemvalue="JUnit.SearchBookTest.textBookSearch" />
         <item itemvalue="Application.MainTest" />
-        <item itemvalue="Application.MainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -140,40 +141,9 @@
       <workItem from="1575794149885" duration="3862000" />
       <workItem from="1577813910323" duration="641000" />
       <workItem from="1580210338400" duration="621000" />
+      <workItem from="1582110433019" duration="648000" />
     </task>
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="Autotest_textBookSearch - 2019.07.21 at 14h 12m 52s.xml">
-      <configuration name="Autotest.textBookSearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Autotest - 2019.07.24 at 19h 56m 55s.xml">
-      <configuration name="Autotest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Autotest - 2019.07.24 at 19h 57m 54s.xml">
-      <configuration name="Autotest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Autotest - 2019.07.24 at 20h 03m 11s.xml">
-      <configuration name="Autotest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Autotest - 2019.07.24 at 20h 04m 44s.xml">
-      <configuration name="Autotest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LoginTest - 2019.07.24 at 20h 14m 51s.xml">
-      <configuration name="LoginTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LoginTest - 2019.07.24 at 20h 16m 47s.xml">
-      <configuration name="LoginTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LoginTest - 2019.07.24 at 20h 18m 17s.xml">
-      <configuration name="LoginTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LoginTest - 2019.07.24 at 20h 19m 56s.xml">
-      <configuration name="LoginTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Autotest - 2019.07.24 at 20h 21m 54s.xml">
-      <configuration name="Autotest" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -187,6 +157,22 @@
       <screen x="0" y="0" width="1401" height="864" />
     </state>
     <state x="481" y="190" key="FileChooserDialogImpl/0.0.1401.864@0.0.1401.864" timestamp="1575799235018" />
+    <state width="1358" height="296" key="GridCell.Tab.0.bottom" timestamp="1582116753348">
+      <screen x="0" y="0" width="1401" height="864" />
+    </state>
+    <state width="1358" height="296" key="GridCell.Tab.0.bottom/0.0.1401.864@0.0.1401.864" timestamp="1582116753348" />
+    <state width="1358" height="296" key="GridCell.Tab.0.center" timestamp="1582116753348">
+      <screen x="0" y="0" width="1401" height="864" />
+    </state>
+    <state width="1358" height="296" key="GridCell.Tab.0.center/0.0.1401.864@0.0.1401.864" timestamp="1582116753348" />
+    <state width="1358" height="296" key="GridCell.Tab.0.left" timestamp="1582116753348">
+      <screen x="0" y="0" width="1401" height="864" />
+    </state>
+    <state width="1358" height="296" key="GridCell.Tab.0.left/0.0.1401.864@0.0.1401.864" timestamp="1582116753348" />
+    <state width="1358" height="296" key="GridCell.Tab.0.right" timestamp="1582116753348">
+      <screen x="0" y="0" width="1401" height="864" />
+    </state>
+    <state width="1358" height="296" key="GridCell.Tab.0.right/0.0.1401.864@0.0.1401.864" timestamp="1582116753348" />
     <state x="2063" y="30" key="SettingsEditor" timestamp="1575796047084">
       <screen x="1920" y="0" width="1280" height="770" />
     </state>

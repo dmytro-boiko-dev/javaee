@@ -1,4 +1,4 @@
-package inheritance;
+package inheritance_old;
 
 public class MainClass {
     public static void main(String[] args) {

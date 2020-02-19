@@ -1,4 +1,4 @@
-package inheritance;
+package inheritance_old;
 
 public class Bus extends FuelCar {
     private int passangersNumber;
