@@ -2,35 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="335634c5-1df5-4aa3-ae38-0ab81d4eba82" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/AndroidOS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/MacOS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/OperatingSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/WindowsOS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/polymorphism/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/polymorphism/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/polymorphism/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/polymorphism/MakeSound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/polymorphism/Submarine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/polymorphism/Swim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/MultiDimentional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/implementations/stack/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/implementations/stack/TestStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/loops/BreakForBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/loops/ContinueInLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/loops/ForEach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/MainTestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainTestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance_old/Auto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance_old/Bus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance_old/ElectricCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/FuelCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance_old/FuelCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance_old/MainClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/MainTestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MainTestClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Auto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/Bus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/ElectricCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/FuelCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/MainClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/multithreading/CallableWithStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/multithreading/CallableWithStream.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HillelAutotest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HillelAutotest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HillelAutotest/target/classes/Autotest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HillelAutotest/target/classes/META-INF/com.hillel.autotest.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HillelAutotest/target/classes/MainTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +27,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -113,20 +93,20 @@
       <recent name="D:\java\GIT\Core\src\main\resources\files" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainTestClass">
+  <component name="RunManager" selected="Application.TestStack">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CallableWithStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreading.CallableWithStream" />
+    <configuration name="BreakForBlocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.BreakForBlocks" />
       <module name="Core" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multithreading.*" />
+          <option name="PATTERN" value="loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,41 +114,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson3.Cat" />
+    <configuration name="ContinueInLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.ContinueInLoops" />
       <module name="Core" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.inheritance.MainClass" />
-      <module name="Core" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop.inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.polymorphism.MainClass" />
-      <module name="Core" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop.polymorphism.*" />
+          <option name="PATTERN" value="loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,6 +132,34 @@
       <option name="MAIN_CLASS_NAME" value="MainTestClass" />
       <module name="Core" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiDimentional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.MultiDimentional" />
+      <module name="Core" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="implementations.stack.TestStack" />
+      <module name="Core" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="implementations.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -338,19 +318,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CallableWithStream" />
       <item itemvalue="Application.MainTestClass" />
-      <item itemvalue="Application.Cat" />
-      <item itemvalue="Application.MainClassForTest" />
-      <item itemvalue="Application.MainClass (1)" />
+      <item itemvalue="Application.MultiDimentional" />
+      <item itemvalue="Application.BreakForBlocks" />
+      <item itemvalue="Application.ContinueInLoops" />
+      <item itemvalue="Application.TestStack" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestStack" />
         <item itemvalue="Application.MainTestClass" />
-        <item itemvalue="Application.MainClassForTest" />
-        <item itemvalue="Application.MainClass (1)" />
-        <item itemvalue="Application.Cat" />
-        <item itemvalue="Application.CallableWithStream" />
+        <item itemvalue="Application.ContinueInLoops" />
+        <item itemvalue="Application.BreakForBlocks" />
+        <item itemvalue="Application.MultiDimentional" />
       </list>
     </recent_temporary>
   </component>
@@ -550,6 +530,15 @@
       <workItem from="1581421423931" duration="59000" />
       <workItem from="1581849142621" duration="1758000" />
       <workItem from="1582126328602" duration="5118000" />
+      <workItem from="1582211892035" duration="2437000" />
+      <workItem from="1582290840086" duration="3004000" />
+      <workItem from="1582453815037" duration="3079000" />
+      <workItem from="1582541851928" duration="1490000" />
+      <workItem from="1582642247643" duration="2240000" />
+      <workItem from="1582735519622" duration="2982000" />
+      <workItem from="1582889757502" duration="2522000" />
+      <workItem from="1583059250567" duration="2013000" />
+      <workItem from="1583343221543" duration="1444000" />
     </task>
     <servers />
   </component>
@@ -587,67 +576,67 @@
     </state>
     <state x="481" y="190" key="FileChooserDialogImpl/0.0.1401.864/1920.0.1280.770@0.0.1401.864" timestamp="1575797896377" />
     <state x="481" y="190" key="FileChooserDialogImpl/0.0.1401.864@0.0.1401.864" timestamp="1581421461258" />
-    <state width="1358" height="180" key="GridCell.Tab.0.bottom" timestamp="1582133040593">
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1583344800993">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
     <state width="1358" height="236" key="GridCell.Tab.0.bottom/0.0.1401.864/1920.0.1280.770@0.0.1401.864" timestamp="1579430462484" />
     <state width="1237" height="455" key="GridCell.Tab.0.bottom/0.0.1401.864/1920.0.1280.770@1920.0.1280.770" timestamp="1579430603019" />
-    <state width="1877" height="244" key="GridCell.Tab.0.bottom/0.0.1401.864/1920.0.1920.1050@1920.0.1920.1050" timestamp="1581245503923" />
-    <state width="1358" height="180" key="GridCell.Tab.0.bottom/0.0.1401.864@0.0.1401.864" timestamp="1582133040593" />
-    <state width="1358" height="180" key="GridCell.Tab.0.center" timestamp="1582133040593">
+    <state width="1877" height="245" key="GridCell.Tab.0.bottom/0.0.1401.864/1920.0.1920.1050@1920.0.1920.1050" timestamp="1583060507556" />
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.0.1401.864@0.0.1401.864" timestamp="1583344800993" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1583344800992">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
     <state width="1358" height="236" key="GridCell.Tab.0.center/0.0.1401.864/1920.0.1280.770@0.0.1401.864" timestamp="1579430462484" />
     <state width="1237" height="455" key="GridCell.Tab.0.center/0.0.1401.864/1920.0.1280.770@1920.0.1280.770" timestamp="1579430603019" />
-    <state width="1877" height="244" key="GridCell.Tab.0.center/0.0.1401.864/1920.0.1920.1050@1920.0.1920.1050" timestamp="1581245503923" />
-    <state width="1358" height="180" key="GridCell.Tab.0.center/0.0.1401.864@0.0.1401.864" timestamp="1582133040593" />
-    <state width="1358" height="180" key="GridCell.Tab.0.left" timestamp="1582133040593">
+    <state width="1877" height="245" key="GridCell.Tab.0.center/0.0.1401.864/1920.0.1920.1050@1920.0.1920.1050" timestamp="1583060507556" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center/0.0.1401.864@0.0.1401.864" timestamp="1583344800992" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1583344800992">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
     <state width="1358" height="236" key="GridCell.Tab.0.left/0.0.1401.864/1920.0.1280.770@0.0.1401.864" timestamp="1579430462484" />
     <state width="1237" height="455" key="GridCell.Tab.0.left/0.0.1401.864/1920.0.1280.770@1920.0.1280.770" timestamp="1579430603019" />
-    <state width="1877" height="244" key="GridCell.Tab.0.left/0.0.1401.864/1920.0.1920.1050@1920.0.1920.1050" timestamp="1581245503923" />
-    <state width="1358" height="180" key="GridCell.Tab.0.left/0.0.1401.864@0.0.1401.864" timestamp="1582133040593" />
-    <state width="1358" height="180" key="GridCell.Tab.0.right" timestamp="1582133040593">
+    <state width="1877" height="245" key="GridCell.Tab.0.left/0.0.1401.864/1920.0.1920.1050@1920.0.1920.1050" timestamp="1583060507556" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left/0.0.1401.864@0.0.1401.864" timestamp="1583344800992" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1583344800993">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
     <state width="1358" height="236" key="GridCell.Tab.0.right/0.0.1401.864/1920.0.1280.770@0.0.1401.864" timestamp="1579430462484" />
     <state width="1237" height="455" key="GridCell.Tab.0.right/0.0.1401.864/1920.0.1280.770@1920.0.1280.770" timestamp="1579430603019" />
-    <state width="1877" height="244" key="GridCell.Tab.0.right/0.0.1401.864/1920.0.1920.1050@1920.0.1920.1050" timestamp="1581245503923" />
-    <state width="1358" height="180" key="GridCell.Tab.0.right/0.0.1401.864@0.0.1401.864" timestamp="1582133040593" />
-    <state width="1358" height="301" key="GridCell.Tab.1.bottom" timestamp="1580750867678">
+    <state width="1877" height="245" key="GridCell.Tab.0.right/0.0.1401.864/1920.0.1920.1050@1920.0.1920.1050" timestamp="1583060507556" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right/0.0.1401.864@0.0.1401.864" timestamp="1583344800993" />
+    <state width="1358" height="301" key="GridCell.Tab.1.bottom" timestamp="1583344529094">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
-    <state width="1358" height="301" key="GridCell.Tab.1.bottom/0.0.1401.864@0.0.1401.864" timestamp="1580750867678" />
-    <state width="1358" height="301" key="GridCell.Tab.1.center" timestamp="1580750867678">
+    <state width="1358" height="301" key="GridCell.Tab.1.bottom/0.0.1401.864@0.0.1401.864" timestamp="1583344529094" />
+    <state width="1358" height="301" key="GridCell.Tab.1.center" timestamp="1583344529094">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
-    <state width="1358" height="301" key="GridCell.Tab.1.center/0.0.1401.864@0.0.1401.864" timestamp="1580750867678" />
-    <state width="1358" height="301" key="GridCell.Tab.1.left" timestamp="1580750867678">
+    <state width="1358" height="301" key="GridCell.Tab.1.center/0.0.1401.864@0.0.1401.864" timestamp="1583344529094" />
+    <state width="1358" height="301" key="GridCell.Tab.1.left" timestamp="1583344529094">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
-    <state width="1358" height="301" key="GridCell.Tab.1.left/0.0.1401.864@0.0.1401.864" timestamp="1580750867678" />
-    <state width="1358" height="301" key="GridCell.Tab.1.right" timestamp="1580750867678">
+    <state width="1358" height="301" key="GridCell.Tab.1.left/0.0.1401.864@0.0.1401.864" timestamp="1583344529094" />
+    <state width="1358" height="301" key="GridCell.Tab.1.right" timestamp="1583344529094">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
-    <state width="1358" height="301" key="GridCell.Tab.1.right/0.0.1401.864@0.0.1401.864" timestamp="1580750867678" />
-    <state x="212" y="77" key="SettingsEditor" timestamp="1581863591814">
+    <state width="1358" height="301" key="GridCell.Tab.1.right/0.0.1401.864@0.0.1401.864" timestamp="1583344529094" />
+    <state x="212" y="77" key="SettingsEditor" timestamp="1583073412010">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
     <state x="212" y="67" key="SettingsEditor/0.0.1401.864/1920.0.1280.770@0.0.1401.864" timestamp="1581849177958" />
     <state x="2114" y="60" key="SettingsEditor/0.0.1401.864/1920.0.1280.770@1920.0.1280.770" timestamp="1581849237885" />
-    <state x="212" y="77" key="SettingsEditor/0.0.1401.864/1920.0.1920.1050@0.0.1401.864" timestamp="1581244771648" />
-    <state x="212" y="77" key="SettingsEditor/0.0.1401.864@0.0.1401.864" timestamp="1581863591814" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1580988940900">
+    <state x="212" y="77" key="SettingsEditor/0.0.1401.864/1920.0.1920.1050@0.0.1401.864" timestamp="1583059272403" />
+    <state x="212" y="77" key="SettingsEditor/0.0.1401.864@0.0.1401.864" timestamp="1583073412010" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1583343883682">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1401.864@0.0.1401.864" timestamp="1580988940900" />
-    <state x="409" y="259" width="582" height="342" key="com.intellij.ide.util.TipDialog" timestamp="1581849141674">
+    <state width="498" height="446" key="SwitcherDM/0.0.1401.864@0.0.1401.864" timestamp="1583343883682" />
+    <state x="409" y="259" width="582" height="342" key="com.intellij.ide.util.TipDialog" timestamp="1583059250587">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
     <state x="409" y="259" key="com.intellij.ide.util.TipDialog/0.0.1401.864/1920.0.1280.770@0.0.1401.864" timestamp="1581849141674" />
-    <state x="409" y="259" key="com.intellij.ide.util.TipDialog/0.0.1401.864/1920.0.1920.1050@0.0.1401.864" timestamp="1581244723521" />
-    <state x="409" y="259" width="582" height="342" key="com.intellij.ide.util.TipDialog/0.0.1401.864@0.0.1401.864" timestamp="1581421422922" />
+    <state x="409" y="259" key="com.intellij.ide.util.TipDialog/0.0.1401.864/1920.0.1920.1050@0.0.1401.864" timestamp="1583059250587" />
+    <state x="409" y="259" width="582" height="342" key="com.intellij.ide.util.TipDialog/0.0.1401.864@0.0.1401.864" timestamp="1582889758751" />
     <state x="348" y="46" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1575471183192">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
@@ -660,10 +649,10 @@
       <screen x="0" y="0" width="1401" height="864" />
     </state>
     <state x="343" y="159" width="700" height="530" key="recent.locations.popup/0.0.1401.864@0.0.1401.864" timestamp="1580988938516" />
-    <state x="358" y="197" key="run.anything.popup" timestamp="1582131501261">
+    <state x="358" y="197" key="run.anything.popup" timestamp="1582737385660">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
-    <state x="358" y="197" key="run.anything.popup/0.0.1401.864@0.0.1401.864" timestamp="1582131501261" />
+    <state x="358" y="197" key="run.anything.popup/0.0.1401.864@0.0.1401.864" timestamp="1582737385660" />
     <state x="363" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1579427825790">
       <screen x="0" y="0" width="1401" height="864" />
     </state>

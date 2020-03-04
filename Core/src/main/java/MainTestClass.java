@@ -1,8 +1,16 @@
-import static java.lang.System.*;
+import java.io.IOException;
 
 public class MainTestClass {
-    public static void main(String[] args) {
+    public static void main(String... args) throws IOException {
 
-        out.println("hack you!");
+
+
+
+
+
+
+
+
+        }
+
     }
-}
