@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a53a482-88ec-4dd7-b812-e8129675048e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YAUosMfftEGLdjHINiI2DmcTxP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\ML\practice" />
+      <recent name="D:\Python\ML\lessons" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.practice4">
+    <configuration name="lesson4 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/lesson4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Python\ML\lessons\lesson4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="point" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/point.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="practice3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Python\ML\practice\practice3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="practice4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ML" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/practice4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.practice4" />
+        <item itemvalue="Python.lesson4 (1)" />
+        <item itemvalue="Python.practice3" />
+        <item itemvalue="Python.point" />
+        <item itemvalue="Python.lesson4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a53a482-88ec-4dd7-b812-e8129675048e" name="Default Changelist" comment="" />
+      <created>1582385070787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582385070787</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="293" y="94" key="#Inspections" timestamp="1582990190796">
+      <screen x="0" y="0" width="1401" height="864" />
+    </state>
+    <state x="293" y="94" key="#Inspections/0.0.1401.864@0.0.1401.864" timestamp="1582990190796" />
+    <state x="156" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582385123509">
+      <screen x="0" y="0" width="1401" height="864" />
+    </state>
+    <state x="156" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1401.864@0.0.1401.864" timestamp="1582385123509" />
+    <state x="460" y="242" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582994946829">
+      <screen x="0" y="0" width="1401" height="864" />
+    </state>
+    <state x="460" y="242" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1401.864@0.0.1401.864" timestamp="1582994946829" />
+    <state width="1380" height="488" key="GridCell.Tab.0.bottom" timestamp="1585331556609">
+      <screen x="0" y="0" width="1401" height="864" />
+    </state>
+    <state width="1380" height="488" key="GridCell.Tab.0.bottom/0.0.1401.864@0.0.1401.864" timestamp="1585331556609" />
+    <state width="1380" height="488" key="GridCell.Tab.0.center" timestamp="1585331556609">
+      <screen x="0" y="0" width="1401" height="864" />
+    </state>
+    <state width="1380" height="488" key="GridCell.Tab.0.center/0.0.1401.864@0.0.1401.864" timestamp="1585331556609" />
+    <state width="1380" height="488" key="GridCell.Tab.0.left" timestamp="1585331556608">
+      <screen x="0" y="0" width="1401" height="864" />
+    </state>
+    <state width="1380" height="488" key="GridCell.Tab.0.left/0.0.1401.864@0.0.1401.864" timestamp="1585331556608" />
+    <state width="1380" height="488" key="GridCell.Tab.0.right" timestamp="1585331556609">
+      <screen x="0" y="0" width="1401" height="864" />
+    </state>
+    <state width="1380" height="488" key="GridCell.Tab.0.right/0.0.1401.864@0.0.1401.864" timestamp="1585331556609" />
+    <state width="1380" height="277" key="GridCell.Tab.1.bottom" timestamp="1584107182921">
+      <screen x="0" y="0" width="1401" height="864" />
+    </state>
+    <state width="1380" height="277" key="GridCell.Tab.1.bottom/0.0.1401.864@0.0.1401.864" timestamp="1584107182921" />
+    <state width="1380" height="277" key="GridCell.Tab.1.center" timestamp="1584107182921">
+      <screen x="0" y="0" width="1401" height="864" />
+    </state>
+    <state width="1380" height="277" key="GridCell.Tab.1.center/0.0.1401.864@0.0.1401.864" timestamp="1584107182921" />
+    <state width="1380" height="277" key="GridCell.Tab.1.left" timestamp="1584107182921">
+      <screen x="0" y="0" width="1401" height="864" />
+    </state>
+    <state width="1380" height="277" key="GridCell.Tab.1.left/0.0.1401.864@0.0.1401.864" timestamp="1584107182921" />
+    <state width="1380" height="277" key="GridCell.Tab.1.right" timestamp="1584107182921">
+      <screen x="0" y="0" width="1401" height="864" />
+    </state>
+    <state width="1380" height="277" key="GridCell.Tab.1.right/0.0.1401.864@0.0.1401.864" timestamp="1584107182921" />
+    <state x="409" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1585314225867">
+      <screen x="0" y="0" width="1401" height="864" />
+    </state>
+    <state x="409" y="260" key="com.intellij.ide.util.TipDialog/0.0.1401.864@0.0.1401.864" timestamp="1585314225867" />
+    <state x="363" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1585331011732">
+      <screen x="0" y="0" width="1401" height="864" />
+    </state>
+    <state x="363" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1401.864@0.0.1401.864" timestamp="1585331011732" />
+  </component>
+</project>

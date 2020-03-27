@@ -2,15 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="335634c5-1df5-4aa3-ae38-0ab81d4eba82" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/MultiDimentional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/implementations/stack/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/implementations/stack/TestStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/loops/BreakForBlocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/loops/ContinueInLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/loops/ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/constructors/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/constructors/BoxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/examples/Exc0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/abstraction/geometry/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/abstraction/geometry/GeometryMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/abstraction/geometry/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/abstraction/geometry/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/abstraction/simple_abstraction/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/abstraction/simple_abstraction/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/abstraction/simple_abstraction/MainAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/box_example/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/box_example/BoxMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/box_example/BoxWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/factorial/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/factorial/FactorialMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/simple/SimpleRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/simple/SimpleRecursionMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameFX/src/gamefx/SnakeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameFX/src/gamefx/objects/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameFX/src/gamefx/objects/Snake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaForKids/JavaForKids.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam3/boxes/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam3/boxes/BoxColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam3/boxes/BoxMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam3/lesson7/ArraysMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/oop/boxexample/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/oop/boxexample/BoxColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/oop/boxexample/BoxMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/MainTestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainTestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop/inheritance/AndroidOS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/os_example/AndroidOS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop/inheritance/MacOS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/os_example/MacOS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop/inheritance/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/os_example/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop/inheritance/OperatingSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/os_example/OperatingSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop/inheritance/WindowsOS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/os_example/WindowsOS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/querydsl/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/querydsl/UserEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/querydsl/UserEntityDAO.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/MainTestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MainTestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oop/inheritance/AndroidOS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oop/inheritance/MacOS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oop/inheritance/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oop/inheritance/OperatingSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/oop/inheritance/WindowsOS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/querydsl/MainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/querydsl/QUserEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/querydsl/UserEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/querydsl/UserEntityDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/querydsl/QUserEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SnakeFX/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SnakeFX/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +98,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1UQIpZ2uPDh7weNfy2tcNbtYCTX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -93,20 +137,20 @@
       <recent name="D:\java\GIT\Core\src\main\resources\files" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestStack">
+  <component name="RunManager" selected="Application.Exc0">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BreakForBlocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.BreakForBlocks" />
+    <configuration name="BoxMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.inheritance.box_example.BoxMain" />
       <module name="Core" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops.*" />
+          <option name="PATTERN" value="oop.inheritance.box_example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,13 +158,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContinueInLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.ContinueInLoops" />
+    <configuration name="Exc0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptions.examples.Exc0" />
       <module name="Core" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops.*" />
+          <option name="PATTERN" value="exceptions.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeometryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.abstraction.geometry.GeometryMain" />
+      <module name="Core" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.abstraction.geometry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainAbstract" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.abstraction.simple_abstraction.MainAbstract" />
+      <module name="Core" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.abstraction.simple_abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,34 +204,6 @@
       <option name="MAIN_CLASS_NAME" value="MainTestClass" />
       <module name="Core" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MultiDimentional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.MultiDimentional" />
-      <module name="Core" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="implementations.stack.TestStack" />
-      <module name="Core" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="implementations.stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -319,18 +363,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.MainTestClass" />
-      <item itemvalue="Application.MultiDimentional" />
-      <item itemvalue="Application.BreakForBlocks" />
-      <item itemvalue="Application.ContinueInLoops" />
-      <item itemvalue="Application.TestStack" />
+      <item itemvalue="Application.BoxMain" />
+      <item itemvalue="Application.MainAbstract" />
+      <item itemvalue="Application.GeometryMain" />
+      <item itemvalue="Application.Exc0" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestStack" />
+        <item itemvalue="Application.Exc0" />
+        <item itemvalue="Application.GeometryMain" />
+        <item itemvalue="Application.MainAbstract" />
+        <item itemvalue="Application.BoxMain" />
         <item itemvalue="Application.MainTestClass" />
-        <item itemvalue="Application.ContinueInLoops" />
-        <item itemvalue="Application.BreakForBlocks" />
-        <item itemvalue="Application.MultiDimentional" />
       </list>
     </recent_temporary>
   </component>
@@ -538,7 +582,18 @@
       <workItem from="1582735519622" duration="2982000" />
       <workItem from="1582889757502" duration="2522000" />
       <workItem from="1583059250567" duration="2013000" />
-      <workItem from="1583343221543" duration="1444000" />
+      <workItem from="1583343221543" duration="1672000" />
+      <workItem from="1583418440004" duration="6984000" />
+      <workItem from="1583493432257" duration="355000" />
+      <workItem from="1583855624163" duration="2412000" />
+      <workItem from="1583925016098" duration="13551000" />
+      <workItem from="1583949794639" duration="1040000" />
+      <workItem from="1584016228239" duration="3560000" />
+      <workItem from="1584546299826" duration="2074000" />
+      <workItem from="1584548418913" duration="1521000" />
+      <workItem from="1584868826484" duration="1382000" />
+      <workItem from="1584984498361" duration="2341000" />
+      <workItem from="1585234900870" duration="980000" />
     </task>
     <servers />
   </component>
@@ -555,71 +610,62 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="506" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1582129534874">
+    <state x="506" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1584548358070">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
-    <state x="506" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1401.864@0.0.1401.864" timestamp="1582129534874" />
+    <state x="506" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1401.864@0.0.1401.864" timestamp="1584548358070" />
     <state x="430" y="361" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1582126403164">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
     <state x="430" y="361" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1401.864@0.0.1401.864" timestamp="1582126403164" />
-    <state x="504" y="301" width="393" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1575376751617">
+    <state x="481" y="190" key="FileChooserDialogImpl" timestamp="1584868989891">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
-    <state x="504" y="301" width="393" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1401.864@0.0.1401.864" timestamp="1575376751617" />
-    <state x="504" y="321" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1575376703542">
-      <screen x="0" y="0" width="1401" height="864" />
-    </state>
-    <state x="504" y="321" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1401.864@0.0.1401.864" timestamp="1575376703542" />
-    <state x="481" y="190" key="FileChooserDialogImpl" timestamp="1581421461258">
-      <screen x="0" y="0" width="1401" height="864" />
-    </state>
-    <state x="481" y="190" key="FileChooserDialogImpl/0.0.1401.864/1920.0.1280.770@0.0.1401.864" timestamp="1575797896377" />
-    <state x="481" y="190" key="FileChooserDialogImpl/0.0.1401.864@0.0.1401.864" timestamp="1581421461258" />
-    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1583344800993">
+    <state x="481" y="190" key="FileChooserDialogImpl/0.0.1401.864@0.0.1401.864" timestamp="1584868989891" />
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1585236257546">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
     <state width="1358" height="236" key="GridCell.Tab.0.bottom/0.0.1401.864/1920.0.1280.770@0.0.1401.864" timestamp="1579430462484" />
     <state width="1237" height="455" key="GridCell.Tab.0.bottom/0.0.1401.864/1920.0.1280.770@1920.0.1280.770" timestamp="1579430603019" />
     <state width="1877" height="245" key="GridCell.Tab.0.bottom/0.0.1401.864/1920.0.1920.1050@1920.0.1920.1050" timestamp="1583060507556" />
-    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.0.1401.864@0.0.1401.864" timestamp="1583344800993" />
-    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1583344800992">
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.0.1401.864@0.0.1401.864" timestamp="1585236257546" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1585236257546">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
     <state width="1358" height="236" key="GridCell.Tab.0.center/0.0.1401.864/1920.0.1280.770@0.0.1401.864" timestamp="1579430462484" />
     <state width="1237" height="455" key="GridCell.Tab.0.center/0.0.1401.864/1920.0.1280.770@1920.0.1280.770" timestamp="1579430603019" />
     <state width="1877" height="245" key="GridCell.Tab.0.center/0.0.1401.864/1920.0.1920.1050@1920.0.1920.1050" timestamp="1583060507556" />
-    <state width="1358" height="191" key="GridCell.Tab.0.center/0.0.1401.864@0.0.1401.864" timestamp="1583344800992" />
-    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1583344800992">
+    <state width="1358" height="191" key="GridCell.Tab.0.center/0.0.1401.864@0.0.1401.864" timestamp="1585236257546" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1585236257546">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
     <state width="1358" height="236" key="GridCell.Tab.0.left/0.0.1401.864/1920.0.1280.770@0.0.1401.864" timestamp="1579430462484" />
     <state width="1237" height="455" key="GridCell.Tab.0.left/0.0.1401.864/1920.0.1280.770@1920.0.1280.770" timestamp="1579430603019" />
     <state width="1877" height="245" key="GridCell.Tab.0.left/0.0.1401.864/1920.0.1920.1050@1920.0.1920.1050" timestamp="1583060507556" />
-    <state width="1358" height="191" key="GridCell.Tab.0.left/0.0.1401.864@0.0.1401.864" timestamp="1583344800992" />
-    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1583344800993">
+    <state width="1358" height="191" key="GridCell.Tab.0.left/0.0.1401.864@0.0.1401.864" timestamp="1585236257546" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1585236257546">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
     <state width="1358" height="236" key="GridCell.Tab.0.right/0.0.1401.864/1920.0.1280.770@0.0.1401.864" timestamp="1579430462484" />
     <state width="1237" height="455" key="GridCell.Tab.0.right/0.0.1401.864/1920.0.1280.770@1920.0.1280.770" timestamp="1579430603019" />
     <state width="1877" height="245" key="GridCell.Tab.0.right/0.0.1401.864/1920.0.1920.1050@1920.0.1920.1050" timestamp="1583060507556" />
-    <state width="1358" height="191" key="GridCell.Tab.0.right/0.0.1401.864@0.0.1401.864" timestamp="1583344800993" />
-    <state width="1358" height="301" key="GridCell.Tab.1.bottom" timestamp="1583344529094">
+    <state width="1358" height="191" key="GridCell.Tab.0.right/0.0.1401.864@0.0.1401.864" timestamp="1585236257546" />
+    <state width="1358" height="254" key="GridCell.Tab.1.bottom" timestamp="1584025022758">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
-    <state width="1358" height="301" key="GridCell.Tab.1.bottom/0.0.1401.864@0.0.1401.864" timestamp="1583344529094" />
-    <state width="1358" height="301" key="GridCell.Tab.1.center" timestamp="1583344529094">
+    <state width="1358" height="254" key="GridCell.Tab.1.bottom/0.0.1401.864@0.0.1401.864" timestamp="1584025022758" />
+    <state width="1358" height="254" key="GridCell.Tab.1.center" timestamp="1584025022758">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
-    <state width="1358" height="301" key="GridCell.Tab.1.center/0.0.1401.864@0.0.1401.864" timestamp="1583344529094" />
-    <state width="1358" height="301" key="GridCell.Tab.1.left" timestamp="1583344529094">
+    <state width="1358" height="254" key="GridCell.Tab.1.center/0.0.1401.864@0.0.1401.864" timestamp="1584025022758" />
+    <state width="1358" height="254" key="GridCell.Tab.1.left" timestamp="1584025022758">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
-    <state width="1358" height="301" key="GridCell.Tab.1.left/0.0.1401.864@0.0.1401.864" timestamp="1583344529094" />
-    <state width="1358" height="301" key="GridCell.Tab.1.right" timestamp="1583344529094">
+    <state width="1358" height="254" key="GridCell.Tab.1.left/0.0.1401.864@0.0.1401.864" timestamp="1584025022758" />
+    <state width="1358" height="254" key="GridCell.Tab.1.right" timestamp="1584025022758">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
-    <state width="1358" height="301" key="GridCell.Tab.1.right/0.0.1401.864@0.0.1401.864" timestamp="1583344529094" />
+    <state width="1358" height="254" key="GridCell.Tab.1.right/0.0.1401.864@0.0.1401.864" timestamp="1584025022758" />
     <state x="212" y="77" key="SettingsEditor" timestamp="1583073412010">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
@@ -631,20 +677,16 @@
       <screen x="0" y="0" width="1401" height="864" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1401.864@0.0.1401.864" timestamp="1583343883682" />
-    <state x="409" y="259" width="582" height="342" key="com.intellij.ide.util.TipDialog" timestamp="1583059250587">
+    <state x="409" y="259" width="582" height="342" key="com.intellij.ide.util.TipDialog" timestamp="1585234916078">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
     <state x="409" y="259" key="com.intellij.ide.util.TipDialog/0.0.1401.864/1920.0.1280.770@0.0.1401.864" timestamp="1581849141674" />
     <state x="409" y="259" key="com.intellij.ide.util.TipDialog/0.0.1401.864/1920.0.1920.1050@0.0.1401.864" timestamp="1583059250587" />
-    <state x="409" y="259" width="582" height="342" key="com.intellij.ide.util.TipDialog/0.0.1401.864@0.0.1401.864" timestamp="1582889758751" />
-    <state x="348" y="46" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1575471183192">
+    <state x="409" y="259" width="582" height="342" key="com.intellij.ide.util.TipDialog/0.0.1401.864@0.0.1401.864" timestamp="1585234916078" />
+    <state x="141" y="50" key="new project wizard" timestamp="1584868999649">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
-    <state x="348" y="46" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1401.864@0.0.1401.864" timestamp="1575471183192" />
-    <state x="141" y="58" key="new project wizard" timestamp="1575971921963">
-      <screen x="0" y="0" width="1401" height="864" />
-    </state>
-    <state x="141" y="58" key="new project wizard/0.0.1401.864@0.0.1401.864" timestamp="1575971921963" />
+    <state x="141" y="50" key="new project wizard/0.0.1401.864@0.0.1401.864" timestamp="1584868999649" />
     <state x="343" y="159" width="700" height="530" key="recent.locations.popup" timestamp="1580988938516">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
