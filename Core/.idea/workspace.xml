@@ -2,58 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="335634c5-1df5-4aa3-ae38-0ab81d4eba82" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/constructors/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/constructors/BoxTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/examples/Exc0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/abstraction/geometry/Figure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/abstraction/geometry/GeometryMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/abstraction/geometry/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/abstraction/geometry/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/abstraction/simple_abstraction/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/abstraction/simple_abstraction/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/abstraction/simple_abstraction/MainAbstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/box_example/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/box_example/BoxMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/box_example/BoxWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/factorial/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/factorial/FactorialMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/simple/SimpleRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/recursion/simple/SimpleRecursionMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameFX/src/gamefx/SnakeMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameFX/src/gamefx/objects/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GameFX/src/gamefx/objects/Snake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaForKids/JavaForKids.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam3/boxes/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam3/boxes/BoxColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam3/boxes/BoxMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam3/lesson7/ArraysMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/oop/boxexample/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/oop/boxexample/BoxColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/oop/boxexample/BoxMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/examples/ThrowExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/MultiThreadExmpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/MultiThreadWithJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/NewThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python_Core/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python_Core/machine_learning/ad_conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python_Core/machine_learning/data/ad_conversion.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/MainTestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainTestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oop/inheritance/AndroidOS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/os_example/AndroidOS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oop/inheritance/MacOS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/os_example/MacOS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oop/inheritance/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/os_example/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oop/inheritance/OperatingSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/os_example/OperatingSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/oop/inheritance/WindowsOS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inheritance/os_example/WindowsOS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/querydsl/MainTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/querydsl/UserEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/querydsl/UserEntityDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Core.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/MainTestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MainTestClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oop/inheritance/AndroidOS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oop/inheritance/MacOS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oop/inheritance/MainClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oop/inheritance/OperatingSystem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/oop/inheritance/WindowsOS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/querydsl/MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/querydsl/QUserEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/querydsl/UserEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/querydsl/UserEntityDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/generated-sources/querydsl/QUserEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameFX/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameFX/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameFX/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameFX/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameFX/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameFX/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameFX/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameFX/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameFX/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameFX/GameFX.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameFX/out/production/GameFX/gamefx/SnakeMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameFX/out/production/GameFX/gamefx/objects/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameFX/out/production/GameFX/gamefx/objects/Snake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameFX/src/gamefx/SnakeMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameFX/src/gamefx/objects/Apple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameFX/src/gamefx/objects/Snake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX/JavaFX.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX/out/production/JavaFX/sample/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX/out/production/JavaFX/sample/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX/out/production/JavaFX/sample/SecondController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX/out/production/JavaFX/sample/assets/scull.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX/out/production/JavaFX/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX/out/production/JavaFX/sample/second_window.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX/src/sample/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX/src/sample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX/src/sample/SecondController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX/src/sample/assets/scull.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX/src/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFX/src/sample/second_window.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/javateam3/boxes/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam3/oop/boxes/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/javateam3/boxes/BoxColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam3/oop/boxes/BoxColor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/javateam3/boxes/BoxMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam3/oop/boxes/BoxMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/oop/boxexample/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/oop/boxexample/BoxColor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/oop/boxexample/BoxMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_Core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Core/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SnakeFX/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SnakeFX/.idea/workspace.xml" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +73,37 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Core" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/NewThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/MultiThreadExmpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/MultiThreadWithJoin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -83,6 +123,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/NewThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/MultiThreadExmpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/MultiThreadWithJoin.java" />
+      </list>
+    </option>
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -97,9 +146,70 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="894" />
+    <option name="height" value="1099" />
+  </component>
   <component name="ProjectId" id="1UQIpZ2uPDh7weNfy2tcNbtYCTX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="multithreading" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="multithreading" type="462c0819:PsiDirectoryNode" />
+              <item name="runnable_impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
@@ -112,7 +222,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553520131716" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="C:/Exadel/Projects/FRS/frs-client-be" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -124,7 +234,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -137,23 +247,21 @@
       <recent name="D:\java\GIT\Core\src\main\resources\files" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exc0">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MultiThreadWithJoin">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BoxMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.inheritance.box_example.BoxMain" />
-      <module name="Core" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop.inheritance.box_example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -172,38 +280,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GeometryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.abstraction.geometry.GeometryMain" />
-      <module name="Core" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop.abstraction.geometry.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainAbstract" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.abstraction.simple_abstraction.MainAbstract" />
-      <module name="Core" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop.abstraction.simple_abstraction.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MainTestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainTestClass" />
       <module name="Core" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiThreadExmpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading.runnable_impl.MultiThreadExmpl" />
+      <module name="core" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multithreading.runnable_impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiThreadWithJoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading.runnable_impl.MultiThreadWithJoin" />
+      <module name="core" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multithreading.runnable_impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThrowExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptions.examples.ThrowExample" />
+      <module name="Core" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exceptions.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -363,18 +485,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.MainTestClass" />
-      <item itemvalue="Application.BoxMain" />
-      <item itemvalue="Application.MainAbstract" />
-      <item itemvalue="Application.GeometryMain" />
       <item itemvalue="Application.Exc0" />
+      <item itemvalue="Application.ThrowExample" />
+      <item itemvalue="Application.MultiThreadExmpl" />
+      <item itemvalue="Application.MultiThreadWithJoin" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exc0" />
-        <item itemvalue="Application.GeometryMain" />
-        <item itemvalue="Application.MainAbstract" />
-        <item itemvalue="Application.BoxMain" />
+        <item itemvalue="Application.MultiThreadWithJoin" />
+        <item itemvalue="Application.MultiThreadExmpl" />
+        <item itemvalue="Application.ThrowExample" />
         <item itemvalue="Application.MainTestClass" />
+        <item itemvalue="Application.Exc0" />
       </list>
     </recent_temporary>
   </component>
@@ -594,8 +716,20 @@
       <workItem from="1584868826484" duration="1382000" />
       <workItem from="1584984498361" duration="2341000" />
       <workItem from="1585234900870" duration="980000" />
+      <workItem from="1585468627007" duration="2024000" />
+      <workItem from="1585474428531" duration="533000" />
+      <workItem from="1585501675484" duration="213000" />
+      <workItem from="1585581112395" duration="1047000" />
+      <workItem from="1585654939919" duration="17000" />
+      <workItem from="1585660884535" duration="33000" />
+      <workItem from="1585660939580" duration="156000" />
+      <workItem from="1585666469354" duration="36000" />
+      <workItem from="1586328565030" duration="2983000" />
     </task>
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2983000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -605,6 +739,45 @@
       <are-packages-shown value="true" />
       <is-autoscroll-to-source value="true" />
     </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1415" height="878" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494465" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7158177" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="JSF" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="CDI" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -622,34 +795,34 @@
       <screen x="0" y="0" width="1401" height="864" />
     </state>
     <state x="481" y="190" key="FileChooserDialogImpl/0.0.1401.864@0.0.1401.864" timestamp="1584868989891" />
-    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1585236257546">
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1585583993138">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
     <state width="1358" height="236" key="GridCell.Tab.0.bottom/0.0.1401.864/1920.0.1280.770@0.0.1401.864" timestamp="1579430462484" />
     <state width="1237" height="455" key="GridCell.Tab.0.bottom/0.0.1401.864/1920.0.1280.770@1920.0.1280.770" timestamp="1579430603019" />
     <state width="1877" height="245" key="GridCell.Tab.0.bottom/0.0.1401.864/1920.0.1920.1050@1920.0.1920.1050" timestamp="1583060507556" />
-    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.0.1401.864@0.0.1401.864" timestamp="1585236257546" />
-    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1585236257546">
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.0.1401.864@0.0.1401.864" timestamp="1585583993138" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1585583993138">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
     <state width="1358" height="236" key="GridCell.Tab.0.center/0.0.1401.864/1920.0.1280.770@0.0.1401.864" timestamp="1579430462484" />
     <state width="1237" height="455" key="GridCell.Tab.0.center/0.0.1401.864/1920.0.1280.770@1920.0.1280.770" timestamp="1579430603019" />
     <state width="1877" height="245" key="GridCell.Tab.0.center/0.0.1401.864/1920.0.1920.1050@1920.0.1920.1050" timestamp="1583060507556" />
-    <state width="1358" height="191" key="GridCell.Tab.0.center/0.0.1401.864@0.0.1401.864" timestamp="1585236257546" />
-    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1585236257546">
+    <state width="1358" height="191" key="GridCell.Tab.0.center/0.0.1401.864@0.0.1401.864" timestamp="1585583993138" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1585583993138">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
     <state width="1358" height="236" key="GridCell.Tab.0.left/0.0.1401.864/1920.0.1280.770@0.0.1401.864" timestamp="1579430462484" />
     <state width="1237" height="455" key="GridCell.Tab.0.left/0.0.1401.864/1920.0.1280.770@1920.0.1280.770" timestamp="1579430603019" />
     <state width="1877" height="245" key="GridCell.Tab.0.left/0.0.1401.864/1920.0.1920.1050@1920.0.1920.1050" timestamp="1583060507556" />
-    <state width="1358" height="191" key="GridCell.Tab.0.left/0.0.1401.864@0.0.1401.864" timestamp="1585236257546" />
-    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1585236257546">
+    <state width="1358" height="191" key="GridCell.Tab.0.left/0.0.1401.864@0.0.1401.864" timestamp="1585583993138" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1585583993138">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
     <state width="1358" height="236" key="GridCell.Tab.0.right/0.0.1401.864/1920.0.1280.770@0.0.1401.864" timestamp="1579430462484" />
     <state width="1237" height="455" key="GridCell.Tab.0.right/0.0.1401.864/1920.0.1280.770@1920.0.1280.770" timestamp="1579430603019" />
     <state width="1877" height="245" key="GridCell.Tab.0.right/0.0.1401.864/1920.0.1920.1050@1920.0.1920.1050" timestamp="1583060507556" />
-    <state width="1358" height="191" key="GridCell.Tab.0.right/0.0.1401.864@0.0.1401.864" timestamp="1585236257546" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right/0.0.1401.864@0.0.1401.864" timestamp="1585583993138" />
     <state width="1358" height="254" key="GridCell.Tab.1.bottom" timestamp="1584025022758">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
@@ -666,23 +839,23 @@
       <screen x="0" y="0" width="1401" height="864" />
     </state>
     <state width="1358" height="254" key="GridCell.Tab.1.right/0.0.1401.864@0.0.1401.864" timestamp="1584025022758" />
-    <state x="212" y="77" key="SettingsEditor" timestamp="1583073412010">
+    <state x="212" y="77" key="SettingsEditor" timestamp="1585660916560">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
     <state x="212" y="67" key="SettingsEditor/0.0.1401.864/1920.0.1280.770@0.0.1401.864" timestamp="1581849177958" />
     <state x="2114" y="60" key="SettingsEditor/0.0.1401.864/1920.0.1280.770@1920.0.1280.770" timestamp="1581849237885" />
     <state x="212" y="77" key="SettingsEditor/0.0.1401.864/1920.0.1920.1050@0.0.1401.864" timestamp="1583059272403" />
-    <state x="212" y="77" key="SettingsEditor/0.0.1401.864@0.0.1401.864" timestamp="1583073412010" />
+    <state x="212" y="77" key="SettingsEditor/0.0.1401.864@0.0.1401.864" timestamp="1585660916560" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1583343883682">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1401.864@0.0.1401.864" timestamp="1583343883682" />
-    <state x="409" y="259" width="582" height="342" key="com.intellij.ide.util.TipDialog" timestamp="1585234916078">
+    <state x="409" y="259" width="582" height="342" key="com.intellij.ide.util.TipDialog" timestamp="1585666476712">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
     <state x="409" y="259" key="com.intellij.ide.util.TipDialog/0.0.1401.864/1920.0.1280.770@0.0.1401.864" timestamp="1581849141674" />
     <state x="409" y="259" key="com.intellij.ide.util.TipDialog/0.0.1401.864/1920.0.1920.1050@0.0.1401.864" timestamp="1583059250587" />
-    <state x="409" y="259" width="582" height="342" key="com.intellij.ide.util.TipDialog/0.0.1401.864@0.0.1401.864" timestamp="1585234916078" />
+    <state x="409" y="259" width="582" height="342" key="com.intellij.ide.util.TipDialog/0.0.1401.864@0.0.1401.864" timestamp="1585666476712" />
     <state x="141" y="50" key="new project wizard" timestamp="1584868999649">
       <screen x="0" y="0" width="1401" height="864" />
     </state>
@@ -699,6 +872,29 @@
       <screen x="0" y="0" width="1401" height="864" />
     </state>
     <state x="363" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1401.864@0.0.1401.864" timestamp="1579427825790" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/NewThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/MultiThreadExmpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/MultiThreadWithJoin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
