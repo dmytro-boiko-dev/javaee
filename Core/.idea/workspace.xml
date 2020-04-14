@@ -2,63 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="335634c5-1df5-4aa3-ae38-0ab81d4eba82" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exceptions/examples/ThrowExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/MultiThreadExmpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/MultiThreadWithJoin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/NewThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_Core/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_Core/machine_learning/ad_conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_Core/machine_learning/data/ad_conversion.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/racecondition_callme/Caller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/racecondition_callme/Callme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/racecondition_callme/SynchMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/synchronized_callme/Caller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/synchronized_callme/Callme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/synchronized_callme/SynchMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson2/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson2/MyCar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/MainTestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainTestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Core.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/MainTestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MainTestClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GameFX/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GameFX/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GameFX/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GameFX/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GameFX/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GameFX/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GameFX/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GameFX/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GameFX/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GameFX/GameFX.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GameFX/out/production/GameFX/gamefx/SnakeMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GameFX/out/production/GameFX/gamefx/objects/Apple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GameFX/out/production/GameFX/gamefx/objects/Snake.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GameFX/src/gamefx/SnakeMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GameFX/src/gamefx/objects/Apple.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GameFX/src/gamefx/objects/Snake.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaFX/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaFX/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaFX/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaFX/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaFX/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaFX/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaFX/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaFX/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaFX/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaFX/JavaFX.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaFX/out/production/JavaFX/sample/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaFX/out/production/JavaFX/sample/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaFX/out/production/JavaFX/sample/SecondController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaFX/out/production/JavaFX/sample/assets/scull.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaFX/out/production/JavaFX/sample/sample.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaFX/out/production/JavaFX/sample/second_window.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaFX/src/sample/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaFX/src/sample/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaFX/src/sample/SecondController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaFX/src/sample/assets/scull.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaFX/src/sample/sample.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaFX/src/sample/second_window.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/javateam3/boxes/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam3/oop/boxes/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/javateam3/boxes/BoxColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam3/oop/boxes/BoxColor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/javateam3/boxes/BoxMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam3/oop/boxes/BoxMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/oop/boxexample/Box.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/oop/boxexample/BoxColor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/oop/boxexample/BoxMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python_Core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Core/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SnakeFX/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SnakeFX/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/multithreading/runnable_impl/MultiThreadWithJoin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/multithreading/runnable_impl/MultiThreadWithJoin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/MainClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam3/boxes/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam3/boxes/BoxColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam3/boxes/BoxMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/oop/boxexample/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/oop/boxexample/BoxColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/oop/boxexample/BoxMain.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -75,30 +38,21 @@
     <favorites_list name="Core" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/NewThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/MultiThreadExmpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/MultiThreadWithJoin.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MainTestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+            <state relative-caret-position="198">
+              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/EnumTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -108,9 +62,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -129,6 +83,14 @@
         <option value="$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/NewThread.java" />
         <option value="$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/MultiThreadExmpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/MultiThreadWithJoin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/synchronized_callme/Caller.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/racecondition_callme/SynchMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/synchronized_callme/SynchMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/racecondition_callme/Callme.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/synchronized_callme/Callme.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/racecondition_callme/Caller.java" />
+        <option value="$PROJECT_DIR$/src/main/java/EnumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MainTestClass.java" />
       </list>
     </option>
   </component>
@@ -149,8 +111,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
-    <option name="width" value="894" />
-    <option name="height" value="1099" />
+    <option name="width" value="895" />
+    <option name="height" value="1100" />
   </component>
   <component name="ProjectId" id="1UQIpZ2uPDh7weNfy2tcNbtYCTX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -158,10 +120,10 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,28 +149,12 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Core" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="multithreading" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Core" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="multithreading" type="462c0819:PsiDirectoryNode" />
-              <item name="runnable_impl" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -222,7 +168,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553520131716" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/synchronized_callme" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -237,14 +183,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java\GIT\Core\src\main\resources\files" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA\GIT\Core\src\main\java\multithreading\synchro_and_racecond\synchronized_callme" />
       <recent name="D:\JAVA\GIT\Core\src\main\java\collections" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\java\GIT\Core\src\main\resources\files" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -259,30 +206,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MultiThreadWithJoin">
+  <component name="RunManager" selected="Application.MainTestClass">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exc0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exceptions.examples.Exc0" />
-      <module name="Core" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exceptions.examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MainTestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainTestClass" />
-      <module name="Core" />
+      <module name="core" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -316,13 +249,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThrowExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exceptions.examples.ThrowExample" />
-      <module name="Core" />
+    <configuration name="SynchMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading.synchro_and_racecond.synchronized_callme.SynchMain" />
+      <module name="core" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exceptions.examples.*" />
+          <option name="PATTERN" value="multithreading.synchro_and_racecond.synchronized_callme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SynchMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading.synchro_and_racecond.racecondition_callme.SynchMain" />
+      <module name="core" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multithreading.synchro_and_racecond.racecondition_callme.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -484,19 +431,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MainTestClass" />
-      <item itemvalue="Application.Exc0" />
-      <item itemvalue="Application.ThrowExample" />
       <item itemvalue="Application.MultiThreadExmpl" />
       <item itemvalue="Application.MultiThreadWithJoin" />
+      <item itemvalue="Application.SynchMain" />
+      <item itemvalue="Application.SynchMain (1)" />
+      <item itemvalue="Application.MainTestClass" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainTestClass" />
+        <item itemvalue="Application.SynchMain" />
+        <item itemvalue="Application.SynchMain (1)" />
         <item itemvalue="Application.MultiThreadWithJoin" />
         <item itemvalue="Application.MultiThreadExmpl" />
-        <item itemvalue="Application.ThrowExample" />
-        <item itemvalue="Application.MainTestClass" />
-        <item itemvalue="Application.Exc0" />
       </list>
     </recent_temporary>
   </component>
@@ -725,11 +672,14 @@
       <workItem from="1585660939580" duration="156000" />
       <workItem from="1585666469354" duration="36000" />
       <workItem from="1586328565030" duration="2983000" />
+      <workItem from="1586593519251" duration="3057000" />
+      <workItem from="1586683998202" duration="34000" />
+      <workItem from="1586854868546" duration="759000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2983000" />
+    <option name="totallyTimeSpent" value="6833000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -744,39 +694,39 @@
     <frame x="-7" y="-7" width="1415" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494465" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2605166" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.7158177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27882037" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="JSF" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="CDI" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="JSF" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="CDI" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -874,10 +824,10 @@
     <state x="363" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1401.864@0.0.1401.864" timestamp="1579427825790" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/NewThread.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/MultiThreadWithJoin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+        <state relative-caret-position="242">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -888,10 +838,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/MultiThreadWithJoin.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/NewThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+        <state relative-caret-position="572">
+          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/synchronized_callme/Callme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/synchronized_callme/Caller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding>
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/synchronized_callme/SynchMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/racecondition_callme/SynchMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/racecondition_callme/Caller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/racecondition_callme/Callme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/EnumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MainTestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>
