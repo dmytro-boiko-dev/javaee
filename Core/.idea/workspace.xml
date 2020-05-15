@@ -2,26 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="335634c5-1df5-4aa3-ae38-0ab81d4eba82" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/EnumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/racecondition_callme/Caller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/racecondition_callme/Callme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/racecondition_callme/SynchMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/synchronized_callme/Caller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/synchronized_callme/Callme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/synchronized_callme/SynchMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson2/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson2/MyCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotations/MyAnnoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotations/MyAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/enumeration/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/enumeration/AppleTestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/correct/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/correct/EntryPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/correct/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/correct/SimpleQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/water_delivery/WaterConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/water_delivery/WaterDeliveryMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/water_delivery/WaterProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/water_delivery/WaterQueryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/wrong/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/wrong/EntryPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/wrong/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/wrong/SimpleQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/BugTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/ChainOfResponsibility.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/EmailNotifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/Notifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/SMSNotifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/SimpleReportNotifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaForKids/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson3/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson3/Cats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson3/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson3/Stadium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson4/InputMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson4/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson4/SwitchExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTest/chain_of_responsibility/src/main/java/chain/CanteenService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTest/chain_of_responsibility/src/main/java/chain/FinancialService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTest/chain_of_responsibility/src/main/java/chain/LibraryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTest/chain_of_responsibility/src/main/java/chain/RegistrationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTest/chain_of_responsibility/src/main/java/chain/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringTest/chain_of_responsibility/src/main/java/chain/StudentProcessor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EnumTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/MainTestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainTestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SizeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enumeration/SizeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson3/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EnumTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/MainTestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MainTestClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/multithreading/runnable_impl/MultiThreadWithJoin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/multithreading/runnable_impl/MultiThreadWithJoin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/MainClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam3/boxes/Box.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam3/boxes/BoxColor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam3/boxes/BoxMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/oop/boxexample/Box.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/oop/boxexample/BoxColor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/oop/boxexample/BoxMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SizeEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lesson3/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson2/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson2/MainClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson2/MyCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson2/MyCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson2/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson2/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson2/MyCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson2/MyCar.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,20 +70,54 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/MainTestClass.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/enumeration/Apple.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+            <state relative-caret-position="110">
+              <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/EnumTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/enumeration/AppleTestMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+            <state relative-caret-position="792">
+              <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/annotations/MyAnnotation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/annotations/MyAnnoMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+              <folding>
+                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MainTestClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -63,8 +128,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="FxmlFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -90,6 +156,32 @@
         <option value="$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/synchronized_callme/Callme.java" />
         <option value="$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/racecondition_callme/Caller.java" />
         <option value="$PROJECT_DIR$/src/main/java/EnumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/SimpleQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/Consumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/Producer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/EntryPoint.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/wrong/EntryPoint.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/correct/Producer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/correct/SimpleQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/ChainOfResponsibility.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/SMSNotifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/EmailNotifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/SimpleReportNotifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/Notifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/Priority.java" />
+        <option value="$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/BugTracker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/water_delivery/WaterDeliveryService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/water_delivery/WaterConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/water_delivery/WaterProducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/water_delivery/WaterQueryService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/water_delivery/WaterDelivery.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/water_delivery/WaterDeliveryMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/enumeration/SizeEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/enumeration/Apple.java" />
+        <option value="$PROJECT_DIR$/src/main/java/enumeration/AppleTestMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/annotations/MyAnnotation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/annotations/MyAnnoMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/MainTestClass.java" />
       </list>
     </option>
@@ -123,39 +215,7 @@
       <hideEmptyPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Core" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Core" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Core" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Core" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+    <panes />
   </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
@@ -168,7 +228,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553520131716" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/synchronized_callme" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/correct" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -180,18 +240,19 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\java\GIT\Core\src\main\resources\files" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA\GIT\Core\src\main\java\multithreading\wait_notify\correct" />
       <recent name="D:\JAVA\GIT\Core\src\main\java\multithreading\synchro_and_racecond\synchronized_callme" />
       <recent name="D:\JAVA\GIT\Core\src\main\java\collections" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java\GIT\Core\src\main\resources\files" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -213,6 +274,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AppleTestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumeration.AppleTestMain" />
+      <module name="core" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="enumeration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BugTracker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.behavioral.chain.BugTracker" />
+      <module name="core" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patterns.behavioral.chain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainTestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainTestClass" />
       <module name="core" />
@@ -221,13 +310,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiThreadExmpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreading.runnable_impl.MultiThreadExmpl" />
+    <configuration name="MyAnnoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="annotations.MyAnnoMain" />
       <module name="core" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multithreading.runnable_impl.*" />
+          <option name="PATTERN" value="annotations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,41 +324,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiThreadWithJoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreading.runnable_impl.MultiThreadWithJoin" />
+    <configuration name="WaterDeliveryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading.wait_notify.water_delivery.WaterDeliveryMain" />
       <module name="core" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multithreading.runnable_impl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SynchMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreading.synchro_and_racecond.synchronized_callme.SynchMain" />
-      <module name="core" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="multithreading.synchro_and_racecond.synchronized_callme.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SynchMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreading.synchro_and_racecond.racecondition_callme.SynchMain" />
-      <module name="core" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="multithreading.synchro_and_racecond.racecondition_callme.*" />
+          <option name="PATTERN" value="multithreading.wait_notify.water_delivery.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -431,19 +492,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MultiThreadExmpl" />
-      <item itemvalue="Application.MultiThreadWithJoin" />
-      <item itemvalue="Application.SynchMain" />
-      <item itemvalue="Application.SynchMain (1)" />
       <item itemvalue="Application.MainTestClass" />
+      <item itemvalue="Application.BugTracker" />
+      <item itemvalue="Application.WaterDeliveryMain" />
+      <item itemvalue="Application.AppleTestMain" />
+      <item itemvalue="Application.MyAnnoMain" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.MainTestClass" />
-        <item itemvalue="Application.SynchMain" />
-        <item itemvalue="Application.SynchMain (1)" />
-        <item itemvalue="Application.MultiThreadWithJoin" />
-        <item itemvalue="Application.MultiThreadExmpl" />
+        <item itemvalue="Application.MyAnnoMain" />
+        <item itemvalue="Application.AppleTestMain" />
+        <item itemvalue="Application.WaterDeliveryMain" />
+        <item itemvalue="Application.BugTracker" />
       </list>
     </recent_temporary>
   </component>
@@ -675,11 +736,25 @@
       <workItem from="1586593519251" duration="3057000" />
       <workItem from="1586683998202" duration="34000" />
       <workItem from="1586854868546" duration="759000" />
+      <workItem from="1586879934291" duration="624000" />
+      <workItem from="1587130654766" duration="521000" />
+      <workItem from="1587205586670" duration="4662000" />
+      <workItem from="1587485250651" duration="9000" />
+      <workItem from="1587485274385" duration="2107000" />
+      <workItem from="1588159165726" duration="4778000" />
+      <workItem from="1588407615953" duration="4699000" />
+      <workItem from="1588604962692" duration="23000" />
+      <workItem from="1588746200144" duration="1803000" />
+      <workItem from="1589015757134" duration="1072000" />
+      <workItem from="1589088962887" duration="2276000" />
+      <workItem from="1589102502908" duration="14042000" />
+      <workItem from="1589275698512" duration="1379000" />
+      <workItem from="1589379815862" duration="1630000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6833000" />
+    <option name="totallyTimeSpent" value="46458000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -692,10 +767,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1415" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2605166" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.21033211" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.2494465" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -703,15 +777,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27882037" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.424933" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3297587" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
@@ -895,17 +969,210 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/EnumTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/wait_notify/wrong/Producer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/wait_notify/wrong/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/wait_notify/wrong/EntryPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/wait_notify/wrong/SimpleQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/Priority.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_231/src.zip!/java/text/DateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6908">
+          <caret line="363" column="23" selection-start-line="363" selection-start-column="23" selection-end-line="363" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/wait_notify/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/wait_notify/correct/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/wait_notify/correct/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/wait_notify/correct/EntryPoint.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/ChainOfResponsibility.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/Notifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/SimpleReportNotifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/EmailNotifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/SMSNotifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/BugTracker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson3/Cat.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/EnumTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/wait_notify/correct/SimpleQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/wait_notify/water_delivery/WaterQueryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/wait_notify/water_delivery/WaterProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/wait_notify/water_delivery/WaterConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/wait_notify/water_delivery/WaterDeliveryMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/enumeration/SizeEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_231/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="609" column="16" selection-start-line="609" selection-start-column="16" selection-end-line="609" selection-end-column="16" />
+          <folding>
+            <element signature="e#21348#21349#0" expanded="true" />
+            <element signature="e#21388#21389#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/enumeration/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/enumeration/AppleTestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/annotations/MyAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/annotations/MyAnnoMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/MainTestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        <state relative-caret-position="66">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="29" />
         </state>
       </provider>
     </entry>

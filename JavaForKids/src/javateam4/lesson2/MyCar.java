@@ -5,29 +5,47 @@ import java.util.Random;
 public class MyCar {
     public static void main(String[] args) {
 
+        int howManyStalker = 860;
+        int howManyDarkTemplar = 860;
+        int howManyColossus = 860;
+        int vmeste = 860 * 3;
 
-        double num = 7.9;
+        int StalkerDamage = 13;
+        int DarkTemplarDamage = 24;
+        int ColossusDamage = 46;
 
-        double res1 = Math.round(3.14); // округление
-        double res2 = Math.pow(5, 2); // возведение в степень
-        double res3 = Math.sqrt(125); // корень квадратный
-        double random = Math.random(); // генерация случайного числа от 0.0 до 1.0
-        double myVar = Math.scalb(5, 3); // 5 * 2 * 2 * 2
-        int b = Math.abs(-18); // модуль числа
+        int quantityS = StalkerDamage * 860;
+        int quantityD = DarkTemplarDamage * 860;
+        int quantityC = ColossusDamage * 860;
+        int generally = quantityS + quantityD + quantityC; //урон всех
+        System.out.println(" Количество наших воинов - " + vmeste + ";");
+        System.out.println(" Наш общий урон - " + generally + ".");
 
-        // #1    | a - b | / ( a + b )^3 - √c
-
-        // #2   ( a + b ) / 12 * c % 4 + |b|
-
-
-        double integer = 12312.0;
-
-
-
+        //         ЗЕРГИ
 
 
+        double howManyMutalisk = howManyStalker * 1.5;
+        double howManyUltralisk = howManyDarkTemplar * 1.5;
+        double howManyHydralisk = howManyColossus * 1.5;
+        double generalyquality = howManyMutalisk + howManyHydralisk + howManyUltralisk;
+
+        double MutaliskDamage = 9;
+        double UltraliskDamage = 35;
+        double HydraliskDamage = 12;
+
+        double qualityM = howManyMutalisk*MutaliskDamage;
+        double qualityU = howManyUltralisk*UltraliskDamage;
+        double qualityH = howManyHydralisk*HydraliskDamage;
+        double qualityDamage = qualityM+qualityH+qualityU;
 
 
+
+        System.out.print(" Количество солдат противника - " + generalyquality + "!");
+        System.out.println(" А их урон равен - " + qualityDamage + "!");
+        System.out.print(" Нам стоит показать все свои возможности!!!");
+        System.out.print(" Иначе мы примем поражение!!!");
+        System.out.println(" В АТАКУ !!!");
+        System.out.println(" *Крики воинов* ");
 
 
     }

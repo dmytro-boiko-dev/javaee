@@ -1,0 +1,4 @@
+rootProject.name = 'com.spring.test'
+include 'chain_of_responsibility'
+findProject(':chain_of_responsibility')?.name = 'com.spring.test'
+
