@@ -1,5 +1,9 @@
 package strings;
 
+/**
+ StringBuffer - is mutable; thread save; slow;
+ StringBuilder - is mutable; not thread save; fast;
+ */
 public class StringBuilderAndBuffer {
     public static void main(String[] args) {
 
@@ -28,12 +32,5 @@ public class StringBuilderAndBuffer {
         StringBuilder substring = new StringBuilder("submarine");
         System.out.println(substring);
         System.out.println(substring.substring(0,3));
-
-/**
-        so:
-        StringBuffer - is mutable; thread save; slow;
-        StringBuilder - is mutable; not thread save; fast;
-*/
-
     }
 }

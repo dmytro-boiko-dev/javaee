@@ -2,57 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="335634c5-1df5-4aa3-ae38-0ab81d4eba82" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/annotations/MyAnnoMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/annotations/MyAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enumeration/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/enumeration/AppleTestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/correct/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/correct/EntryPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/correct/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/correct/SimpleQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/water_delivery/WaterConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/water_delivery/WaterDeliveryMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/water_delivery/WaterProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/water_delivery/WaterQueryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/wrong/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/wrong/EntryPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/wrong/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/wrong/SimpleQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/BugTracker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/ChainOfResponsibility.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/EmailNotifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/Notifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/Priority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/SMSNotifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/SimpleReportNotifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaForKids/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson3/Airplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson3/Cats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson3/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson3/Stadium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson4/InputMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson4/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson4/SwitchExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringTest/chain_of_responsibility/src/main/java/chain/CanteenService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringTest/chain_of_responsibility/src/main/java/chain/FinancialService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringTest/chain_of_responsibility/src/main/java/chain/LibraryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringTest/chain_of_responsibility/src/main/java/chain/RegistrationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringTest/chain_of_responsibility/src/main/java/chain/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringTest/chain_of_responsibility/src/main/java/chain/StudentProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/restrictions_by_type/Stats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/restrictions_by_type/StatsMainDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/simple_gen/Gen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/simple_gen/GenMainDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/simple_gen/GenTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/super_and_sub_classes/GenericSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/super_and_sub_classes/GenericSuper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/super_and_sub_classes/HierarchyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/generic_fi/GenFuncMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/generic_fi/GenericFunctionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/lambda_as_argument/LambdaSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/lambda_as_argument/LambdaSimpleMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/single_line_lambda/FuncInterNumeric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/single_line_lambda/NumericFuncInterMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/string_reverse_order/ReverseOrderMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/string_reverse_order/StringFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/with_exeption/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/with_exeption/DoubleFuncInter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambda/with_exeption/LambExceptDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strings/FormatExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strings/StringJoinerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/wildcards/BoundedWildCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/wildcards/Coordinates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/wildcards/FourDim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/wildcards/ThreeDim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/wildcards/TwoDim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson7/HWCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson7/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/oop/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/oop/BoxMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/oop/ColorBox.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/EnumTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/MainTestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainTestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SizeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enumeration/SizeEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson3/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/EnumTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java8/Lambdas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lambda/MethodReference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strings/StringBuilderAndBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strings/StringBuilderAndBuffer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/MainTestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MainTestClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SizeEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lesson3/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson2/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson2/MainClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson2/MyCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson2/MyCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson2/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson2/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson2/MyCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson2/MyCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java8/Lambdas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/strings/StringBuilderAndBuffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/strings/StringBuilderAndBuffer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/META-INF/JavaForKids.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/MainClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson4/SwitchExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson4/SwitchExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaForKids/src/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/build/classes/java/main/com/restapimysql/EntryPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/build/classes/java/main/com/restapimysql/EntryPoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/build/classes/java/main/com/restapimysql/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/build/classes/java/main/com/restapimysql/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/build/classes/java/main/com/restapimysql/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/build/classes/java/main/com/restapimysql/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/build/classes/java/main/com/restapimysql/entity/request/UserVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/build/classes/java/main/com/restapimysql/entity/request/UserVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/src/main/java/com/restapimysql/EntryPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/src/main/java/com/restapimysql/EntryPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/src/main/java/com/restapimysql/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/src/main/java/com/restapimysql/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/src/main/java/com/restapimysql/entity/request/UserVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/src/main/java/com/restapimysql/entity/request/UserVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SnakeFX/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SnakeFX/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SnakeFX/out/production/SnakeFX/com/snakefx/SnakeFXMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SnakeFX/out/production/SnakeFX/com/snakefx/SnakeFXMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SnakeFX/src/com/snakefx/SnakeFXMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SnakeFX/src/com/snakefx/SnakeFXMain.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -71,53 +82,50 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/enumeration/Apple.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lambda/lambda_as_argument/LambdaSimple.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lambda/lambda_as_argument/LambdaSimpleMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lambda/with_exeption/DoubleFuncInter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lambda/with_exeption/CustomException.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="110">
-              <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/enumeration/AppleTestMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/annotations/MyAnnotation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
               <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/annotations/MyAnnoMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-              <folding>
-                <element signature="e#125#126#0" expanded="true" />
-                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#106#107#0" expanded="true" />
+                <element signature="e#133#134#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/MainTestClass.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lambda/with_exeption/LambExceptDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="29" />
+            <state relative-caret-position="330">
+              <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -127,9 +135,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
-        <option value="Enum" />
         <option value="FxmlFile" />
+        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -146,26 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/NewThread.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/MultiThreadExmpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/MultiThreadWithJoin.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/synchronized_callme/Caller.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/racecondition_callme/SynchMain.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/synchronized_callme/SynchMain.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/racecondition_callme/Callme.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/synchronized_callme/Callme.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/racecondition_callme/Caller.java" />
-        <option value="$PROJECT_DIR$/src/main/java/EnumTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/SimpleQueue.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/Consumer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/Producer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/EntryPoint.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/wrong/EntryPoint.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/correct/Producer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/correct/SimpleQueue.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/MainTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/ChainOfResponsibility.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/SMSNotifier.java" />
         <option value="$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/EmailNotifier.java" />
         <option value="$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/SimpleReportNotifier.java" />
         <option value="$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/Notifier.java" />
@@ -182,7 +170,41 @@
         <option value="$PROJECT_DIR$/src/main/java/enumeration/AppleTestMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/annotations/MyAnnotation.java" />
         <option value="$PROJECT_DIR$/src/main/java/annotations/MyAnnoMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/enumeration/FacultyType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/enumeration/SubTypeEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generics/simple_gen/GenTwo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generics/simple_gen/Gen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generics/restrictions_by_type/Stats.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generics/restrictions_by_type/StatsMainDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wildcards/TwoDim.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wildcards/ThreeDim.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wildcards/FourDim.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wildcards/Coordinates.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wildcards/BoundedWildCards.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generics/simple_gen/GenMainDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generics/super_and_sub_classes/GenericSuper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generics/super_and_sub_classes/GenericSubc.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generics/super_and_sub_classes/GenericSub.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generics/super_and_sub_classes/HierarchyMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lambda/Lambdas.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lambda/MethodReference.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lambda/single_line_lambda/NumFuncInter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lambda/single_line_lambda/FuncInterNumeric.java" />
+        <option value="$PROJECT_DIR$/src/main/java/strings/StringJoinerExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/strings/FormatExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/strings/StringBuilderAndBuffer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lambda/single_line_lambda/NumericFuncInterMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lambda/string_reverse_order/StringFunc.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lambda/string_reverse_order/ReverseOrderMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/MainTestClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lambda/generic_fi/GenericFunctionalInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lambda/generic_fi/GenFuncMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lambda/lambda_as_argument/LambdaSimple.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lambda/lambda_as_argument/LambdaSimpleMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lambda/with_exeption/CusomException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lambda/with_exeption/DoubleFuncInter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lambda/with_exeption/CustomException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lambda/with_exeption/LambExceptDemo.java" />
       </list>
     </option>
   </component>
@@ -215,7 +237,56 @@
       <hideEmptyPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lambda" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lambda" type="462c0819:PsiDirectoryNode" />
+              <item name="with_exeption" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
   </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
@@ -228,7 +299,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553520131716" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/multithreading/wait_notify/correct" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaForKids" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -267,20 +338,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainTestClass">
+  <component name="RunManager" selected="Application.LambExceptDemo">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppleTestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enumeration.AppleTestMain" />
+    <configuration name="GenFuncMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.generic_fi.GenFuncMain" />
       <module name="core" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enumeration.*" />
+          <option name="PATTERN" value="lambda.generic_fi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,13 +359,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BugTracker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patterns.behavioral.chain.BugTracker" />
+    <configuration name="LambExceptDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.with_exeption.LambExceptDemo" />
       <module name="core" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="patterns.behavioral.chain.*" />
+          <option name="PATTERN" value="lambda.with_exeption.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaSimpleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.lambda_as_argument.LambdaSimpleMain" />
+      <module name="core" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambda.lambda_as_argument.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,27 +395,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyAnnoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="annotations.MyAnnoMain" />
+    <configuration name="ReverseOrderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.string_reverse_order.ReverseOrderMain" />
       <module name="core" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="annotations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WaterDeliveryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreading.wait_notify.water_delivery.WaterDeliveryMain" />
-      <module name="core" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="multithreading.wait_notify.water_delivery.*" />
+          <option name="PATTERN" value="lambda.string_reverse_order.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -493,18 +564,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.MainTestClass" />
-      <item itemvalue="Application.BugTracker" />
-      <item itemvalue="Application.WaterDeliveryMain" />
-      <item itemvalue="Application.AppleTestMain" />
-      <item itemvalue="Application.MyAnnoMain" />
+      <item itemvalue="Application.ReverseOrderMain" />
+      <item itemvalue="Application.GenFuncMain" />
+      <item itemvalue="Application.LambdaSimpleMain" />
+      <item itemvalue="Application.LambExceptDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LambExceptDemo" />
+        <item itemvalue="Application.LambdaSimpleMain" />
+        <item itemvalue="Application.GenFuncMain" />
         <item itemvalue="Application.MainTestClass" />
-        <item itemvalue="Application.MyAnnoMain" />
-        <item itemvalue="Application.AppleTestMain" />
-        <item itemvalue="Application.WaterDeliveryMain" />
-        <item itemvalue="Application.BugTracker" />
+        <item itemvalue="Application.ReverseOrderMain" />
       </list>
     </recent_temporary>
   </component>
@@ -750,11 +821,22 @@
       <workItem from="1589102502908" duration="14042000" />
       <workItem from="1589275698512" duration="1379000" />
       <workItem from="1589379815862" duration="1630000" />
+      <workItem from="1589809175466" duration="116000" />
+      <workItem from="1589881642062" duration="4202000" />
+      <workItem from="1590311309535" duration="14000" />
+      <workItem from="1590389971344" duration="2036000" />
+      <workItem from="1590561219465" duration="2741000" />
+      <workItem from="1590584516784" duration="2236000" />
+      <workItem from="1591022365817" duration="1232000" />
+      <workItem from="1591084215185" duration="1272000" />
+      <workItem from="1591097365908" duration="3337000" />
+      <workItem from="1591707894307" duration="7086000" />
+      <workItem from="1591797023345" duration="673000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46458000" />
+    <option name="totallyTimeSpent" value="72499000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -766,9 +848,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1415" height="878" extended-state="6" />
+    <frame x="-7" y="-7" width="1414" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.21033211" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21491876" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.2494465" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -777,7 +860,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.424933" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2989276" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -898,160 +981,6 @@
     <state x="363" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1401.864@0.0.1401.864" timestamp="1579427825790" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/MultiThreadWithJoin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/MultiThreadExmpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/runnable_impl/NewThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/synchronized_callme/Callme.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/synchronized_callme/Caller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-          <folding>
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/synchronized_callme/SynchMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/racecondition_callme/SynchMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/racecondition_callme/Caller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/synchro_and_racecond/racecondition_callme/Callme.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/wait_notify/wrong/Producer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/wait_notify/wrong/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/wait_notify/wrong/EntryPoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/wait_notify/wrong/SimpleQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/Priority.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_231/src.zip!/java/text/DateFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6908">
-          <caret line="363" column="23" selection-start-line="363" selection-start-column="23" selection-end-line="363" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/wait_notify/MainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/wait_notify/correct/Producer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/wait_notify/correct/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/wait_notify/correct/EntryPoint.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/ChainOfResponsibility.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/Notifier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/SimpleReportNotifier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/patterns/behavioral/chain/EmailNotifier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -1123,31 +1052,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_231/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="609" column="16" selection-start-line="609" selection-start-column="16" selection-end-line="609" selection-end-column="16" />
-          <folding>
-            <element signature="e#21348#21349#0" expanded="true" />
-            <element signature="e#21388#21389#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/enumeration/Apple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/enumeration/AppleTestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_231/src.zip!/java/io/PrintStream.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/annotations/MyAnnotation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -1169,10 +1074,296 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MainTestClass.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/enumeration/FacultyType.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/enumeration/SubTypeEnum.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/enumeration/AppleTestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="679">
+          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/enumeration/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wildcards/TwoDim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wildcards/ThreeDim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wildcards/Coordinates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generics/simple_gen/Gen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generics/simple_gen/GenTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generics/simple_gen/GenMainDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="33" column="59" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+          <folding>
+            <element signature="e#393#401#0" expanded="true" />
+            <element signature="e#649#666#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generics/restrictions_by_type/Stats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generics/restrictions_by_type/StatsMainDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="e#215#224#0" expanded="true" />
+            <element signature="e#471#479#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wildcards/FourDim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wildcards/BoundedWildCards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-179">
+          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/MethodReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generics/super_and_sub_classes/HierarchyMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generics/super_and_sub_classes/GenericSub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generics/super_and_sub_classes/GenericSuper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_251/src.zip!/java/util/StringJoiner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="207" column="24" selection-start-line="207" selection-start-column="24" selection-end-line="207" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_251/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2651">
+          <caret line="99" column="21" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="21" />
+          <folding>
+            <element signature="e#2871#2872#0" expanded="true" />
+            <element signature="e#2896#2897#0" expanded="true" />
+            <element signature="e#4161#4162#0" expanded="true" />
+            <element signature="e#4211#4212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/strings/FormatExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/single_line_lambda/FuncInterNumeric.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="29" />
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/single_line_lambda/NumericFuncInterMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/strings/StringBuilderAndBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_251/src.zip!/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="74" column="23" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
+          <folding>
+            <element signature="e#2712#2713#0" expanded="true" />
+            <element signature="e#2785#2786#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/string_reverse_order/StringFunc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_251/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="655" column="16" selection-start-line="655" selection-start-column="16" selection-end-line="655" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/strings/StringJoinerExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="80" selection-start-line="7" selection-start-column="80" selection-end-line="7" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MainTestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/generic_fi/GenericFunctionalInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="48" lean-forward="true" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/string_reverse_order/ReverseOrderMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/generic_fi/GenFuncMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/lambda_as_argument/LambdaSimple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/lambda_as_argument/LambdaSimpleMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/with_exeption/DoubleFuncInter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/with_exeption/CustomException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding>
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lambda/with_exeption/LambExceptDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
         </state>
       </provider>
     </entry>

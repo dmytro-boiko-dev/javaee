@@ -2,18 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../Python_Core/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_Core/machine_learning/ad_conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_Core/machine_learning/data/ad_conversion.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/generics/restrictions_by_type/Stats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/generics/restrictions_by_type/StatsMainDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/generics/simple_gen/Gen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/generics/simple_gen/GenMainDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/generics/simple_gen/GenTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/generics/super_and_sub_classes/GenericSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/generics/super_and_sub_classes/GenericSuper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/generics/super_and_sub_classes/HierarchyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/lambda/single_line_lambda/FuncInterNumeric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/lambda/single_line_lambda/NumericFuncInterMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/strings/FormatExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/strings/StringJoinerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/wildcards/BoundedWildCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/wildcards/Coordinates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/wildcards/FourDim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/wildcards/ThreeDim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/wildcards/TwoDim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson7/HWCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/lesson7/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/oop/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/oop/BoxMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaForKids/src/javateam4/oop/ColorBox.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Core/src/main/java/MainTestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/MainTestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/java8/Lambdas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/lambda/MethodReference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/strings/StringBuilderAndBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/strings/StringBuilderAndBuffer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Core/target/classes/MainTestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/target/classes/MainTestClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GameFX/src/gamefx/SnakeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameFX/src/gamefx/SnakeMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GameFX/src/gamefx/objects/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameFX/src/gamefx/objects/Apple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GameFX/src/gamefx/objects/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameFX/src/gamefx/objects/Snake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python_Core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Core/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/java8/Lambdas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/strings/StringBuilderAndBuffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/target/classes/strings/StringBuilderAndBuffer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/META-INF/JavaForKids.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/MainClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson4/SwitchExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson4/SwitchExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaForKids/src/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/build/classes/java/main/com/restapimysql/EntryPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/build/classes/java/main/com/restapimysql/EntryPoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/build/classes/java/main/com/restapimysql/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/build/classes/java/main/com/restapimysql/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/build/classes/java/main/com/restapimysql/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/build/classes/java/main/com/restapimysql/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/build/classes/java/main/com/restapimysql/entity/request/UserVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/build/classes/java/main/com/restapimysql/entity/request/UserVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/src/main/java/com/restapimysql/EntryPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/src/main/java/com/restapimysql/EntryPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/src/main/java/com/restapimysql/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/src/main/java/com/restapimysql/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/src/main/java/com/restapimysql/entity/request/UserVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/src/main/java/com/restapimysql/entity/request/UserVO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SnakeFX/com/snakefx/SnakeFXMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SnakeFX/com/snakefx/SnakeFXMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/snakefx/SnakeFXMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/snakefx/SnakeFXMain.java" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,8 +104,46 @@
     <ui_properties converted="true" />
     <breakpoint_rules converted="true" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/snakefx/SnakeFXMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="79" column="21" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/snakefx/objects/Snake.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="36" column="62" selection-start-line="36" selection-start-column="62" selection-end-line="36" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/snakefx/objects/Apple.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -69,6 +151,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>if(snakeY[0]</find>
+    </findStrings>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -78,11 +165,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/snakefx/SnakeFXMain.java" />
+      </list>
+    </option>
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1614" />
+    <option name="height" value="878" />
+  </component>
   <component name="ProjectId" id="1Wbq2igK2X6SUfB9BuLAlDI65fv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -97,6 +203,7 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="OverrideImplement.combined" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="false" />
@@ -108,14 +215,21 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Application.SnakeFXMain">
-    <configuration default="true" type="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -127,6 +241,12 @@
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="sample.Main" />
@@ -238,8 +358,48 @@
       <workItem from="1585126350189" duration="3090000" />
       <workItem from="1585472392265" duration="63000" />
       <workItem from="1585474958999" duration="4719000" />
+      <workItem from="1591517519533" duration="7493000" />
+      <workItem from="1591683575203" duration="27000" />
     </task>
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7520000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1414" height="878" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24963072" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3297587" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -257,5 +417,31 @@
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/snakefx/SnakeFXMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="79" column="21" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/snakefx/objects/Snake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="36" column="62" selection-start-line="36" selection-start-column="62" selection-end-line="36" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/snakefx/objects/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

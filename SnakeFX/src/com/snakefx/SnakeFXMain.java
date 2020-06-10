@@ -29,15 +29,15 @@ public class SnakeFXMain extends JPanel implements ActionListener {
     }
 
     public void paint(Graphics g) {
-        g.setColor(Color.BLACK);
+        g.setColor(Color.WHITE);
         g.fillRect(0, 0, WIDTH * SCALE, HEIGHT * SCALE);
 
         for (int x = 0; x < WIDTH * SCALE; x = x + SCALE) {
-            g.setColor(Color.WHITE);
+            g.setColor(Color.BLACK);
             g.drawLine(x, 0, x, HEIGHT * SCALE);
         }
         for (int y = 0; y < HEIGHT * SCALE; y = y + SCALE) {
-            g.setColor(Color.WHITE);
+            g.setColor(Color.BLACK);
             g.drawLine(0, y, WIDTH * SCALE, y);
         }
 
@@ -48,7 +48,7 @@ public class SnakeFXMain extends JPanel implements ActionListener {
             g.setColor(Color.GREEN);
             g.fillRect(s.snakeX[l] * SCALE + 3, s.snakeY[l] * SCALE + 1, SCALE - 6, SCALE - 6);
 
-            g.setColor(Color.WHITE);
+            g.setColor(Color.GRAY);
             g.fillRect(s.snakeX[0] * SCALE + 3, s.snakeY[0] * SCALE + 1, SCALE - 6, SCALE - 6);
         }
     }
