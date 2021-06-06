@@ -1,51 +1,105 @@
 package arrays;
 
 import java.security.SecureRandom;
+import java.util.Scanner;
 
 public class RandomFrequency {
-    public static void main(String... args) {
 
-//        SecureRandom random = new SecureRandom();
-//        int[] frequency = new int[7];
-//        for (int i = 0; i < 1000; i++) {
-//            ++frequency[1 + random.nextInt(6)];
-//        }
+    //Смена цвета
+    public static final String reset_color = "\u001B[0m";
+    public static final String red_color = "\u001B[31m";
+    public static final String blue_color = "\u001B[34m";
+    public static final String cyan_color = "\u001B[36m";
 
-//        for (int i = 1; i < frequency.length; i++) {
-//            System.out.println(frequency[i]);
-//        }
+    public static void main(String[] args) {
+        //Task 4
+        // Ввод размера матрицы
+        boolean rightInput;//Проверка на ввод данных
+        String tempAnswer;//Временный ответ для цикла
+        Scanner scanner = new Scanner(System.in);
+        Scanner scanner1 = new Scanner(System.in);
+        do {
+            int n = 0;
+            int m = 0;
+            do {
+                System.out.println("Введите кол-во строк матрицы : ");
+                rightInput = scanner.hasNextInt();
+                if (rightInput) {
+                    n = scanner.nextInt();
+                } else {
+                    System.out.println(red_color + "\tОшибка! " +
+                            "\n\tНужно ввести числа!!!" +
+                            "\n\tПопробуйте еще раз" + reset_color);
+                }
+                if (n < 0 || n > 10 ) {
+                    System.out.println(red_color + "\tОшибка! " +
+                            "\n\tЧисла не соответствуют диапазону от 0 до 10!!!" +
+                            "\n\tПопробуйте еще раз" + reset_color);
+                }
+                scanner.nextLine();
+            } while (!rightInput || n < 0 || n > 10 );
 
-        getArrayValues();
-        System.out.println("------------------");
-        setArrayValues();
+            do {
+                System.out.println("Введите кол-во столбцов матрицы : ");
+                rightInput = scanner.hasNextInt();
+                if (rightInput) {
+                    m = scanner.nextInt();
+                } else {
+                    System.out.println(red_color + "\tОшибка! " +
+                            "\n\tНужно ввести числа!!!" +
+                            "\n\tПопробуйте еще раз" + reset_color);
+                }
+                if ( m < 0 || m > 10) {
+                    System.out.println(red_color + "\tОшибка! " +
+                            "\n\tЧисла не соответствуют диапазону от 0 до 10!!!" +
+                            "\n\tПопробуйте еще раз" + reset_color);
+                }
+                scanner.nextLine();
+            } while (!rightInput || m < 0 || m > 10);
+
+            int[][] matrix1 = new int[n][m];
+            int[][] matrix2 = new int[m][n];
+
+            //Генерация случайных чисел в матрицу
+            for (int i = 0; i < matrix1.length; i++) {
+                for (int j = 0; j < matrix1[i].length; j++) {
+                    matrix1[i][j] = (int) (Math.random() * 10);
+                }
+            }
+
+            // Вывод первоначальной матрицы
+            System.out.println("\nВаша матрица : ");
+            printMatrix(matrix1);
+
+            // Транспонирование матрицы
+            transposMatrix(matrix1, matrix2);
+            //Вывод транспонированной матрицы
+            System.out.println("\nТранспонированная матрица : ");
+            printMatrix(matrix2);
+
+            System.out.println("\n\tХотите попробовать еще раз?" + blue_color + " Да/Нет" + reset_color);
+            tempAnswer = scanner1.nextLine();
+
+        } while (tempAnswer.equals("Да"));
     }
 
-    private static void getArrayValues(){
-        int[][] array = {{1,3},{5,2,14},{8,1,5,4},{3,2,1}};
+    public static void printMatrix(int[][] array) {
 
-        for(int i = 0; i < array.length; i++){
-            for(int j = 0; j < array[i].length; j++){
-                System.out.print(array[i][j] + " ");
+        for (int i = 0; i < array.length ; i++) {
+            for (int j = 0; j < array[i].length; j++) {
+                System.out.print(cyan_color + array[i][j] + " " + reset_color);
             }
             System.out.println();
         }
     }
 
+    public static void transposMatrix(int[][] array1, int[][] array2) {
 
-    private static void setArrayValues(){
-        int[][] a = new int[5][5];
-
-        for(int i = 0; i < a.length; i++){
-            for(int j = 0; j < a[i].length; j++){
-
-                SecureRandom random = new SecureRandom();
-                int r = random.nextInt(9);    // create random number from 0 to 8
-                a[i][j] = r;                         // write random number to the 'j' element of 'i' array
-                System.out.print(a[i][j] + " ");
+        for (int i = 0; i < array2.length ; i++) {
+            for (int j = 0; j < array2[i].length; j++) {
+                array2[i][j] = array1[j][i];
             }
-            System.out.println();
         }
     }
-
 
 }

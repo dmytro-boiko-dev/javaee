@@ -1,12 +1,158 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cae8980e-ece4-4a1f-bc29-e0fe46c2e428" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Core/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/access_modifiers/package_one/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/access_modifiers/package_one/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/access_modifiers/package_two/ClassC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/access_modifiers/package_two/ClassSubA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/arrays/MatrixExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/collections/simple_examples/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/collections/simple_examples/LinkedListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/collections/simple_examples/SetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/convertors/FIleToByteArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/hw_eleven/alexey_hw/Fitness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/hw_eleven/alexey_hw/FitnessMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/hw_eleven/anna_hw/Fitness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/hw_eleven/anna_hw/FitnessMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/hw_eleven/oleg_hw/FitnessTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/hw_eleven/oleg_hw/FitnessTrackerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/hw_eleven/pavel_hw/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/hw_eleven/pavel_hw/NewAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/hw_thirteen/alexey/Drinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/hw_thirteen/alexey/DrinksMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/hw_thirteen/alexey/DrinksMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/hw_thirteen/anna/Drinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/hw_thirteen/anna/DrinksMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/hw_thirteen/anna/DrinksMachineMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/hw_thirteen/anna/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/hw_thirteen/pavel/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/j1_hw/drinks/alex/DrinkMachines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/j1_hw/drinks/alex/Price.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/j1_hw/drinks/alex_gal/Drinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/j1_hw/drinks/alex_gal/DrinksMaсhine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/j1_hw/drinks/dmitry/Colors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/j1_hw/drinks/dmitry/DrinkMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/j1_hw/drinks/dmitry/Drinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/j1_hw/drinks/dmitry/Receipt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/j1_hw/drinks/nikita/CountOfDrinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/j1_hw/drinks/nikita/DrinkMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/j1_hw/drinks/nikita/Drinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/j1_hw/drinks/nikita/MainDrinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/j1_hw/drinks/nikita/MakeDrinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/j1_hw/drinks/vlad/Drinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/j1_hw/drinks/vlad/DrinksMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/j1_hw/testing/FitnessTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/j1_hw/testing/dmitry/QuatroMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/j1_hw/testing/dmitry/QuatroMatrixTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/j1_hw/testing/nikita/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/j1_hw/testing/nikita/MatrixTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/j1_hw/testing/vlad/Matrix2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/j1_hw/testing/vlad/MatrixTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/j2_hw/kostya/drinks/Drinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/j2_hw/kostya/drinks/DrinksMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hw_check/j2_hw/kostya/drinks/DrinksMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/example_on_inherritance/MainRobots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/example_on_inherritance/Robots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/example_on_inherritance/WorkerRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/simple_example/LoadRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/simple_example/MainRobotics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/simple_example/Robotics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/simple_example/TransformerRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/simple_example/Vehicles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/simple_example/WarriorRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/lambda/method_reference/difficult_mr/FuncInter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/lambda/method_reference/difficult_mr/HighTemp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/lambda/method_reference/difficult_mr/HighTempDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/lambda/use_built_in_functional_inter/UseFunctionalInterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/lesson2/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/lesson2/Mathematics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/oop/polymorphism/bakers/Baker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/oop/polymorphism/bakers/BreadBaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/oop/polymorphism/bakers/DonutBaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/oop/polymorphism/bakers/MainBakers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/processes/ExecuteExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/static_non_static/Gold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/static_non_static/GoldMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/strings/EqualsVsDoubleEqualSighs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/system_methods/ArrayCopyExmpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/system_methods/SystemPropertiesExmpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/time/SimpleTimeCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hiltest/FindName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hiltest/RegistrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.idea/RESTApiMySQLAndTests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/MainTestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/MainTestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/MainTestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/target/classes/MainTestClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/multithreading/CallableWithStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/target/classes/multithreading/CallableWithStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/MainTestClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/algorithms/sorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/algorithms/sorting/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/arrays/RandomFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/arrays/RandomFrequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/constructors/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/constructors/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/constructors/BoxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/constructors/BoxTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/games/IrregularVerbs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/games/IrregularVerbs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/lambda/MethodReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/lambda/method_reference/simple_mr/MethodReference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/nio/IOMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/nio/IOMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/resources/files/verbs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/resources/verbs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/META-INF/core.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/MainTestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/algorithms/sorting/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/target/classes/algorithms/sorting/InsertionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/arrays/RandomFrequency.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/target/classes/arrays/RandomFrequency.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/constructors/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/target/classes/constructors/Box.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/constructors/OverloadCons2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/files/verbs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/games/IrregularVerbs.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/target/classes/games/IrregularVerbs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/lambda/MethodReference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/lambda/with_exeption/CustomException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/target/classes/lambda/with_exeption/CustomException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/lambda/with_exeption/LambExceptDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/target/classes/lambda/with_exeption/LambExceptDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/nio/IOMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/target/classes/nio/IOMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/core-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/surefire-reports/ConcatTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/surefire-reports/TEST-ConcatTest.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SearchBookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SearchBookTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SearchBookTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SearchBookTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam3/lesson7/ArraysMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam3/oop/boxes/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam3/oop/boxes/BoxColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam3/oop/boxes/BoxMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson2/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson2/MyCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson3/Airplane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson3/Cats.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson3/Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson3/Stadium.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson4/InputMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson4/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson4/SwitchExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson7/HWCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson7/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/oop/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/oop/BoxMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/oop/ColorBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaForKids/src/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/build/tmp/bootWar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/build/tmp/bootWar/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiProject/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiProject/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiProject/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiProject/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiProject/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiProject/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiProject/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiProject/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SnakeFX/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SnakeFX/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SnakeFX/out/production/SnakeFX/com/snakefx/SnakeFXMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SnakeFX/out/production/SnakeFX/com/snakefx/SnakeFXMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SnakeFX/src/com/snakefx/SnakeFXMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SnakeFX/src/com/snakefx/SnakeFXMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +162,7 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="ExportTestResults" outputFolder="D:/results" userTempatePath="" />
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$/../../../results" userTempatePath="" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -27,18 +173,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\Dmitry Boiko\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\202.7319.50\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectId" id="1Uh1jRo5gwqNfEkNE2G0AYit98S" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -57,44 +205,72 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="JUnit.TestSuite">
-    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainTest" />
+  <component name="RunManager" selected="JUnit.FindName.firstTest">
+    <configuration name="FindName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HillelAutotest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.hillel.autotest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hiltest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hiltest" />
+      <option name="MAIN_CLASS_NAME" value="hiltest.FindName" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchBookTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FindName.firstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HillelAutotest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SearchBookTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SearchBookTest.textBookSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HillelAutotest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SearchBookTest" />
-      <option name="METHOD_NAME" value="textBookSearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hiltest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hiltest" />
+      <option name="MAIN_CLASS_NAME" value="hiltest.FindName" />
+      <option name="METHOD_NAME" value="firstTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FindName.registration" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HillelAutotest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hiltest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hiltest" />
+      <option name="MAIN_CLASS_NAME" value="hiltest.FindName" />
+      <option name="METHOD_NAME" value="registration" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationTest.loginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HillelAutotest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hiltest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hiltest" />
+      <option name="MAIN_CLASS_NAME" value="hiltest.RegistrationTest" />
+      <option name="METHOD_NAME" value="loginTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuite (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.hillel.autotest" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestSuite" />
       <option name="TEST_OBJECT" value="class" />
@@ -104,26 +280,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestSuite" />
-        <item itemvalue="JUnit.SearchBookTest" />
-        <item itemvalue="JUnit.LoginTest" />
-        <item itemvalue="JUnit.SearchBookTest.textBookSearch" />
-        <item itemvalue="Application.MainTest" />
+        <item itemvalue="JUnit.FindName.firstTest" />
+        <item itemvalue="JUnit.FindName.registration" />
+        <item itemvalue="JUnit.FindName" />
+        <item itemvalue="JUnit.RegistrationTest.loginTest" />
+        <item itemvalue="JUnit.TestSuite (1)" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -142,44 +307,31 @@
       <workItem from="1577813910323" duration="641000" />
       <workItem from="1580210338400" duration="621000" />
       <workItem from="1582110433019" duration="648000" />
+      <workItem from="1595442056733" duration="715000" />
+      <workItem from="1610382725747" duration="4564000" />
+      <workItem from="1610441522059" duration="22000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2163" y="53" key="#Autotest" timestamp="1575798685790">
-      <screen x="1920" y="0" width="1280" height="770" />
+    <state width="1357" height="239" key="GridCell.Tab.0.bottom" timestamp="1610394339699">
+      <screen x="0" y="0" width="1400" height="864" />
     </state>
-    <state x="2163" y="53" key="#Autotest/0.0.1401.864/1920.0.1280.770@1920.0.1280.770" timestamp="1575798685790" />
-    <state x="481" y="190" key="FileChooserDialogImpl" timestamp="1575799235018">
-      <screen x="0" y="0" width="1401" height="864" />
+    <state width="1357" height="239" key="GridCell.Tab.0.bottom/0.0.1400.864@0.0.1400.864" timestamp="1610394339699" />
+    <state width="1357" height="239" key="GridCell.Tab.0.center" timestamp="1610394339699">
+      <screen x="0" y="0" width="1400" height="864" />
     </state>
-    <state x="481" y="190" key="FileChooserDialogImpl/0.0.1401.864@0.0.1401.864" timestamp="1575799235018" />
-    <state width="1358" height="296" key="GridCell.Tab.0.bottom" timestamp="1582116753348">
-      <screen x="0" y="0" width="1401" height="864" />
+    <state width="1357" height="239" key="GridCell.Tab.0.center/0.0.1400.864@0.0.1400.864" timestamp="1610394339699" />
+    <state width="1357" height="239" key="GridCell.Tab.0.left" timestamp="1610394339699">
+      <screen x="0" y="0" width="1400" height="864" />
     </state>
-    <state width="1358" height="296" key="GridCell.Tab.0.bottom/0.0.1401.864@0.0.1401.864" timestamp="1582116753348" />
-    <state width="1358" height="296" key="GridCell.Tab.0.center" timestamp="1582116753348">
-      <screen x="0" y="0" width="1401" height="864" />
+    <state width="1357" height="239" key="GridCell.Tab.0.left/0.0.1400.864@0.0.1400.864" timestamp="1610394339699" />
+    <state width="1357" height="239" key="GridCell.Tab.0.right" timestamp="1610394339699">
+      <screen x="0" y="0" width="1400" height="864" />
     </state>
-    <state width="1358" height="296" key="GridCell.Tab.0.center/0.0.1401.864@0.0.1401.864" timestamp="1582116753348" />
-    <state width="1358" height="296" key="GridCell.Tab.0.left" timestamp="1582116753348">
-      <screen x="0" y="0" width="1401" height="864" />
-    </state>
-    <state width="1358" height="296" key="GridCell.Tab.0.left/0.0.1401.864@0.0.1401.864" timestamp="1582116753348" />
-    <state width="1358" height="296" key="GridCell.Tab.0.right" timestamp="1582116753348">
-      <screen x="0" y="0" width="1401" height="864" />
-    </state>
-    <state width="1358" height="296" key="GridCell.Tab.0.right/0.0.1401.864@0.0.1401.864" timestamp="1582116753348" />
-    <state x="2063" y="30" key="SettingsEditor" timestamp="1575796047084">
-      <screen x="1920" y="0" width="1280" height="770" />
-    </state>
-    <state x="2063" y="30" key="SettingsEditor/0.0.1401.864/1920.0.1280.770@1920.0.1280.770" timestamp="1575796047084" />
-    <state x="409" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1580210354546">
-      <screen x="0" y="0" width="1401" height="864" />
-    </state>
-    <state x="409" y="259" key="com.intellij.ide.util.TipDialog/0.0.1401.864@0.0.1401.864" timestamp="1580210354546" />
+    <state width="1357" height="239" key="GridCell.Tab.0.right/0.0.1400.864@0.0.1400.864" timestamp="1610394339699" />
   </component>
 </project>

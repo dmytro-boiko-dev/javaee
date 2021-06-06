@@ -46,10 +46,10 @@ public class SnakeFXMain extends JPanel implements ActionListener {
 
         for (int l = 0; l < s.length; l++) {
             g.setColor(Color.GREEN);
-            g.fillRect(s.snakeX[l] * SCALE + 3, s.snakeY[l] * SCALE + 1, SCALE - 6, SCALE - 6);
+            g.fillRect(s.snakeX[l] * SCALE + 2, s.snakeY[l] * SCALE + 2, SCALE - 3, SCALE - 3);
 
             g.setColor(Color.GRAY);
-            g.fillRect(s.snakeX[0] * SCALE + 3, s.snakeY[0] * SCALE + 1, SCALE - 6, SCALE - 6);
+            g.fillRect(s.snakeX[0] * SCALE + 2, s.snakeY[0] * SCALE + 2, SCALE - 3, SCALE - 3);
         }
     }
 

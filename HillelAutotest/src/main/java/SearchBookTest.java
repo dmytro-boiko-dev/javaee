@@ -3,6 +3,7 @@ import org.junit.Before;
 import org.junit.Test;
 import org.junit.After;
 import org.openqa.selenium.By;
+import org.openqa.selenium.Dimension;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -17,7 +18,7 @@ public class SearchBookTest {
         driver = new ChromeDriver();
         System.out.println("Created driver;");
 
-//        driver.manage().window().setSize(new Dimension(1024,768));
+        driver.manage().window().setSize(new Dimension(1024,768));
 
         driver.get("http://it-ebooks.info/");
         driver.manage().window().maximize();

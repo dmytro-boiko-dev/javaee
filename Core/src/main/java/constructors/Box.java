@@ -22,7 +22,6 @@ class Box {
         width = -1;
         height = -1;
         depth = -1;
-
     }
 
     Box(double len) {
@@ -30,8 +29,6 @@ class Box {
     }
 
     double volume() {
-
         return width * height * depth;
-
     }
 }

@@ -12,7 +12,7 @@ public class IOMain {
     public static void main(String[] args) throws IOException {
 
         String dataToWrite = "Hello, プログラマー !";
-        readFile(dataToWrite);
+        writeFile(dataToWrite);
 
         BufferedReader reader = new BufferedReader(new FileReader(FILE_NAME));
         String dataToRead;
@@ -21,7 +21,7 @@ public class IOMain {
         }
     }
 
-    private static void readFile(String data) throws IOException {
+    private static void writeFile(String data) throws IOException {
         try (FileWriter writer = new FileWriter(FILE_NAME)) {
             writer.write(data);
         }

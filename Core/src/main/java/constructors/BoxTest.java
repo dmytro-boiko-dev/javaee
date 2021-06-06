@@ -1,6 +1,6 @@
 package constructors;
 
-class OverloadCons2 {
+class BoxTest {
     public static void main(String args[]) {
 
         // создать параллелепипеды, используя

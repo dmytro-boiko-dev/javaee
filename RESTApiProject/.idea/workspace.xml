@@ -1,102 +1,183 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a1f17416-aa65-469c-adf0-3cb73f7f0b5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/access_modifiers/package_one/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/access_modifiers/package_one/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/access_modifiers/package_two/ClassC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/access_modifiers/package_two/ClassSubA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/arrays/MatrixExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/collections/simple_examples/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/collections/simple_examples/LinkedListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/collections/simple_examples/SetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/convertors/FIleToByteArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_int/lesson3/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_int/lesson3/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j1_hw/drinks/alex/DrinkMachines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j1_hw/drinks/alex/Price.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j1_hw/drinks/alex_gal/Drinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j1_hw/drinks/alex_gal/DrinksMaсhine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j1_hw/drinks/dmitry/Colors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j1_hw/drinks/dmitry/DrinkMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j1_hw/drinks/dmitry/Drinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j1_hw/drinks/dmitry/Receipt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j1_hw/drinks/nikita/CountOfDrinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j1_hw/drinks/nikita/DrinkMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j1_hw/drinks/nikita/Drinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j1_hw/drinks/nikita/MainDrinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j1_hw/drinks/nikita/MakeDrinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j1_hw/drinks/vlad/Drinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j1_hw/drinks/vlad/DrinksMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j1_hw/testing/FitnessTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j1_hw/testing/dmitry/QuatroMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j1_hw/testing/dmitry/QuatroMatrixTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j1_hw/testing/nikita/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j1_hw/testing/nikita/MatrixTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j1_hw/testing/vlad/Matrix2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j1_hw/testing/vlad/MatrixTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j2_hw/hw_eleven/alexey_hw/Fitness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j2_hw/hw_eleven/alexey_hw/FitnessMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j2_hw/hw_eleven/anna_hw/Fitness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j2_hw/hw_eleven/anna_hw/FitnessMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j2_hw/hw_eleven/oleg_hw/FitnessTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j2_hw/hw_eleven/oleg_hw/FitnessTrackerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j2_hw/hw_eleven/pavel_hw/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j2_hw/hw_eleven/pavel_hw/NewAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j2_hw/hw_thirteen/alexey/Drinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j2_hw/hw_thirteen/alexey/DrinksMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j2_hw/hw_thirteen/alexey/DrinksMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j2_hw/hw_thirteen/anna/Drinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j2_hw/hw_thirteen/anna/DrinksMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j2_hw/hw_thirteen/anna/DrinksMachineMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j2_hw/hw_thirteen/anna/drinks_task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j2_hw/hw_thirteen/pavel/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j2_hw/kostya/drinks/Drinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j2_hw/kostya/drinks/DrinksMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j2_hw/kostya/drinks/DrinksMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j3_hw/hw11/AlexR/FitnessTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j3_hw/hw11/AlexR/FitnessTrackerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j3_hw/hw11/AlexR/Person11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j3_hw/hw11/AlexR/PersonMain11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j3_hw/hw11/Artem/FitnessTrack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j3_hw/hw11/Artem/MainFitnessTrack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j3_hw/hw11/Artem/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j3_hw/hw11/Artem/PersonMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j3_hw/hw11/Rodion/Fitness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j3_hw/hw11/Rodion/Gym.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j3_hw/hw11/Sergey/Lorries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j3_hw/hw11/Sergey/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j3_hw/hw11/Sergey/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j3_hw/hw13/anna/Choice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j3_hw/hw13/anna/Drinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j3_hw/hw13/anna/DrinksMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j3_hw/hw13/sergey/Drinks2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j3_hw/hw13/sergey/DrinksMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j3_hw/hw13/sergey/DrinksPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j3_hw/hw13/vlad/Drinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/hillel/java_vvp/hw_check/j3_hw/hw4/MainCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/example_on_inherritance/MainRobots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/example_on_inherritance/Robots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/example_on_inherritance/WorkerRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/simple_example/LoadRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/simple_example/MainRobotics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/simple_example/Robotics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/simple_example/TransformerRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/simple_example/Vehicles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/simple_example/WarriorRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/lambda/method_reference/difficult_mr/FuncInter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/lambda/method_reference/difficult_mr/HighTemp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/lambda/method_reference/difficult_mr/HighTempDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/lambda/use_built_in_functional_inter/UseFunctionalInterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/oop/polymorphism/bakers/Baker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/oop/polymorphism/bakers/BreadBaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/oop/polymorphism/bakers/DonutBaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/oop/polymorphism/bakers/MainBakers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/processes/ExecuteExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/static_non_static/Gold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/static_non_static/GoldMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/strings/EqualsVsDoubleEqualSighs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/system_methods/ArrayCopyExmpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/system_methods/SystemPropertiesExmpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Core/src/main/java/time/SimpleTimeCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HillelAutotest/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HillelAutotest/src/main/java/hiltest/FindName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HillelAutotest/src/main/java/hiltest/RegistrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.idea/RESTApiMySQLAndTests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/MainTestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/MainTestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/StaticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/StaticTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/StringBuilderAndBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/strings/StringBuilderAndBuffer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/Casting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/SizeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/SizeEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/arrays/RandomFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/arrays/RandomFrequency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/arrays/TwoDimArrayForEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/arrays/TwoDimArrayForEach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/arrays/VarArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/arrays/VarArgs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/collections/CollectionsMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/collections/CollectionsMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/collections/LinkedListIteratorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/collections/LinkedListIteratorExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/inheritance/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/inheritance/Auto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/inheritance/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/inheritance/Bus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/inheritance/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/inheritance/ElectricCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/inheritance/FuelCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/inheritance/FuelCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/inheritance/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/inheritance/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/innerclasses/CellPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/innerclasses/CellPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/innerclasses/Display.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/innerclasses/Display.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/innerclasses/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/innerclasses/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/innerclasses/RadioModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/innerclasses/RadioModule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/interfaces/CellPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/CellPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/interfaces/Deliverable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/Deliverable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/interfaces/Electroics.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/Electroics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/interfaces/Fridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/Fridge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/interfaces/InterfacesMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/InterfacesMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/interfaces/Orderable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/Orderable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/interfaces/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/Pizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/interfaces/Priceable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/Priceable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/interfaces/Size.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/interfaces/Size.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/methods/Dragon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/methods/Dragon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/methods/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/methods/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/multithreading/Deadlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/multithreading/Deadlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/multithreading/SynchronizedBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/multithreading/SynchronizedBuffer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/udemy1/nio/NioMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/nio/NioMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/MainTestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/target/classes/MainTestClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/StaticTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/target/classes/StaticTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/StringBuilderAndBuffer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/Casting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/SizeEnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/arrays/RandomFrequency.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/arrays/TwoDimArrayForEach.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/arrays/VarArgs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/collections/CollectionsMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/collections/LinkedListIteratorExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/inheritance/Auto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/inheritance/Bus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/inheritance/ElectricCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/inheritance/FuelCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/inheritance/MainClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/innerclasses/CellPhone$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/innerclasses/CellPhone$AbstractPhoneButton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/innerclasses/CellPhone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/innerclasses/Display$Color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/innerclasses/Display$Pixel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/innerclasses/Display.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/innerclasses/MainClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/innerclasses/RadioModule$1GSMModule.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/innerclasses/RadioModule.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/interfaces/CellPhone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/interfaces/Deliverable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/interfaces/Electroics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/interfaces/Fridge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/interfaces/InterfacesMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/interfaces/Orderable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/interfaces/Pizza.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/interfaces/Priceable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/interfaces/Size.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/methods/Dragon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/methods/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/multithreading/Deadlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/multithreading/SynchronizedBuffer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core/target/classes/udemy1/nio/NioMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HillelAutotest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HillelAutotest/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/MainTestClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/algorithms/sorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/algorithms/sorting/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/arrays/RandomFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/arrays/RandomFrequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/constructors/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/constructors/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/constructors/BoxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/constructors/BoxTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/games/IrregularVerbs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/games/IrregularVerbs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/lambda/MethodReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/lambda/method_reference/simple_mr/MethodReference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/java/nio/IOMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/java/nio/IOMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/src/main/resources/files/verbs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/src/main/resources/verbs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/META-INF/core.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/MainTestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/algorithms/sorting/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/target/classes/algorithms/sorting/InsertionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/arrays/RandomFrequency.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/target/classes/arrays/RandomFrequency.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/constructors/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/target/classes/constructors/Box.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/constructors/OverloadCons2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/files/verbs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/games/IrregularVerbs.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/target/classes/games/IrregularVerbs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/lambda/MethodReference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/lambda/with_exeption/CustomException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/target/classes/lambda/with_exeption/CustomException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/lambda/with_exeption/LambExceptDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/target/classes/lambda/with_exeption/LambExceptDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/classes/nio/IOMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Core/target/classes/nio/IOMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/core-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/surefire-reports/ConcatTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core/target/surefire-reports/TEST-ConcatTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HillelAutotest/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HillelAutotest/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HillelAutotest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HillelAutotest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HillelAutotest/src/main/java/Autotest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HillelAutotest/src/main/java/Autotest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileContent/fileContent.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/javaCompile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HillelAutotest/src/main/java/SearchBookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HillelAutotest/src/main/java/SearchBookTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HillelAutotest/src/main/java/TestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HillelAutotest/src/main/java/TestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HillelAutotest/target/classes/SearchBookTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HillelAutotest/target/classes/SearchBookTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam3/lesson7/ArraysMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam3/oop/boxes/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam3/oop/boxes/BoxColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam3/oop/boxes/BoxMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson2/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson2/MyCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson3/Airplane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson3/Cats.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson3/Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson3/Stadium.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson4/InputMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson4/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson4/SwitchExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson7/HWCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/lesson7/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/oop/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/oop/BoxMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/out/production/JavaForKids/javateam4/oop/ColorBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaForKids/src/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaForKids/src/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RESTApiMySQLAndTests/build/tmp/bootWar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../RESTApiMySQLAndTests/build/tmp/bootWar/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fwqa/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fwqa/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fwqa/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fwqa/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fwqa/common/common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../fwqa/common/common.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fwqa/inspections/inspections.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../fwqa/inspections/inspections.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fwqa/workshop/workshop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../fwqa/workshop/workshop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SnakeFX/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SnakeFX/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SnakeFX/out/production/SnakeFX/com/snakefx/SnakeFXMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SnakeFX/out/production/SnakeFX/com/snakefx/SnakeFXMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SnakeFX/src/com/snakefx/SnakeFXMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SnakeFX/src/com/snakefx/SnakeFXMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +193,26 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="com.restapiproject.example" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -124,10 +225,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
   <component name="ProjectId" id="1UnDBioSWsXfxTt4fCTSpNwDRfA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -135,6 +238,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -150,7 +254,7 @@
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -174,7 +278,9 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
     <configuration name="VehicleQueryTest.testGetVehicle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -194,7 +300,9 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
     <configuration name="EntryPoint" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -211,18 +319,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -240,6 +337,12 @@
       <workItem from="1575983334448" duration="351000" />
       <workItem from="1576064115632" duration="108000" />
       <workItem from="1576067681796" duration="233000" />
+      <workItem from="1602402288901" duration="2184000" />
+      <workItem from="1602423819205" duration="14000" />
+      <workItem from="1615114632615" duration="1499000" />
+      <workItem from="1618825854946" duration="620000" />
+      <workItem from="1618826498829" duration="3666000" />
+      <workItem from="1619511716101" duration="42000" />
     </task>
     <task id="LOCAL-00001" summary="fixed readme">
       <created>1570451361503</created>
@@ -278,7 +381,7 @@
     </history-entry>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixed readme" />
